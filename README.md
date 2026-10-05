@@ -1,60 +1,60 @@
 # Japan-IPTV-EPG
 
-日本向け IPTV 用の自動生成 EPG（XMLTV）公開リポジトリです。
+This repository publishes automatically generated EPG data (XMLTV) for Japanese IPTV use.
 
-生成プログラム本体は別リポジトリ `Japan-IPTV-EPG-Generator` で管理し、このリポジトリには検証を通過した生成物だけを公開します。
+The generator itself is maintained separately in the `Japan-IPTV-EPG-Generator` repository. Only generated files that pass validation are published here.
 
-## 完成版 guides.xml
+## Complete guides.xml
 
 ```text
 https://raw.githubusercontent.com/Thibi-kuro-Sanboooo/Japan-IPTV-EPG/main/guides.xml
 ```
 
-karenda-jp の基準EPGに含まれる **244チャンネル** の `tvg-id`・チャンネル名・アイコン互換を維持する方針です。
+The project aims to preserve compatibility with the **244 channels** contained in the karenda-jp reference EPG, including compatible `tvg-id` values, channel names, and channel icons.
 
-## 対応系統
+## Supported Sources
 
 - ABEMA
-- JCOM系
-- Rチャンネル
+- JCOM-based channels
+- R Channel
 - Fast TV
-- SkyPerfect / Bangumi系
+- SkyPerfect / Bangumi-based channels
 - NHK World Premium
-- BS10プレミアム
-- TVerリアルタイム
+- BS10 Premium
+- TVer Realtime
 
-各系統の単独XMLTVと比較レポートも公開しています。
+Provider-specific XMLTV files and comparison reports are also published separately.
 
-## 更新
+## Updates
 
-GitHub Actionsで毎日自動生成します。
+The EPG is generated automatically every day with GitHub Actions.
 
-- 実行時刻: **08:30 JST**
-- 基本取得範囲: **2日分**
-- 各取得元の生成・XMLTV検証・244局統合・互換比較がすべて成功した場合のみ更新
+- Scheduled run time: **08:30 JST**
+- Default guide window: **2 days**
+- The public files are updated only when provider generation, XMLTV validation, 244-channel merging, and compatibility checks all succeed.
 
-失敗した生成物で正常な公開版を上書きしないフェイルセーフ構成です。
+The workflow uses a fail-safe design so that a failed or incomplete build does not overwrite the last known-good public EPG.
 
-## 主なファイル
+## Main Files
 
 ```text
-guides.xml                 244局を統合した本命EPG
-guides-parity.md           karenda-jp基準との全体比較
+guides.xml                 Combined 244-channel EPG
+guides-parity.md           Full comparison against the karenda-jp reference
 
 abema.xml                  ABEMA
-jcom.xml                   JCOM系
-rakuten.xml                Rチャンネル
+jcom.xml                   JCOM-based channels
+rakuten.xml                R Channel
 fasttv.xml                 Fast TV
-skyperfect.xml             SkyPerfect / Bangumi系
+skyperfect.xml             SkyPerfect / Bangumi-based channels
 nhkworldpremium.xml        NHK World Premium
-bs10premium.xml            BS10プレミアム
-tver.xml                   TVerリアルタイム
+bs10premium.xml            BS10 Premium
+tver.xml                   TVer Realtime
 ```
 
-## 方針
+## Project Policy
 
-- karenda-jp互換の `tvg-id` を維持
-- 他者の完成済みEPGをコピーせず、可能な限り公式API・公式番組表・公式公開データから自前取得
-- 現在の公式データを優先するため、karenda-jp側との更新時刻やタイトル表記の差が出る場合あり
-- XMLTV検証や244局チェックに失敗した場合は公開しない
-- 生成処理と公開データを別リポジトリで管理
+- Preserve karenda-jp-compatible `tvg-id` values.
+- Acquire programme metadata directly whenever possible from official APIs, official programme guides, or other official public data instead of copying a third-party finished EPG.
+- Prefer current official programme data, so update timing and title formatting may differ from the karenda-jp reference.
+- Do not publish a new build if XMLTV validation or the 244-channel integrity check fails.
+- Keep the generator implementation and the public generated data in separate repositories.
