@@ -930,7 +930,6 @@ Superfly越智志帆、上白石萌音からの貴重コメントも!</desc>
   <programme start="20261005180000 +0900" stop="20261005183000 +0900" channel="BBCニュース_jp">
     <title lang="ja">BBCニュース</title>
     <desc lang="ja">世界の最新ニュースをお送りする。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18616090/image/f907c66107ae956ced1862e462e72e62.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="BBCニュース_jp">
     <title lang="ja">BBCニュース</title>
@@ -3232,8 +3231,8 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
     <desc lang="ja">ローカル路線バスの旅！今回は、太川陽介＆蛭子能収＆遠藤久美子が四国をぐるり一周（徳島〜高知〜愛媛〜香川）３泊４日で乗り継いで辿り着けるか？衝撃の結末 </desc>
   </programme>
   <programme start="20261005210000 +0900" stop="20261005220000 +0900" channel="BSテレ東-4K_jp">
-    <title lang="ja">視る日経！ニュースNEXT　【マンション価格が下落？不動産バブル崩壊か】</title>
-    <desc lang="ja">▼日銀利上げで住宅ローンは？▼米雇用統計・市場予想下回る・マーケットへの影響▼ノーベル賞ウィーク・日本人受賞者は▼臨時国会・減税法案の行方▼ボタンでスマホを彩り</desc>
+    <title lang="ja">視る日経！ニュースNEXT　【マンション価格が下落・・・今後は／日経平均一時7万円】</title>
+    <desc lang="ja">▼日経平均終値6万9946円・アドバンテストがけん引▼高市総理・所信表明演説で市場を意識▼相次ぐサイバー攻撃・大和証券顧客情報22万件漏えいか▼ノーベル賞ウィーク</desc>
   </programme>
   <programme start="20261005220000 +0900" stop="20261005225500 +0900" channel="BSテレ東-4K_jp">
     <title lang="ja">マネーのまなび【億り人も…学生も活用？ＡＩ投資の最前線！ロボアド１０年の成績】[字]</title>
@@ -3298,8 +3297,8 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
     <desc lang="ja">便利な商品をお届け</desc>
   </programme>
   <programme start="20261006054500 +0900" stop="20261006070500 +0900" channel="BSテレ東-4K_jp">
-    <title lang="ja">Ｎｅｗｓモーニングサテライト</title>
-    <desc lang="ja">ＮＹ発のマーケット情報など世界の経済・金融ニュースを速報！マーケットのプロが詳しく解説します。</desc>
+    <title lang="ja">Ｎｅｗｓモーニングサテライト【膨張する防衛費にどう対応？】</title>
+    <desc lang="ja">膨張する防衛費にどう対応？…フランスの防衛ファンドに学ぶ▼アメ株アップデートは・・・いま注目の「AI創薬」銘柄を深掘り！▼日経朝特急</desc>
   </programme>
   <programme start="20261006070500 +0900" stop="20261006080000 +0900" channel="BSテレ東-4K_jp">
     <title lang="ja">モープラＦＴ【ドジャースオーナー捜査の波紋広がる　生保の規制強化に発展か】[二]</title>
@@ -3509,8 +3508,8 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
     <desc lang="ja">ローカル路線バスの旅！今回は、太川陽介＆蛭子能収＆遠藤久美子が四国をぐるり一周(徳島〜高知〜愛媛〜香川)3泊4日で乗り継いで辿り着けるか？衝撃の結末!?</desc>
   </programme>
   <programme start="20261005210000 +0900" stop="20261005220000 +0900" channel="BSテレ東_jp">
-    <title lang="ja">視る日経！ニュースNEXT 【マンション価格が下落？不動産バブル崩壊か】</title>
-    <desc lang="ja">▼日銀利上げで住宅ローンは？▼米雇用統計・市場予想下回る・マーケットへの影響▼ノーベル賞ウィーク・日本人受賞者は▼臨時国会・減税法案の行方▼ボタンでスマホを彩り</desc>
+    <title lang="ja">視る日経！ニュースNEXT 【マンション価格が下落・・・今後は/日経平均一時7万円】</title>
+    <desc lang="ja">▼日経平均終値6万9946円・アドバンテストがけん引▼高市総理・所信表明演説で市場を意識▼相次ぐサイバー攻撃・大和証券顧客情報22万件漏えいか▼ノーベル賞ウィーク</desc>
   </programme>
   <programme start="20261005220000 +0900" stop="20261005225500 +0900" channel="BSテレ東_jp">
     <title lang="ja">マネーのまなび【億り人も…学生も活用？ＡＩ投資の最前線！ロボアド１０年の成績】[字]</title>
@@ -3576,8 +3575,8 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
     <desc lang="ja">便利な商品をお届け</desc>
   </programme>
   <programme start="20261006054500 +0900" stop="20261006070500 +0900" channel="BSテレ東_jp">
-    <title lang="ja">Newsモーニングサテライト</title>
-    <desc lang="ja">ＮＹ発のマーケット情報など世界の経済・金融ニュースを速報！マーケットのプロが詳しく解説します。</desc>
+    <title lang="ja">Newsモーニングサテライト【膨張する防衛費にどう対応？】</title>
+    <desc lang="ja">膨張する防衛費にどう対応？…フランスの防衛ファンドに学ぶ▼アメ株アップデートは・・・いま注目の「AI創薬」銘柄を深掘り!▼日経朝特急</desc>
   </programme>
   <programme start="20261006070500 +0900" stop="20261006080000 +0900" channel="BSテレ東_jp">
     <title lang="ja">モープラＦＴ【ドジャースオーナー捜査の波紋広がる 生保の規制強化に発展か】[二]</title>
@@ -4966,8 +4965,8 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
     <desc lang="ja">韓国時代劇の巨匠イ・ビョンフン監督作。16世紀半ばの朝鮮王朝時代、監獄で生まれ育った女性オクニョが、数々の困難に立ち向かい、愛と人生を取り戻す波乱の歴史長編大作。</desc>
   </programme>
   <programme start="20261006185800 +0900" stop="20261006195500 +0900" channel="BS日テレ_jp">
-    <title lang="ja">深層NEWS▽今一番知りたいニュースをどこよりも早く、深くお届けします</title>
-    <desc lang="ja">世界最前線の"生の息づかい"をお届け。様々なニュースの深掘りはもちろん、速報ニュースも。ますます目が離せない"NEWS討論番組"にご期待ください。</desc>
+    <title lang="ja">深層NEWS▽急速に近代化する北朝鮮軍。無人機併用軍事演習も。日本への脅威は。</title>
+    <desc lang="ja">北朝鮮が攻撃型無人機と核弾頭を搭載可能なミサイルなどを組み合わせた軍事演習を初めて実施。急速に近代化する北朝鮮軍の現在地とは。そして日本はどう備えるべきなのか。</desc>
   </programme>
   <programme start="20261006195500 +0900" stop="20261006200000 +0900" channel="BS日テレ_jp">
     <title lang="ja">お得α</title>
@@ -8788,7 +8787,6 @@ www.jsports.co.jp</desc>
     <title lang="ja">モンド麻雀プロリーグ 第3回モンド杯チャレンジマッチ #4</title>
     <desc lang="ja">「モンド杯」への出場権を得るために、８名の雀士が己の持てるすべてを、２戦のスプリント勝負にかける！！
 「Ｂ卓２回戦」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18490938/image/dd58f55fd08425aa6fa20102ccdd6b9e.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="MONDOTV_jp">
     <title lang="ja">インフォメーション</title>
@@ -10911,11 +10909,11 @@ www.jsports.co.jp</desc>
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">京いちにち▽サッカー天皇杯で快進撃の京都産業大学　▽気象情報</title>
-    <desc lang="ja">サッカー天皇杯で、学生チームで唯一3回戦に駒を進めた京都産業大学。快進撃の立役者ともいえるFWの妹尾颯斗選手の大会への意気込みを伝える。気象情報も詳しく。</desc>
+    <desc lang="ja">サッカー天皇杯で、学生チームで唯一３回戦に駒を進めた京都産業大学。快進撃の立役者ともいえるＦＷの妹尾颯斗選手の大会への意気込みを伝える。気象情報も詳しく。</desc>
   </programme>
   <programme start="20261005190000 +0900" stop="20261005193000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">NHKニュース7　▽ノーベル生理学・医学賞▽臨時国会召集で高市首相は[二][字]</title>
-    <desc lang="ja">ノーベル生理学・医学賞発表▽臨時国会召集　内閣改造後初の論戦へ　高市首相が所信表明演説▽北上する27号に加え28号・29号発生“トリプル台風”に</desc>
+    <title lang="ja">NHKニュース７ ▽ノーベル生理学・医学賞▽臨時国会召集で高市首相は[二][字]</title>
+    <desc lang="ja">ノーベル生理学・医学賞発表▽臨時国会召集 内閣改造後初の論戦へ 高市首相が所信表明演説▽北上する２７号に加え28号・29号発生“トリプル台風”に</desc>
   </programme>
   <programme start="20261005193000 +0900" stop="20261005195700 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">クローズアップ現代　暮らしは？財源は？どうなる消費税減税[字]</title>
@@ -10930,8 +10928,8 @@ www.jsports.co.jp</desc>
     <desc lang="ja">京都府のその日のニュースをまとめてお伝えします。身近な話題、知りたい情報をコンパクトに紹介。気になる明日の天気もしっかりと届けます。</desc>
   </programme>
   <programme start="20261005210000 +0900" stop="20261005220000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">ニュースウオッチ9▽台風27号北上▽国会召集▽ノーベル生理学・医学賞は[二][字]</title>
-    <desc lang="ja">台風27号北上で影響は▽臨時国会きょう召集高市首相は何を語る？▽ノーベル賞誰の手に　生理学・医学賞を発表</desc>
+    <title lang="ja">ニュースウオッチ9　▽トリプル台風▽国会召集▽ノーベル生理学・医学賞[二][字]</title>
+    <desc lang="ja">内閣改造後初の臨時国会で高市首相は何を語った？簗農水相が道路予算めぐる発言を撤回し陳謝▽ノーベル賞誰の手に　生理学・医学賞を発表▽台風が3つに　進路や影響は</desc>
   </programme>
   <programme start="20261005220000 +0900" stop="20261005224500 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">映像の世紀バタフライエフェクト　脱出者たち　自由への逃走と闘争[字]</title>
@@ -11489,12 +11487,12 @@ www.jsports.co.jp</desc>
     <desc lang="ja">子ども向けSDGs番組「あおきいろ」のテーマソング「ツバメ」のダンスミュージックビデオの１分版。今回は、岐阜県のみなさんの「ツバメダンス」を紹介します!</desc>
   </programme>
   <programme start="20261005182500 +0900" stop="20261005184000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">みいつけた！　月曜日[字]</title>
-    <desc lang="ja">4歳ごろから楽しみながら学べる教育的エンターテインメント番組。友達と遊ぶ楽しさ、命の不思議、できる喜び等さまざまな「発見」を通して楽しむことができる番組です。</desc>
+    <title lang="ja">みいつけた！ 月曜日[字]</title>
+    <desc lang="ja">４歳ごろから楽しみながら学べる教育的エンターテインメント番組。友達と遊ぶ楽しさ、命の不思議、できる喜び等さまざまな「発見」を通して楽しむことができる番組です。</desc>
   </programme>
   <programme start="20261005184000 +0900" stop="20261005185000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">ピタゴラスイッチ▽水のふしぎがいっぱい！[字]</title>
-    <desc lang="ja">今回は「ぼてじん　きんぎょはっけん！」「ウソだと思うなら、やってみな。」など。テーマは「水のふしぎがいっぱい」です。</desc>
+    <title lang="ja">ピタゴラスイッチ▽水のふしぎがいっぱい![字]</title>
+    <desc lang="ja">今回は「ぼてじん きんぎょはっけん！」「ウソだと思うなら、やってみな。」など。テーマは「水のふしぎがいっぱい」です。</desc>
   </programme>
   <programme start="20261005185000 +0900" stop="20261005190000 +0900" channel="NHK大阪・教育_jp">
     <title lang="ja">アニメ　忍たま乱太郎「幸運の地蔵の段」[字]</title>
@@ -12065,8 +12063,8 @@ www.jsports.co.jp</desc>
     <desc lang="ja">関西のきょう一日のニュースをきめ細かくお伝えします。また身近な地域の気象情報もていねいにお伝えします。</desc>
   </programme>
   <programme start="20261005210000 +0900" stop="20261005220000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">ニュースウオッチ9▽台風27号北上▽国会召集▽ノーベル生理学・医学賞は[二][字]</title>
-    <desc lang="ja">台風27号北上で影響は▽臨時国会きょう召集高市首相は何を語る？▽ノーベル賞誰の手に　生理学・医学賞を発表</desc>
+    <title lang="ja">ニュースウオッチ9　▽トリプル台風▽国会召集▽ノーベル生理学・医学賞[二][字]</title>
+    <desc lang="ja">内閣改造後初の臨時国会で高市首相は何を語った？簗農水相が道路予算めぐる発言を撤回し陳謝▽ノーベル賞誰の手に　生理学・医学賞を発表▽台風が3つに　進路や影響は</desc>
   </programme>
   <programme start="20261005220000 +0900" stop="20261005224500 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">映像の世紀バタフライエフェクト　脱出者たち　自由への逃走と闘争[字]</title>
@@ -13180,8 +13178,8 @@ www.jsports.co.jp</desc>
     <desc lang="ja">きょう１日の首都圏のニュースは？まとめて把握できる１５分間。あなたの街のニュースや地域の話題をきめ細かく。あしたの気象情報も詳しくお伝えします。</desc>
   </programme>
   <programme start="20261005210000 +0900" stop="20261005220000 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">ニュースウオッチ９▽台風２７号北上▽国会召集▽ノーベル生理学・医学賞は[二][字]</title>
-    <desc lang="ja">台風２７号北上で影響は▽臨時国会きょう召集高市首相は何を語る？▽ノーベル賞誰の手に 生理学・医学賞を発表</desc>
+    <title lang="ja">ニュースウオッチ９ ▽トリプル台風▽国会召集▽ノーベル生理学・医学賞[二][字]</title>
+    <desc lang="ja">内閣改造後初の臨時国会で高市首相は何を語った？簗農水相が道路予算めぐる発言を撤回し陳謝▽ノーベル賞誰の手に 生理学・医学賞を発表▽台風が３つに 進路や影響は</desc>
   </programme>
   <programme start="20261005220000 +0900" stop="20261005224500 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">映像の世紀バタフライエフェクト 脱出者たち 自由への逃走と闘争[字]</title>
@@ -13914,8 +13912,7 @@ www.jsports.co.jp</desc>
   </programme>
   <programme start="20261006154900 +0900" stop="20261006190000 +0900" channel="TBS_jp">
     <title lang="ja">Nスタ[字]　井上貴博、出水麻衣が、あなたのパートナーに。</title>
-    <desc lang="ja">嬉しいニュースに湧き立つ日も、つらいニュースで落ち着かない日も、
-夕方テレビをつければそこにある、いつもの顔、いつもの声、あなたのパートナーに、Nスタ。</desc>
+    <desc lang="ja">沖縄県民に怒りと不信　やまぬ海兵隊員の犯罪　米メディア大きく報道▽生サンマ10円のワケ▽人手不足倒産が最多　お金で解決できぬ悩み▽100均家事ラク便利　ほか</desc>
   </programme>
   <programme start="20261006190000 +0900" stop="20261006200000 +0900" channel="TBS_jp">
     <title lang="ja">神業チャレンジ▼Snow Man深澤vs神クレーン!磯村&amp;末澤&amp;綾野剛の黙食神業[解][字]</title>
@@ -18165,7 +18162,6 @@ www.jsports.co.jp</desc>
   <programme start="20261005173000 +0900" stop="20261005183000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">ＧＯＬＦ ＢＲＡＩＮ ナナハチ７８ ＃３０ 〜特別編 青木瀬令奈〜</title>
     <desc lang="ja">今回の挑戦者は青木瀬令奈！トッププロがワーストボール形式で9ホールラウンドすると一体、いくつのスコアでまわるのか！？</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18654608/image/46c4172e44a082b9adae0d7f3f08293a.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">インフォメーション</title>
@@ -18561,12 +18557,10 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="サンテレビ_jp">
     <title lang="ja">テレビショッピング</title>
     <desc lang="ja">活力のある毎日を!!(えがおの黒酢黒にんにく)</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/475747/image/67c88772fba7e32c1e10dbe5155d8341.jpg" />
   </programme>
   <programme start="20261005190000 +0900" stop="20261005192900 +0900" channel="サンテレビ_jp">
     <title lang="ja">太田和彦のふらり旅　新・居酒屋百選[字]</title>
     <desc lang="ja">東京・日本橋で、新旧の文化と味覚を堪能◇太田和彦が地域に根付いた“上質な居酒屋"を厳選して訪問し、店主こだわりの料理や銘酒をじっくりお見せします!</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/475858/image/d32845b05fe3da1eaf76caf5fbad7a72.jpg" />
   </programme>
   <programme start="20261005192900 +0900" stop="20261005195800 +0900" channel="サンテレビ_jp">
     <title lang="ja">テレビショッピング</title>
@@ -19478,12 +19472,10 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261005174500 +0900" stop="20261005181500 +0900" channel="スカイA_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja"> </desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18628041/image/15bf82c8f78955763f500be91a492152.jpg" />
   </programme>
   <programme start="20261005181500 +0900" stop="20261005183000 +0900" channel="スカイA_jp">
     <title lang="ja">山内 日菜子プロの練習を覗いてみた。</title>
     <desc lang="ja">山内 日菜子プロ▽JLPGAツアーで活躍する彼女たちが練習のルーティンやワンポイントレッスン、さらにはプライベートな話を語り尽くす</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18628042/image/31d53c9d827f1254a7643a850b1ec8ac.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="スカイA_jp">
     <title lang="ja">虎ヲタ #85</title>
@@ -19882,7 +19874,6 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261005180000 +0900" stop="20261005183000 +0900" channel="スポーツライブ+_jp">
     <title lang="ja">松田宣浩の「熱男ゴルフ」#16　〜ゲスト：内川聖一＆摂津正〜</title>
     <desc lang="ja">セカンドシーズン決定記念の特別編！前シーズンのゲスト、内川聖一・摂津正を再び招き、「熱男カップ」を開催！特別MCはNONSTYLE の井上裕介。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18495889/image/faa892dd7f4db4326e5937a4ee93ccb7.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="スポーツライブ+_jp">
     <title lang="ja">ホッとな☆お買い物情報</title>
@@ -20109,7 +20100,6 @@ TV初 日本 2026年 136分
   <programme start="20261005180000 +0900" stop="20261005183000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">情報番組</title>
     <desc lang="ja">情報番組（PR）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18499297/image/b77f2f578924792fbc885de8e7358580.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005193000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">どうにか貧乏家族 ＃270</title>
@@ -22107,12 +22097,10 @@ by.Michael Buble</desc>
   <programme start="20261005180000 +0900" stop="20261005181500 +0900" channel="テレ朝チャンネル1_jp">
     <title lang="ja">WAGEI #1（春風亭昇々 「指定校推薦」）</title>
     <desc lang="ja">浪曲師・玉川太福と話芸の達人「ワゲイスト」たちが珠玉のネタを披露！MC：玉川太福・市川美織／（春風亭昇々 「指定校推薦」）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18638011/image/66d447f25bf61ceced17d30410738529.jpg" />
   </programme>
   <programme start="20261005181500 +0900" stop="20261005183000 +0900" channel="テレ朝チャンネル1_jp">
     <title lang="ja">WAGEI #2（玉川太福 「地べたの二人〜湯船の二人」）</title>
     <desc lang="ja">浪曲師・玉川太福と話芸の達人「ワゲイスト」たちが珠玉のネタを披露！MC：玉川太福・市川美織／（玉川太福 「地べたの二人〜湯船の二人」）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18638012/image/e6ac2810a84891f92b4e4cc54b794fd9.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="テレ朝チャンネル1_jp">
     <title lang="ja">クレヨンしんちゃん #1096</title>
@@ -22876,8 +22864,8 @@ by.Michael Buble</desc>
 「タ」っぷりとご紹介するショッピング番組</desc>
   </programme>
   <programme start="20261006054500 +0900" stop="20261006070500 +0900" channel="テレ東_jp">
-    <title lang="ja">Newsモーニングサテライト</title>
-    <desc lang="ja">ＮＹ発のマーケット情報など世界の経済・金融ニュースを速報！マーケットのプロが詳しく解説します。</desc>
+    <title lang="ja">Newsモーニングサテライト【膨張する防衛費にどう対応？】</title>
+    <desc lang="ja">膨張する防衛費にどう対応？…フランスの防衛ファンドに学ぶ▼アメ株アップデートは・・・いま注目の「AI創薬」銘柄を深掘り!▼日経朝特急</desc>
   </programme>
   <programme start="20261006070500 +0900" stop="20261006073000 +0900" channel="テレ東_jp">
     <title lang="ja">おはスタ【サツマイモといえば…気になる疑問を探究＆第五学園】</title>
@@ -23989,7 +23977,6 @@ NYで驚きのビルを発見。中国の絶壁にはガラスのエレベータ
   <programme start="20261005180000 +0900" stop="20261005183000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ブルーイ#21[二]</title>
     <desc lang="ja">ビンゴは朝まで自分で寝ると宣言する。／子供たちを送っていく日、パパは遅刻しまいと急ぐが…。／ブルーイは、今日あったお気に入りの出来事を発表しようと提案する。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18635057/image/5bbbfa7f98d48d51a7abfb169b8f5319.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ブルーイ#22[二]</title>
@@ -25291,7 +25278,6 @@ NYで驚きのビルを発見。中国の絶壁にはガラスのエレベータ
   <programme start="20261005164000 +0900" stop="20261005183000 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">夏樹静子サスペンス　見えない貌　イソベン・里村タマミの事件簿</title>
     <desc lang="ja">【出演】：沢口靖子、古谷一行、山田麻衣子、筒井真理子、新井康弘、坂本恵介、中原丈雄、石原あつ美、一條俊、松田賢二、岡本麗　ほか</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18499907/image/8e17255be9f53d677646bbc8bee31286.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">生活お役立ち情報</title>
@@ -25776,7 +25762,6 @@ https://otn.fujitv.co.jp</desc>
 ＜出演＞矢野優花　土田浩翔（最高位戦日本プロ麻雀協会）　兼光タカシ　入来茉里
 ＜MC＞柴田英嗣（アンタッチャブル）
 ＜解説＞古久根英孝</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18499013/image/23ae2832878ab61a7763c21183db6665.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005193000 +0900" channel="フジテレビONE_jp">
     <title lang="ja">麻雀最極決定戦！サバイバルバトル 極雀2026 春の極雀カーニバル　#6</title>
@@ -26571,8 +26556,8 @@ CMなど30社以上のオファー、写真集3冠、ギャラは300倍!?
     <desc lang="ja">「暮らし」を意識したラインナップで世の中の動きを素早くキャッチ!最新ニュースをわかりやすく、丁寧にお届けします。「命を守る」防災情報も様々なテーマで。</desc>
   </programme>
   <programme start="20261006114700 +0900" stop="20261006135000 +0900" channel="フジテレビ_jp">
-    <title lang="ja">ぽかぽか[字][デ]</title>
-    <desc lang="ja">ハライチ&amp;神田愛花がお届けする生バラエティ▽ゲストの勝手なイメージ「〇〇っぽい」で迫る素顔&amp;業界ウラ話▽大人気の曜日オリジナル企画で楽しいお昼を!</desc>
+    <title lang="ja">ぽかぽか【日本水泳界のレジェンド入江陵介&amp;大橋悠依の素顔を徹底深掘りSP】[字][デ]</title>
+    <desc lang="ja">大の仲良し!五輪背泳ぎ銀の入江&amp;個人メドレー金の大橋が互いの素顔を大公開▼超貴重!五輪で実際着用した水着を鑑定▼今年3月に結婚発表!新婚の夫が意外な一面を告白</desc>
   </programme>
   <programme start="20261006135000 +0900" stop="20261006154200 +0900" channel="フジテレビ_jp">
     <title lang="ja">とれたてっ![字][デ]</title>
@@ -27300,7 +27285,6 @@ CMなど30社以上のオファー、写真集3冠、ギャラは300倍!?
   <programme start="20261005180000 +0900" stop="20261005183000 +0900" channel="ミュージック・エア_jp">
     <title lang="ja">ティナ・ターナー：ヴィデオ・キルド・ザ・ラジオ・スター</title>
     <desc lang="ja">ある時は「ロックの女王」、またある時は「ソウルの女王」と呼ばれる20世紀最強のディーヴァ、ティナ・ターナーのミュージック・ビデオ撮影の裏側に迫るドキュメンタリー。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18636051/image/112bda3fe4295fcab2f60157990937a3.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="ミュージック・エア_jp">
     <title lang="ja">ビヨンセ：ヴィデオ・キルド・ザ・ラジオ・スター</title>
@@ -27556,7 +27540,6 @@ CMなど30社以上のオファー、写真集3冠、ギャラは300倍!?
   <programme start="20261005163000 +0900" stop="20261005181500 +0900" channel="ムービープラス_jp">
     <title lang="ja">シューテム・アップ</title>
     <desc lang="ja">クライヴ・オーウェン×モニカ・ベルッチ主演のガン・アクション。ホームレスの元凄腕ガンマンが赤ん坊と女性を守って繰り広げる銃撃戦を描く。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18497807/image/53fd7853c0809b345a74fc9d848f8da5.jpg" />
   </programme>
   <programme start="20261005181500 +0900" stop="20261005184500 +0900" channel="ムービープラス_jp">
     <title lang="ja">インフォメーション</title>
@@ -27762,12 +27745,10 @@ CMなど30社以上のオファー、写真集3冠、ギャラは300倍!?
   <programme start="20261005171000 +0900" stop="20261005181500 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">USA オールスターナショナルズ 2026 #15</title>
     <desc lang="ja">２０２６年３月２７〜２９日に開催された「ＵＳＡ　Ａｌｌ　Ｓｔａｒ　Ｎａｔｉｏｎａｌｓ　２０２６」の模様を独占放送！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18615378/image/39c183200eeeaf8318f763929a1d1a1d.jpg" />
   </programme>
   <programme start="20261005181500 +0900" stop="20261005183000 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">だれでも簡単！フィットネス #5</title>
     <desc lang="ja">自宅で運動不足を解消したい方は必見！お家で気軽に誰でも出来る体に優しいフィットネスをご紹介！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18615379/image/5829595c572cbdebdff727dea2539846.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005200000 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">天空麻雀２４ #2</title>
@@ -28483,7 +28464,6 @@ CMなど30社以上のオファー、写真集3冠、ギャラは300倍!?
   <programme start="20261005180000 +0900" stop="20261005183000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">林家正蔵の今日も四時から飲み #38</title>
     <desc lang="ja">落語家、林家正蔵。高座を終え向かうのは、ひとり飲み。時間はまだ日も高い午後四時。この番組では「四時から飲み」おすすめのお店をご紹介します。２０１９年制作</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18490771/image/cb5120921f4b21343435720f9bc78cfd.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">インフォメーション</title>
@@ -28859,7 +28839,6 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
 解説：辻本聡
 実況：弘竜太郎
 リポーター：宮城光</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18624198/image/2c68aa8df977c84c7494239192e65e4b.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="日テレジータス_jp">
     <title lang="ja">ジータスマルシェ</title>
@@ -31513,7 +31492,6 @@ RPGなどにマルチメディア展開した作品を原作にしたファン�
   <programme start="20261005190000 +0900" stop="20261005200000 +0900" channel="読売テレビ_jp">
     <title lang="ja">有吉ゼミ▽ギャル曽根ピンチ！？大食い新星▽紗栄子の牧場密着！夏祭りで緊急事態[字]</title>
     <desc lang="ja">ギャル曽根VS大食い新星YouTuber!14連勝芸人と三つ巴バトル!巨大石狩鍋▽紗栄子の牧場経営に密着!夏祭り緊急事態に大奮闘!</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/475534/image/054800445bf2d66883084f35f6ff567d.jpg" />
   </programme>
   <programme start="20261005200000 +0900" stop="20261005210000 +0900" channel="読売テレビ_jp">
     <title lang="ja">世界まる見え！玉木宏も驚く空港税関で衝撃密輸＆前代未聞！洞窟で４０日間集団生活[字]</title>
@@ -31758,7 +31736,6 @@ RPGなどにマルチメディア展開した作品を原作にしたファン�
   <programme start="20261005180000 +0900" stop="20261005183000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">ブレイクタイム</title>
     <desc lang="ja">季節に合わせた様々な内容をお届けします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18497409/image/0aaa30de88128897f8509ae2cfa2bb65.jpg" />
   </programme>
   <programme start="20261005183000 +0900" stop="20261005190000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">バーニング帝国 78 香川県で大冒険</title>
