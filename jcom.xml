@@ -566,7 +566,7 @@ Superfly越智志帆、上白石萌音からの貴重コメントも!</desc>
     <desc lang="ja">Ｗ杯から３カ月、森保ジャパンがタイトル獲得へ！久保建英、中村敬斗、上田綺世、鈴木彩艶ら最強メンバーが集結！４カ国対抗のキリンカップで、１５年ぶりの頂点を目指す!</desc>
   </programme>
   <programme start="20261005213500 +0900" stop="20261005231000 +0900" channel="ABCテレビ_jp">
-    <title lang="ja">報道ステーション[字]</title>
+    <title lang="ja">報道ステーション 「予算カット」発言の簗大臣再び会見「撤回して謝罪」[字]</title>
     <desc lang="ja">速報！サッカー代表戦…森保Ｊタイトル獲得へ▽ノーベル賞ウイーク…注目研究者の受賞は▽臨時国会で総理所信…消費減税法案が焦点▽台風北上で荒天警戒▽MLB大谷&amp;村上</desc>
   </programme>
   <programme start="20261005231000 +0900" stop="20261006000000 +0900" channel="ABCテレビ_jp">
@@ -8156,7 +8156,7 @@ www.jsports.co.jp</desc>
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261005230000 +0900" stop="20261005233000 +0900" channel="KBS京都_jp">
-    <title lang="ja">おぎやはぎのハピキャン[字][解]　「〜リュック1つでミニマルキャンプ(1)〜」</title>
+    <title lang="ja">おぎやはぎのハピキャン[字][解][新]　「〜リュック1つでミニマルキャンプ(1)〜」</title>
     <desc lang="ja">おぎやはぎがハッピーな仲間と一緒にキャンプを体験する「アウトドア・ドキュメント・バラエティ」</desc>
   </programme>
   <programme start="20261005233000 +0900" stop="20261006000000 +0900" channel="KBS京都_jp">
@@ -21249,7 +21249,7 @@ Superfly越智志帆、上白石萌音からの貴重コメントも!</desc>
     <desc lang="ja">W杯から3カ月、森保ジャパンがタイトル獲得へ!久保建英、中村敬斗、上田綺世、鈴木彩艶ら最強メンバーが集結!4カ国対抗のキリンカップで、15年ぶりの頂点を目指す!</desc>
   </programme>
   <programme start="20261005213500 +0900" stop="20261005231000 +0900" channel="テレビ朝日_jp">
-    <title lang="ja">報道ステーション[字]</title>
+    <title lang="ja">報道ステーション　「予算カット」発言の簗大臣再び会見「撤回して謝罪」[字]</title>
     <desc lang="ja">速報!サッカー代表戦…森保Jタイトル獲得へ▽ノーベル賞ウイーク…注目研究者の受賞は▽臨時国会で総理所信…消費減税法案が焦点▽台風北上で荒天警戒▽MLB大谷&amp;村上</desc>
   </programme>
   <programme start="20261005231000 +0900" stop="20261005231500 +0900" channel="テレビ朝日_jp">
@@ -29411,6 +29411,7 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
   <programme start="20261005200000 +0900" stop="20261005210000 +0900" channel="日本テレビ_jp">
     <title lang="ja">世界まる見え！玉木宏も驚く空港税関で衝撃密輸＆前代未聞！洞窟で40日間集団生活[字]</title>
     <desc lang="ja">境目は面白いＳＰ！国境警備で怪しいヤツら…自称パイロット男＆万引き男の呆れたウソ▼洞窟に40日間缶詰め生活で狂気の境目!?▼認知症の妻と世界を巡る旅で事件が続発!?</desc>
+    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/475539/image/bc8c008d895d7960ab3ba5b8d05f8c5f.jpg" />
   </programme>
   <programme start="20261005210000 +0900" stop="20261005215400 +0900" channel="日本テレビ_jp">
     <title lang="ja">しゃべくり007[字]柳楽優弥&amp;川栄李奈…「誰も知らない」同窓会▼AKB秘話先輩登場</title>
@@ -31458,6 +31459,7 @@ RPGなどにマルチメディア展開した作品を原作にしたファン�
   <programme start="20261005200000 +0900" stop="20261005210000 +0900" channel="読売テレビ_jp">
     <title lang="ja">世界まる見え！玉木宏も驚く空港税関で衝撃密輸＆前代未聞！洞窟で４０日間集団生活[字]</title>
     <desc lang="ja">境目は面白いSP!国境警備で怪しいヤツら…自称パイロット男＆万引き男の呆れたウソ▽洞窟に40日間缶詰め生活で狂気の境目!?▽認知症の妻と世界を巡る旅で事件が続発!?</desc>
+    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/475539/image/bc8c008d895d7960ab3ba5b8d05f8c5f.jpg" />
   </programme>
   <programme start="20261005210000 +0900" stop="20261005215400 +0900" channel="読売テレビ_jp">
     <title lang="ja">しゃべくり007[字]柳楽優弥&amp;川栄李奈…「誰も知らない」同窓会▽AKB秘話先輩登場</title>

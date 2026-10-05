@@ -8,9 +8,9 @@
 - metadata mismatches: 0
 - candidate programmes: 6945
 - reference programmes in candidate window: 6712
-- exact channel/start/stop/title matches: 6446
-- candidate match rate: 92.81%
-- reference coverage rate: 96.04%
+- exact channel/start/stop/title matches: 6443
+- candidate match rate: 92.77%
+- reference coverage rate: 95.99%
 
 ## Per-channel parity
 
@@ -22,7 +22,7 @@
 | テレビ神奈川_jp | yes | 119 | 115 | 114 | 95.80% | 99.13% |
 | テレ玉_jp | yes | 115 | 109 | 106 | 92.17% | 97.25% |
 | 日本テレビ_jp | yes | 63 | 56 | 51 | 80.95% | 91.07% |
-| テレビ朝日_jp | yes | 64 | 59 | 57 | 89.06% | 96.61% |
+| テレビ朝日_jp | yes | 64 | 59 | 56 | 87.50% | 94.92% |
 | TBS_jp | yes | 49 | 46 | 42 | 85.71% | 91.30% |
 | テレ東_jp | yes | 89 | 83 | 77 | 86.52% | 92.77% |
 | フジテレビ_jp | yes | 56 | 50 | 39 | 69.64% | 78.00% |
@@ -33,8 +33,8 @@
 | NHK京都・総合_jp | yes | 136 | 132 | 110 | 80.88% | 83.33% |
 | サンテレビ_jp | yes | 95 | 93 | 89 | 93.68% | 95.70% |
 | 毎日テレビ_jp | yes | 67 | 63 | 57 | 85.07% | 90.48% |
-| KBS京都_jp | yes | 114 | 113 | 111 | 97.37% | 98.23% |
-| ABCテレビ_jp | yes | 82 | 73 | 67 | 81.71% | 91.78% |
+| KBS京都_jp | yes | 114 | 113 | 110 | 96.49% | 97.35% |
+| ABCテレビ_jp | yes | 82 | 73 | 66 | 80.49% | 90.41% |
 | テレビ大阪_jp | yes | 85 | 81 | 78 | 91.76% | 96.30% |
 | 関西テレビ_jp | yes | 69 | 61 | 52 | 75.36% | 85.25% |
 | 読売テレビ_jp | yes | 58 | 55 | 45 | 77.59% | 81.82% |
