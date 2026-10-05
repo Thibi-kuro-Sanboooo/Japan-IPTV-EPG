@@ -2298,7 +2298,6 @@ Superfly越智志帆、上白石萌音からの貴重コメントも!</desc>
   <programme start="20261005192700 +0900" stop="20261005200000 +0900" channel="BS11-イレブン_jp">
     <title lang="ja">ワカコ酒 Season3　第11夜「鯛めしと宇和島珍味で乾杯」</title>
     <desc lang="ja">主演 武田梨奈。“酒呑みの舌"を持って生まれた26歳のOL・ワカコが、様々な場所をさすらい、女ひとり酒を堪能。「ぷしゅーー」の決め台詞が食とお酒への渇望を誘う。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/475942/image/727afcab9e7645e42272baaae0e262b9.jpg" />
   </programme>
   <programme start="20261005200000 +0900" stop="20261005205300 +0900" channel="BS11-イレブン_jp">
     <title lang="ja">偉人・敗北からの教訓「織田有楽斎・和平交渉に長けた大名茶人の苦渋の決断」</title>
@@ -10507,7 +10506,6 @@ www.jsports.co.jp</desc>
   <programme start="20261005193000 +0900" stop="20261005210000 +0900" channel="NHK・BS_jp">
     <title lang="ja">ワイルドライフＳＰ 知床半島海に生きるヒグマ変わりゆく“生命の楽園”[解][字]</title>
     <desc lang="ja">生命の楽園・知床。気候変動の中、ヒグマが断崖をよじ登り海鳥を襲う異変を撮影。海と森で何が起きているのか。生態系の頂点に立つヒグマから、変わりゆく知床を見つめる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/80050000/80050806/image/809b851ba742aa4b6cfd6166e2e224b2.jpg" />
   </programme>
   <programme start="20261005210000 +0900" stop="20261005220000 +0900" channel="NHK・BS_jp">
     <title lang="ja">英雄たちの選択 追跡！キリシタン大名 有馬晴信[字]</title>
@@ -10910,8 +10908,8 @@ www.jsports.co.jp</desc>
     <desc lang="ja">ノーベル生理学・医学賞発表▽臨時国会召集 内閣改造後初の論戦へ 高市首相が所信表明演説▽北上する２７号に加え28号・29号発生“トリプル台風”に</desc>
   </programme>
   <programme start="20261005193000 +0900" stop="20261005195700 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">クローズアップ現代　暮らしは？財源は？どうなる消費税減税[字]</title>
-    <desc lang="ja">食料品の消費税率1％で私たちの暮らしはどうなる？価格は本当に下がる？財源は大丈夫？法案審議のカギを握る与野党幹部に直撃。一方、スーパー・外食・農家のホンネは…</desc>
+    <title lang="ja">クローズアップ現代 暮らしは？財源は？どうなる消費税減税[字]</title>
+    <desc lang="ja">食料品の消費税率１％で私たちの暮らしはどうなる？価格は本当に下がる？財源は大丈夫？法案審議のカギを握る与野党幹部に直撃。一方、スーパー・外食・農家のホンネは…</desc>
   </programme>
   <programme start="20261005195700 +0900" stop="20261005204500 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">鶴瓶の家族に乾杯　山田洋次監督登場＆毛ガニ漁師に密着[解][字]</title>
@@ -11497,7 +11495,7 @@ www.jsports.co.jp</desc>
     <desc lang="ja">QuizKnockからの挑戦状！ 出川や前田勝乃心とともに柿谷曜一朗・丸高愛実が夫妻でサツマイモに関するクイズに挑む！ 柿谷は無事にゴール（正解）できるのか?!</desc>
   </programme>
   <programme start="20261005193000 +0900" stop="20261005200000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">偉人の年収　How　much？　オリンピックを呼んだ男！田畑政治[解][字]</title>
+    <title lang="ja">偉人の年収 How much? オリンピックを呼んだ男！田畑政治[解][字]</title>
     <desc lang="ja">水泳の指導者として日本を世界のトップレベルに引き上げ、アジア初の東京オリンピック開催を実現させた田畑政治▽大蔵大臣や総理大臣に直談判！夢を実現させた強烈な行動力</desc>
   </programme>
   <programme start="20261005200000 +0900" stop="20261005203000 +0900" channel="NHK大阪・教育_jp">
@@ -12041,12 +12039,12 @@ www.jsports.co.jp</desc>
     <desc lang="ja">【関西のイマを凝縮　1分長く見たら「知っててよかった」が増える】月曜は気象情報と関西グルメが充実</desc>
   </programme>
   <programme start="20261005190000 +0900" stop="20261005193000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">NHKニュース7　▽ノーベル生理学・医学賞▽臨時国会召集で高市首相は[二][字]</title>
-    <desc lang="ja">ノーベル生理学・医学賞発表▽臨時国会召集　内閣改造後初の論戦へ　高市首相が所信表明演説▽北上する27号に加え28号・29号発生“トリプル台風”に</desc>
+    <title lang="ja">NHKニュース７ ▽ノーベル生理学・医学賞▽臨時国会召集で高市首相は[二][字]</title>
+    <desc lang="ja">ノーベル生理学・医学賞発表▽臨時国会召集 内閣改造後初の論戦へ 高市首相が所信表明演説▽北上する２７号に加え28号・29号発生“トリプル台風”に</desc>
   </programme>
   <programme start="20261005193000 +0900" stop="20261005195700 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">クローズアップ現代　暮らしは？財源は？どうなる消費税減税[字]</title>
-    <desc lang="ja">食料品の消費税率1％で私たちの暮らしはどうなる？価格は本当に下がる？財源は大丈夫？法案審議のカギを握る与野党幹部に直撃。一方、スーパー・外食・農家のホンネは…</desc>
+    <title lang="ja">クローズアップ現代 暮らしは？財源は？どうなる消費税減税[字]</title>
+    <desc lang="ja">食料品の消費税率１％で私たちの暮らしはどうなる？価格は本当に下がる？財源は大丈夫？法案審議のカギを握る与野党幹部に直撃。一方、スーパー・外食・農家のホンネは…</desc>
   </programme>
   <programme start="20261005195700 +0900" stop="20261005204500 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">鶴瓶の家族に乾杯　山田洋次監督登場＆毛ガニ漁師に密着[解][字]</title>
@@ -13902,7 +13900,7 @@ www.jsports.co.jp</desc>
   </programme>
   <programme start="20261006135500 +0900" stop="20261006154900 +0900" channel="TBS_jp">
     <title lang="ja">ゴゴスマ</title>
-    <desc lang="ja">様々な事が起こる平日の午後、あらゆるジャンルの関心事を「生」にこだわって、MC石井亮次がわかりやすく、「見て、わかった　見て、よかった」となるようにお届け!</desc>
+    <desc lang="ja">広く秋晴れ　東京は気温大幅上昇か　10月なのに夏日続く…寒暖差で体調注意も▼速報デヴィ夫人判決▼見れば5万円分当たる　(他)(予定)</desc>
   </programme>
   <programme start="20261006154900 +0900" stop="20261006190000 +0900" channel="TBS_jp">
     <title lang="ja">Nスタ[字]　井上貴博、出水麻衣が、あなたのパートナーに。</title>
@@ -15068,7 +15066,6 @@ www.jsports.co.jp</desc>
   <programme start="20261005210000 +0900" stop="20261005230000 +0900" channel="WOWOWシネマ_jp">
     <title lang="ja">[初][映]鬼胎（クィテ） 黒い修道女（字幕版）[SS]</title>
     <desc lang="ja">韓国で劇場公開されるや初登場No.1ヒットを記録。呪われた少年の命を救うべく、禁断の悪魔払いの儀式を執り行なおうとする修道女の姿を描いた戦慄のオカルトスリラー。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/3380000/3388577/image/0062351e109bacb2e884629fe719afd7.jpg" />
   </programme>
   <programme start="20261005230000 +0900" stop="20261006012000 +0900" channel="WOWOWシネマ_jp">
     <title lang="ja">[映]ヒミズ[PG12][SS][字]</title>
@@ -15374,7 +15371,6 @@ www.jsports.co.jp</desc>
   <programme start="20261005173000 +0900" stop="20261005191500 +0900" channel="WOWOWプラス_jp">
     <title lang="ja">山猫は眠らない２　狙撃手の掟</title>
     <desc lang="ja">トム・ベレンジャー扮する天才的スナイパー、ベケットの活躍を描く人気ミリタリーアクション第2弾。伝説の男ベケットが9年の沈黙を破って新たに挑むミッションとは……。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18490874/image/f4b71d57476bd7b09ce040fbef16f443.jpg" />
   </programme>
   <programme start="20261005191500 +0900" stop="20261005210000 +0900" channel="WOWOWプラス_jp">
     <title lang="ja">山猫は眠らない３　決別の照準</title>
@@ -18825,7 +18821,6 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261005174500 +0900" stop="20261005190500 +0900" channel="ザ・シネマ_jp">
     <title lang="ja">ジョーズ・ザ・モンスター [字]</title>
     <desc lang="ja">我々は、とんでもない怪物を生み出してしまった―。生存率0％モンスター・サバイバル・アクション！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261005/18491278/image/afefbd928d3934cf6164d9240ad06ad0.jpg" />
   </programme>
   <programme start="20261005190500 +0900" stop="20261005210000 +0900" channel="ザ・シネマ_jp">
     <title lang="ja">ヤング・ブラッド [字]</title>
@@ -26528,8 +26523,8 @@ CMなど30社以上のオファー、写真集3冠、ギャラは300倍!?
     <desc lang="ja">MCバナナマン設楽統▼生活に直結するニュース・天気&amp;注目のスポーツ・エンタメ・生活情報まで!旬な情報を、明るく・ノンストップ!でお届けします!</desc>
   </programme>
   <programme start="20261006113000 +0900" stop="20261006114700 +0900" channel="フジテレビ_jp">
-    <title lang="ja">FNN　Live　News　days[字]</title>
-    <desc lang="ja">「暮らし」を意識したラインナップで世の中の動きを素早くキャッチ!最新ニュースをわかりやすく、丁寧にお届けします。「命を守る」防災情報も様々なテーマで。</desc>
+    <title lang="ja">FNN　Live　News　days【簗大臣が発言撤回も国会審議に影響は?】[字]</title>
+    <desc lang="ja">あすから代表質問…簗大臣発言撤回も審議に影響は?▽トリプル台風発生…3連休列島への影響懸念・高波に警戒▽女性の遺体遺棄か…交際相手の男逮捕「最新情報」</desc>
   </programme>
   <programme start="20261006114700 +0900" stop="20261006135000 +0900" channel="フジテレビ_jp">
     <title lang="ja">ぽかぽか【日本水泳界のレジェンド入江陵介&amp;大橋悠依の素顔を徹底深掘りSP】[字][デ]</title>
@@ -26537,7 +26532,7 @@ CMなど30社以上のオファー、写真集3冠、ギャラは300倍!?
   </programme>
   <programme start="20261006135000 +0900" stop="20261006154200 +0900" channel="フジテレビ_jp">
     <title lang="ja">とれたてっ!　ぽかぽかSPコラボ▼デヴィ夫人判決▼ギャル曽根が選ぶ総菜一等賞[字][デ]</title>
-    <desc lang="ja">全国各地の「いま起きていること」を伝えるニュース・情報番組。MC青木源太と歯に衣着せないパネラーたちがズバッと切り込みます!</desc>
+    <desc lang="ja">ぽかぽかとSPコラボ　ブラマヨ吉田が肉を切る▼速報デヴィ夫人判決▼“トリプル台風"列島への影響は?▼新企画ギャル曽根がNO1の総菜を決定!</desc>
   </programme>
   <programme start="20261006154200 +0900" stop="20261006190000 +0900" channel="フジテレビ_jp">
     <title lang="ja">イット!【榎並大二郎、山崎夕貴、遠藤玲子が「夕方」を安心して過ごすお手伝い】[字]</title>
@@ -29431,8 +29426,8 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
     <desc lang="ja">村上信五とマツコがアレコレ語り合う…最近やたら耳にするカタカナ語を学ぶ▼人が減ったコミケの今を調査＆泡ポンプのボトルで生クリームは作れるのか?</desc>
   </programme>
   <programme start="20261005230000 +0900" stop="20261005235900 +0900" channel="日本テレビ_jp">
-    <title lang="ja">news zero[字]20周年の特別対談 パリ取材…杏×櫻井翔</title>
-    <desc lang="ja">▼台風２５号被害から2週間 ”越境台風”含むトリプル台風…進路は▼ノーベル生理学・医学賞発表…３年連続日本人受賞なるか▼サッカー日本代表戦</desc>
+    <title lang="ja">news zero[字]米兵逮捕…沖縄ホテルで女性殺害か▼“発言撤回”簗農水相が謝罪</title>
+    <desc lang="ja">千葉・内房線２週間ぶり“復帰”…トリプル台風の影響▼【杏×櫻井翔】パリで特別対談▼サッカー日本代表×ニュージーランド▼【速報】柔道世界選手権▼メジャー大谷翔</desc>
   </programme>
   <programme start="20261005235900 +0900" stop="20261006005400 +0900" channel="日本テレビ_jp">
     <title lang="ja">M!LKに言ってみ？[字]日テレ初冠番組！全国の依頼人のお悩みをM!LKが全力解決!</title>
@@ -30940,15 +30935,15 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
   </programme>
   <programme start="20261006013400 +0900" stop="20261006020400 +0900" channel="毎日テレビ_jp">
     <title lang="ja">よしもと新喜劇NEXT〜小籔千豊には怒られたくない★大声トーナメント開催[字]</title>
-    <desc lang="ja">バラエティー番組などでも活躍する座員を育成すべく、吉本新喜劇の若手座員が様々な企画に挑戦！ＭＣ・小籔千豊が、とにかくダメ出ししまくる“説教バラエティー番組”です</desc>
+    <desc lang="ja">『声がデカいのは誰だ！？大声トーナメント！！』「即興で一言」×「声の大きさ」で競う！…だがグッダグダに!?▼小籔千豊 スマイル 藤崎マーケット(他)</desc>
   </programme>
   <programme start="20261006020400 +0900" stop="20261006021900 +0900" channel="毎日テレビ_jp">
     <title lang="ja">ガンバＴＶ〜青と黒〜【若手座談会(2)◆創立３５周年クイズ！】</title>
     <desc lang="ja">▽ガンバ大阪をまるごと応援！▽選手インタビューなどファンのためのガンバ情報をたっぷりお届けします!【MC】小嶋花梨 ドーナツ・ピーナツ</desc>
   </programme>
   <programme start="20261006021900 +0900" stop="20261006025000 +0900" channel="毎日テレビ_jp">
-    <title lang="ja">ミキBASE〜いいね!で応援〜</title>
-    <desc lang="ja">▽1億総SNS時代は「いいね」１つで人生が変わる時代！☆まだ注目されていない未来のスター候補生たちに「いいね」を押し、スポットライトを当て、応援する番組なのです</desc>
+    <title lang="ja">ミキBASE〜いいね!で応援〜【今週もゾッとする話が…！怪談芸人大集結】</title>
+    <desc lang="ja">怪談芸人大集結！◆ドンデコルテ、真べぇ、ひらかわ、安井政史、ショウきん、だいかん、TOKU、大屋あゆみ◆さらに…まさか劇場に幽霊が…!?</desc>
   </programme>
   <programme start="20261006025000 +0900" stop="20261006032000 +0900" channel="毎日テレビ_jp">
     <title lang="ja">年下童貞くんに翻弄されてます 第1話[再][字]【森香澄×柏木悠(超特急)W主演】</title>
@@ -31015,16 +31010,16 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
     <desc lang="ja">広く秋晴れ 東京は気温大幅上昇か １０月なのに夏日続く…寒暖差で体調注意も▼速報デヴィ夫人判決▼見れば５万円分当たる (他)（予定）</desc>
   </programme>
   <programme start="20261006154000 +0900" stop="20261006175000 +0900" channel="毎日テレビ_jp">
-    <title lang="ja">よんチャンTV[字]</title>
-    <desc lang="ja">コンセプトは『ALL 4 ALL〜みんなで伝える、みんなに届ける〜』▼ロザンの道案内しよ！▼中野アナ＆海渡アナのよんチャン登山部▼きょうの現場(他)</desc>
+    <title lang="ja">よんチャンＴＶ[字]南大阪に新市誕生?▼変わる“緩和ケア”▼登山部!三重・鎌ケ岳1161m</title>
+    <desc lang="ja">▼南大阪に新市誕生？関空抱える小さな町が合併に不参加のワケは▼“緩和ケア”がん患者以外も対象に腎不全患者と家族密着▼三重鈴鹿のマッターホルン標高1161m岩山を冒険</desc>
   </programme>
   <programme start="20261006175000 +0900" stop="20261006181500 +0900" channel="毎日テレビ_jp">
     <title lang="ja">Ｎスタ[字] 井上貴博、出水麻衣が、あなたのパートナーに。</title>
     <desc lang="ja">嬉しいニュースに湧き立つ日も、つらいニュースで落ち着かない日も、夕方テレビをつければそこにある、いつもの顔、いつもの声、あなたのパートナーに、Nスタ。</desc>
   </programme>
   <programme start="20261006181500 +0900" stop="20261006190000 +0900" channel="毎日テレビ_jp">
-    <title lang="ja">よんチャンTV[字]</title>
-    <desc lang="ja">コンセプトは『ALL 4 ALL〜みんなで伝える、みんなに届ける〜』▼ロザンの道案内しよ！▼中野アナ＆海渡アナのよんチャン登山部▼きょうの現場(他)</desc>
+    <title lang="ja">よんチャンＴＶ[字]道案内…菅ちゃん英語、伝えたい高知名物は!?</title>
+    <desc lang="ja">道案内…菅ちゃん英語、伝えたい高知名物は！？▼ロザン(菅広文・宇治原史規) 沢松奈生子 福山梨乃(CANDY TUNE)(他)</desc>
   </programme>
   <programme start="20261006190000 +0900" stop="20261006200000 +0900" channel="毎日テレビ_jp">
     <title lang="ja">神業チャレンジ▼Snow Man深澤vs神クレーン!磯村&amp;末澤&amp;綾野剛の黙食神業[解][字]</title>
