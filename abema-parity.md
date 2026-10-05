@@ -19,13 +19,13 @@ Candidate: self-acquired ABEMA XMLTV
 ## Programme parity
 
 - reference programmes in candidate window: 885
-- candidate programmes: 864
+- candidate programmes: 868
 - exact channel/start/stop/title matches: 776
-- candidate match rate: 89.81%
+- candidate match rate: 89.40%
 - reference coverage rate: 87.68%
 - matching descriptions among exact programme matches: 553
 - description match rate: 71.26%
-- candidate-only programmes: 88
+- candidate-only programmes: 92
 - reference-only programmes: 109
 
 ### Candidate-only examples
@@ -47,9 +47,9 @@ Candidate: self-acquired ABEMA XMLTV
 - special-plus | 2026-10-04T23:00:00+09:00 -> 2026-10-05T02:35:00+09:00 | 「山本裕典、ホストになる。 」波乱の大阪統一抗争編 全話一挙 | x1
 - special-plus | 2026-10-05T13:05:00+09:00 -> 2026-10-05T14:10:00+09:00 | POKER SONIC＃1 史上初のフォーカード？ 引き当てたのは一体誰？ | x1
 - special-plus | 2026-10-05T21:00:00+09:00 -> 2026-10-05T22:00:00+09:00 | 裏垢ウララカ #1：芸能人のLINE事情＆「ネットニュース見ました」に不満爆発 | x1
+- special-plus | 2026-10-05T22:00:00+09:00 -> 2026-10-05T22:57:00+09:00 | ななにー 地下ABEMA #136 年収1,000万円を捨て専業主夫に！一体なぜ | x1
 - special-plus | 2026-10-05T22:57:00+09:00 -> 2026-10-05T23:00:00+09:00 | ダイキン空気予報 10/5 | x1
-- special-plus | 2026-10-06T18:30:00+09:00 -> 2026-10-06T23:00:00+09:00 | 第一生命 D.LEAGUE 26-27【ROUND.1】BLOCK HYPE | x1
-- special-plus-7 | 2026-10-04T12:00:00+09:00 -> 2026-10-05T01:00:00+09:00 | 新世紀エヴァンゲリオン #1〜26【無料ビデオ1週間】 | x1
+- special-plus | 2026-10-05T23:00:00+09:00 -> 2026-10-06T00:00:00+09:00 | POKER SONIC＃1 史上初のフォーカード？ 引き当てたのは一体誰？ | x1
 
 ### Reference-only examples
 
