@@ -4,56 +4,64 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261005043000 +0900" stop="20261005063000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ディープ・ブルー（１９９９）</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-13716.jpg" />
+  <programme start="20261009040000 +0900" stop="20261009061000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">プリティ・リーグ[吹]</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-18320.jpg" />
   </programme>
-  <programme start="20261005063000 +0900" stop="20261005083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">フルメタル・ジャケット</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-2194.jpg" />
+  <programme start="20261009061000 +0900" stop="20261009083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">死霊館　最後の儀式</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-41035.jpg" />
   </programme>
-  <programme start="20261005083000 +0900" stop="20261005093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">サンダーバード［吹］［ＨＤ完全版］　第１話「ＳＯＳ原子旅客機」</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-30137.jpg" />
+  <programme start="20261009083000 +0900" stop="20261009093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">サンダーバード［吹］［ＨＤ完全版］　第５話「超音ジェット機レッドアロー」</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-30145.jpg" />
   </programme>
-  <programme start="20261005093000 +0900" stop="20261005120000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">朝が来る</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-42112.jpg" />
+  <programme start="20261009093000 +0900" stop="20261009103000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ザ・キャプチャー　歪められた真実３　＃４［吹］</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-42315.jpg" />
   </programme>
-  <programme start="20261005120000 +0900" stop="20261005131500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ＳＴＯＲＩＥＳ～歌に刻まれし物語～伍代夏子　前編</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34422.jpg" />
+  <programme start="20261009103000 +0900" stop="20261009123000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">相川七瀬　Ｌｉｖｅ　Ｅｍｏｔｉｏｎ　Ｃｏｎｃｅｒｔ　Ｔｏｕｒ　’９７</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34480.jpg" />
   </programme>
-  <programme start="20261005131500 +0900" stop="20261005140000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ロッキー：奇跡の誕生 ～スタローンが語る４０年目の真実～</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-42294.jpg" />
+  <programme start="20261009123000 +0900" stop="20261009142000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ロッキー５／最後のドラマ[吹]</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-18126.jpg" />
   </programme>
-  <programme start="20261005140000 +0900" stop="20261005161500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ロッキー[吹]</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-18122.jpg" />
+  <programme start="20261009142000 +0900" stop="20261009161000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ロッキー・ザ・ファイナル[吹]</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-20332.jpg" />
   </programme>
-  <programme start="20261005161500 +0900" stop="20261005190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ディパーテッド[吹]</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-22946.jpg" />
+  <programme start="20261009161000 +0900" stop="20261009190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">トロイ</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-16124.jpg" />
   </programme>
-  <programme start="20261005190000 +0900" stop="20261005200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事　第１話</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-43050.jpg" />
+  <programme start="20261009190000 +0900" stop="20261009200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">今井美樹 40th Anniversary”Our Songs!!” TOUR 2026~smile~ ライブまでの軌跡</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/08/pr-43182.jpg" />
   </programme>
-  <programme start="20261005200000 +0900" stop="20261005221500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ビリー・ジョエル：ライヴ・イン・ローマ</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34198.jpg" />
+  <programme start="20261009200000 +0900" stop="20261009210000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">中山秀征の有楽町で逢いまSHOW♪＃6</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-43081-1.jpg" />
   </programme>
-  <programme start="20261005221500 +0900" stop="20261006003000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">押尾コータローＡＣＯＵＳＴＩＣ　ＧＵＩＴＡＲ　ＮＩＧＨＴ</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34183.jpg" />
+  <programme start="20261009210000 +0900" stop="20261009220000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">Billboard Live Selection ＜70’s～80’sニューミュージック レジェンド編＞</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/08/pr-43090.jpg" />
   </programme>
-  <programme start="20261006003000 +0900" stop="20261006024000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">オーシャンズ１１</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-15131.jpg" />
+  <programme start="20261009220000 +0900" stop="20261009233000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">真心ブラザーズ　ROMANCE DANCE #2</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/08/pr-43085.jpg" />
   </programme>
-  <programme start="20261006024000 +0900" stop="20261006035000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ザ・キャプチャー　歪められた真実３　＃３</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-42312.jpg" />
+  <programme start="20261009233000 +0900" stop="20261010003000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ザ・キャプチャー　歪められた真実３　＃５</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-42961.jpg" />
+  </programme>
+  <programme start="20261010003000 +0900" stop="20261010025000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">嵐が丘（２０２６）</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-42292.jpg" />
+  </programme>
+  <programme start="20261010025000 +0900" stop="20261010034000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ＳＵＩＴＳ／スーツ　シーズン７　＃３［吹］</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-33850.jpg" />
   </programme>
 </tv>
