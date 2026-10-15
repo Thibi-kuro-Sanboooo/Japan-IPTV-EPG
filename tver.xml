@@ -64,15 +64,16 @@
   </programme>
   <programme start="20261015215400 +0900" stop="20261015231000 +0900" channel="tver_ex">
     <title lang="ja">報道ステーション</title>
-    <desc lang="ja">スパイ容疑で記者拘束…ロシアに解放の動きは▽中国と北朝鮮を結ぶ橋、開通へ…関係緊密化も▽新たな台風の影響は▽横浜高校・織田翔希が会見▽マエケン</desc>
+    <desc lang="ja">スパイ容疑で記者拘束…ロシアに解放の動きは▽中国と北朝鮮を結ぶ橋、開通…関係緊密化も▽新たな台風の影響は▽横浜高校・織田翔希が会見▽マエケン</desc>
   </programme>
   <programme start="20261016185000 +0900" stop="20261016200000 +0900" channel="tver_ex">
     <title lang="ja">ザワつく！ 金曜日</title>
-    <desc lang="ja">長嶋一茂＆石原良純＆高嶋ちさ子のなんでもややこしくしちゃう３人が好き勝手に喋りまくる！愉快！痛快！言いたい放題バラエティー！</desc>
+    <desc lang="ja">“ちさ子節”炸裂！誕生日会での大事件に一同衝撃＆ちさ子さんも通った北海道くだもの農家の人気スイーツTOP10</desc>
   </programme>
   <programme start="20261016200000 +0900" stop="20261016205400 +0900" channel="tver_ex">
     <title lang="ja">マツコ&amp;有吉　かりそめ天国</title>
-    <desc lang="ja">番組に届いた視聴者からの「耳に入れたい話」を肴にマツコ＆有吉が独自の視点で話していくトークバラエティ！</desc>
+    <desc lang="ja">博識あるイメージのマツ有 だけど実は…？
+もう中学生がブリトー工場にテレビ初潜入</desc>
   </programme>
   <programme start="20261016215400 +0900" stop="20261016231000 +0900" channel="tver_ex">
     <title lang="ja">報道ステーション</title>
@@ -144,7 +145,7 @@
   </programme>
   <programme start="20261015220000 +0900" stop="20261015225800 +0900" channel="tver_tx">
     <title lang="ja">ＷＢＳ（ワールドビジネスサテライト）</title>
-    <desc lang="ja">ＷＢＳ▼カフェ刷新！消費反映コンビニ決算▼量子コンで配送進化▼大人の「ぬい活」</desc>
+    <desc lang="ja">ＷＢＳ▼株価急落”コアウィーブ・ショック”▼不正アクセスで医療現場が混乱</desc>
   </programme>
   <programme start="20261015225800 +0900" stop="20261015230600 +0900" channel="tver_tx">
     <title lang="ja">配信準備中</title>

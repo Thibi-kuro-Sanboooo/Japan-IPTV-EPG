@@ -4,13 +4,13 @@
 - missing channel IDs: 0
 - extra channel IDs: 0
 - metadata mismatches: 0
-- candidate programmes: 2520
+- candidate programmes: 2231
 - reference programmes in candidate window: 2456
-- exact channel/start/stop/title matches: 1784
-- candidate match rate: 70.79%
-- reference coverage rate: 72.64%
-- matching descriptions among exact matches: 1772
-- description match rate: 99.33%
+- exact channel/start/stop/title matches: 1552
+- candidate match rate: 69.57%
+- reference coverage rate: 63.19%
+- matching descriptions among exact matches: 1540
+- description match rate: 99.23%
 
 ## Per-channel parity
 
@@ -33,11 +33,11 @@
 | rch_89 | 32 | 32 | 32 | 100.00% | 100.00% |
 | rch_75 | 69 | 67 | 46 | 66.67% | 68.66% |
 | rch_97 | 27 | 25 | 14 | 51.85% | 56.00% |
-| rch_49 | 72 | 70 | 55 | 76.39% | 78.57% |
+| rch_49 | 0 | 70 | 0 | 100.00% | 0.00% |
 | rch_51 | 19 | 17 | 12 | 63.16% | 70.59% |
 | rch_64 | 86 | 84 | 84 | 97.67% | 100.00% |
 | rch_73 | 94 | 92 | 66 | 70.21% | 71.74% |
-| rch_65 | 180 | 178 | 149 | 82.78% | 83.71% |
+| rch_65 | 0 | 178 | 0 | 100.00% | 0.00% |
 | rch_94 | 51 | 49 | 9 | 17.65% | 18.37% |
 | rch_34 | 29 | 27 | 20 | 68.97% | 74.07% |
 | rch_43 | 72 | 70 | 46 | 63.89% | 65.71% |
@@ -52,7 +52,7 @@
 | rch_36 | 59 | 57 | 34 | 57.63% | 59.65% |
 | rch_74 | 37 | 35 | 23 | 62.16% | 65.71% |
 | rch_35 | 60 | 58 | 47 | 78.33% | 81.03% |
-| rch_37 | 37 | 35 | 28 | 75.68% | 80.00% |
+| rch_37 | 0 | 35 | 0 | 100.00% | 0.00% |
 | rch_104 | 28 | 28 | 28 | 100.00% | 100.00% |
 | rch_105 | 27 | 27 | 27 | 100.00% | 100.00% |
 | rch_106 | 26 | 26 | 26 | 100.00% | 100.00% |

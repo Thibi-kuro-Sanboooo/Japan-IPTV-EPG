@@ -375,7 +375,7 @@
     <title lang="ja">ワールドウェザー</title>
   </programme>
   <programme start="20261016145500 +0900" stop="20261016150000 +0900" channel="NHKワールド-PREMIUM_jp">
-    <title lang="ja">名曲アルバム</title>
+    <title lang="ja">にっぽん百名山ミニ</title>
   </programme>
   <programme start="20261016150000 +0900" stop="20261016151000 +0900" channel="NHKワールド-PREMIUM_jp">
     <title lang="ja">ニュース・気象情報</title>
@@ -448,10 +448,10 @@
   </programme>
   <programme start="20261016220000 +0900" stop="20261016222500 +0900" channel="NHKワールド-PREMIUM_jp">
     <title lang="ja">ドキュメント72時間</title>
-    <desc lang="ja">選　名神高速　巨大パーキングエリア</desc>
+    <desc lang="ja">（アンコール）名神高速　巨大パーキングエリア</desc>
   </programme>
   <programme start="20261016222500 +0900" stop="20261016223000 +0900" channel="NHKワールド-PREMIUM_jp">
-    <title lang="ja">ミニ番組</title>
+    <title lang="ja">にっぽん巨樹の旅ミニ</title>
   </programme>
   <programme start="20261016223000 +0900" stop="20261016233000 +0900" channel="NHKワールド-PREMIUM_jp">
     <title lang="ja">世界ふれあい街歩き</title>
@@ -812,7 +812,7 @@
     <title lang="ja">World Weather</title>
   </programme>
   <programme start="20261016145500 +0900" stop="20261016150000 +0900" channel="NHK-WORLD-PREMIUM_jp">
-    <title lang="ja">World Music Album</title>
+    <title lang="ja">100 Beautiful Mountains of Japan Mini</title>
   </programme>
   <programme start="20261016150000 +0900" stop="20261016151000 +0900" channel="NHK-WORLD-PREMIUM_jp">
     <title lang="ja">News &amp; Weather</title>
@@ -880,9 +880,10 @@
   </programme>
   <programme start="20261016220000 +0900" stop="20261016222500 +0900" channel="NHK-WORLD-PREMIUM_jp">
     <title lang="ja">Document 72 Hours</title>
+    <desc lang="ja">Encore</desc>
   </programme>
   <programme start="20261016222500 +0900" stop="20261016223000 +0900" channel="NHK-WORLD-PREMIUM_jp">
-    <title lang="ja">Mini Program</title>
+    <title lang="ja">Giant Trees in Japan Mini</title>
   </programme>
   <programme start="20261016223000 +0900" stop="20261016233000 +0900" channel="NHK-WORLD-PREMIUM_jp">
     <title lang="ja">Somewhere Street</title>

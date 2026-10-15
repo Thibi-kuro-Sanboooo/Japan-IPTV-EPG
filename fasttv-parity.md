@@ -4,19 +4,19 @@
 - missing channel IDs: 0
 - extra channel IDs: 0
 - metadata mismatches: 0
-- candidate programmes: 1916
+- candidate programmes: 2093
 - reference programmes in candidate window: 2004
-- exact channel/start/stop/title matches: 1875
-- candidate match rate: 97.86%
-- reference coverage rate: 93.56%
+- exact channel/start/stop/title matches: 1861
+- candidate match rate: 88.92%
+- reference coverage rate: 92.86%
 - matching descriptions among exact matches: 316
-- description match rate: 16.85%
+- description match rate: 16.98%
 
 ## Per-channel parity
 
 | Channel | Candidate | Reference | Exact | Candidate match | Reference coverage |
 |---|---:|---:|---:|---:|---:|
-| FastTV_17live | 79 | 83 | 73 | 92.41% | 87.95% |
+| FastTV_17live | 256 | 83 | 59 | 23.05% | 71.08% |
 | FastTV_samri | 73 | 77 | 73 | 100.00% | 94.81% |
 | FastTV_camng | 97 | 102 | 97 | 100.00% | 95.10% |
 | FastTV_bgolf | 101 | 109 | 101 | 100.00% | 92.66% |
