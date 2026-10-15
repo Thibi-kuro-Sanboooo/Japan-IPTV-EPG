@@ -12,6 +12,18 @@ https://raw.githubusercontent.com/Thibi-kuro-Sanboooo/Japan-IPTV-EPG/main/guides
 
 The project aims to preserve compatibility with the **244 channels** contained in the karenda-jp reference EPG, including compatible `tvg-id` values, channel names, and channel icons.
 
+## Rolling Timeshift EPG (14-Day History)
+
+For players that support selecting previously aired programmes by their EPG timestamps:
+
+```text
+https://raw.githubusercontent.com/Thibi-kuro-Sanboooo/Japan-IPTV-EPG/main/guides-history.xml
+```
+
+This separate XMLTV feed retains the previous **14 calendar days**, plus **today and tomorrow**. It updates on the same daily schedule as `guides.xml`. It begins accumulating from its first deployment, rather than inventing older schedules. The ordinary `guides.xml` remains the lightweight 2-day feed.
+
+This archives EPG metadata only; access to past video depends on the streaming provider and player.
+
 ## Supported Sources
 
 - ABEMA
@@ -31,14 +43,15 @@ The EPG is generated automatically every day with GitHub Actions.
 
 - Scheduled run time: **08:30 JST**
 - Default guide window: **2 days**
-- The public files are updated only when provider generation, XMLTV validation, 244-channel merging, and compatibility checks all succeed.
+- The public files are updated only when provider generation, XMLTV validation, 244-channel merging, and the 244-channel integrity checks all succeed.
 
-The workflow uses a fail-safe design so that a failed or incomplete build does not overwrite the last known-good public EPG.
+The workflow uses a fail-safe design so that a failed or incomplete build does not overwrite the last known-good public EPG. Differences from the karenda-jp reference are reported but do not prevent publishing.
 
 ## Main Files
 
 ```text
-guides.xml                 Combined 244-channel EPG
+guides.xml                 Combined 244-channel EPG (today and tomorrow)
+guides-history.xml         Rolling 14-day historical XMLTV + today/tomorrow
 guides-parity.md           Full comparison against the karenda-jp reference
 
 abema.xml                  ABEMA
