@@ -20,7 +20,7 @@ For players that support selecting previously aired programmes by their EPG time
 https://raw.githubusercontent.com/Thibi-kuro-Sanboooo/Japan-IPTV-EPG/main/guides-history.xml
 ```
 
-This separate XMLTV feed retains the previous **14 calendar days**, plus **today and tomorrow**. It updates on the same daily schedule as `guides.xml`. It begins accumulating from its first deployment, rather than inventing older schedules. The ordinary `guides.xml` remains the lightweight 2-day feed.
+This separate XMLTV feed retains the previous **14 calendar days** for **116 terrestrial/BS/CS channels only** (108 JCOM-based, 7 SkyPerfect/Bangumi-based, and 1 BS10 Premium), plus **today and tomorrow for all 244 channels**. It updates on the same daily schedule as `guides.xml`. Historical programmes for ABEMA, R Channel, TVer, Fast TV, NHK World Premium and other non-target sources are not retained. History accumulates from its first deployment, rather than inventing older schedules. The ordinary `guides.xml` remains the lightweight 2-day feed.
 
 This archives EPG metadata only; access to past video depends on the streaming provider and player.
 
