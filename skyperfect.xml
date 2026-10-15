@@ -64,9 +64,6 @@
   <programme start="20261016233000 +0900" stop="20261017013000 +0900" channel="Pigoo_jp">
     <title lang="ja">白石若奈「Sweet Emotion」</title>
   </programme>
-  <programme start="20261015230000 +0900" stop="20261015233000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">鉄道キャンプ旅 #24</title>
-  </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="鉄道チャンネル_jp">
     <title lang="ja">鉄道キャンプ旅 #25</title>
   </programme>
@@ -444,9 +441,6 @@
   </programme>
   <programme start="20261016230000 +0900" stop="20261017000000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">ちょっとエッチな女の子・はるなちゃん２２歳と一泊旅行</title>
-  </programme>
-  <programme start="20261015220000 +0900" stop="20261015233000 +0900" channel="MUSIC-ON!-TV(エムオン!)_jp">
-    <title lang="ja">いま歌うならコレ！新定番カラオケソング▼米津玄師 他</title>
   </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="MUSIC-ON!-TV(エムオン!)_jp">
     <title lang="ja">Juice=Juice MV特集</title>

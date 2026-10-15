@@ -8,15 +8,15 @@
 - metadata mismatches: 0
 - candidate programmes: 6963
 - reference programmes in candidate window: 6771
-- exact channel/start/stop/title matches: 6412
-- candidate match rate: 92.09%
-- reference coverage rate: 94.70%
+- exact channel/start/stop/title matches: 6411
+- candidate match rate: 92.07%
+- reference coverage rate: 94.68%
 
 ## Per-channel parity
 
 | Channel | Enabled | Candidate | Reference | Exact | Candidate match | Reference coverage |
 |---|---:|---:|---:|---:|---:|---:|
-| NHK東京・総合_jp | yes | 114 | 120 | 92 | 80.70% | 76.67% |
+| NHK東京・総合_jp | yes | 114 | 120 | 91 | 79.82% | 75.83% |
 | NHK東京・総合2_jp | no | 0 | 0 | 0 | 100.00% | 100.00% |
 | NHK東京・教育_jp | yes | 142 | 140 | 139 | 97.89% | 99.29% |
 | テレビ神奈川_jp | yes | 114 | 113 | 112 | 98.25% | 99.12% |
@@ -27,10 +27,10 @@
 | テレ東_jp | yes | 87 | 83 | 81 | 93.10% | 97.59% |
 | フジテレビ_jp | yes | 55 | 50 | 35 | 63.64% | 70.00% |
 | TOKYO・MX_jp | yes | 105 | 101 | 98 | 93.33% | 97.03% |
-| TOKYO・MX2_jp | no | 32 | 61 | 26 | 81.25% | 42.62% |
-| NHK大阪・総合_jp | yes | 116 | 122 | 84 | 72.41% | 68.85% |
-| NHK大阪・教育_jp | yes | 142 | 140 | 103 | 72.54% | 73.57% |
-| NHK京都・総合_jp | yes | 118 | 124 | 85 | 72.03% | 68.55% |
+| TOKYO・MX2_jp | no | 32 | 61 | 25 | 78.12% | 40.98% |
+| NHK大阪・総合_jp | yes | 116 | 122 | 85 | 73.28% | 69.67% |
+| NHK大阪・教育_jp | yes | 142 | 140 | 102 | 71.83% | 72.86% |
+| NHK京都・総合_jp | yes | 118 | 124 | 86 | 72.88% | 69.35% |
 | サンテレビ_jp | yes | 100 | 99 | 96 | 96.00% | 96.97% |
 | 毎日テレビ_jp | yes | 64 | 59 | 49 | 76.56% | 83.05% |
 | KBS京都_jp | yes | 110 | 107 | 106 | 96.36% | 99.07% |

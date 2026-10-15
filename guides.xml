@@ -6301,8 +6301,8 @@ https://www.winticket.jp/keirin/toyohashi/racecard/2026101545/races?index=2</des
     <desc lang="ja">▼バーガーチェーンに年賀状ソフト…情報漏えい相次ぐ▼パナソニック ドラム式洗濯機６４万台をリコール</desc>
   </programme>
   <programme start="20261016070000 +0900" stop="20261016074500 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">NHKニュース おはよう日本[字]</title>
-    <desc lang="ja">国内外の最新ニュースをわかりやすく。気になるニュースの「なぜ？」を解説。ホットな現場の中継やスポーツ情報、社会の深層に鋭く迫る特集も。気象情報は詳しく。</desc>
+    <title lang="ja">NHKニュース おはよう日本 情報漏えい「なぜ？」を徹底解説[字]</title>
+    <desc lang="ja">▼また台風・・進路は？影響は？▼農相交代で国会影響は▼「餃子の王将」裁判 きょう判決▼人気のスクイーズに…▼リーグ優勝かけてドジャース第４戦へ ほか</desc>
   </programme>
   <programme start="20261016074500 +0900" stop="20261016080000 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">NHKニュース おはよう首都圏（関東甲信越）[字]</title>
@@ -9905,7 +9905,7 @@ HIPHOPミーツallグッド何か：野沢ダイブ禁止</desc>
     <desc lang="ja">浪漫点描 散歩の風景 初夏２</desc>
   </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="TOKYO・MX2_jp">
-    <title lang="ja">Ｔｏｋｙｏ　Ｐｈｏｔｏ　Ｌｉｂｒａｒｙ</title>
+    <title lang="ja">Ｔｏｋｙｏ Ｐｈｏｔｏ Ｌｉｂｒａｒｙ</title>
     <desc lang="ja">隅田川から東京湾へ、交通と物流のダイナミズム</desc>
   </programme>
   <programme start="20261016000000 +0900" stop="20261016003000 +0900" channel="TOKYO・MX2_jp">
@@ -10141,24 +10141,24 @@ HIPHOPミーツallグッド何か：野沢ダイブ禁止</desc>
     <desc lang="ja">関西のきょう一日のニュースをきめ細かくお伝えします。また身近な地域の気象情報もていねいにお伝えします。</desc>
   </programme>
   <programme start="20261015210000 +0900" stop="20261015220000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">ニュースウオッチ９▽北朝鮮による拉致問題・５人の帰国から２４年[二][字]</title>
-    <desc lang="ja">北朝鮮による拉致問題５人の帰国から24年▽G20でAIなど議論▽プロ野球クライマックスシリーズの結果</desc>
+    <title lang="ja">ニュースウオッチ9▽北朝鮮による拉致問題・5人の帰国から24年[二][字]</title>
+    <desc lang="ja">北朝鮮による拉致問題5人の帰国から24年▽G20でAIなど議論▽プロ野球クライマックスシリーズの結果</desc>
   </programme>
   <programme start="20261015220000 +0900" stop="20261015224500 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">The Covers 秋フェス 〜今夜、泣きにいこう〜[字]</title>
-    <desc lang="ja">MC:リリー・フランキー上白石萌歌／語り:堂本光一/NHKホールから贈る「秋の夜長に沁みる名曲ＳＰ」スタレビ×トータス松本ＳＰコラボ、柴咲コウ、超特急、平原綾香</desc>
+    <title lang="ja">The　Covers　秋フェス　〜今夜、泣きにいこう〜[字]</title>
+    <desc lang="ja">MC：リリー・フランキー上白石萌歌／語り：堂本光一／NHKホールから贈る「秋の夜長に沁みる名曲SP」スタレビ×トータス松本SPコラボ、柴咲コウ、超特急、平原綾香</desc>
   </programme>
   <programme start="20261015224500 +0900" stop="20261015230000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">【夜ドラ】税金で買った本[終](32)[解][字]</title>
+    <title lang="ja">【夜ドラ】税金で買った本[終]（32）[解][字]</title>
     <desc lang="ja">「おはなし会」で読み聞かせをする石平（奥平大兼）。打ち合わせを終えた十六夜かなきが帰ろうとしているところへ、早瀬丸（西野七瀬）に促された石平が駆けつけて・・・</desc>
   </programme>
   <programme start="20261015230000 +0900" stop="20261015233000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">所さん！事件ですよ みかん畑がアボカドに！？世界的ブームの光と影[字][再]</title>
-    <desc lang="ja">全国のみかん畑がアボカド畑に！？ホントに日本で作れるの？さらに輸入アボカドの大半を占めるメキシコを調査。なぜか武装する農家たちが！世界的ブームの光と影に迫る!</desc>
+    <title lang="ja">所さん！事件ですよ　みかん畑がアボカドに！？世界的ブームの光と影[字][再]</title>
+    <desc lang="ja">全国のみかん畑がアボカド畑に！？ホントに日本で作れるの？さらに輸入アボカドの大半を占めるメキシコを調査。なぜか武装する農家たちが！世界的ブームの光と影に迫る！</desc>
   </programme>
   <programme start="20261015233000 +0900" stop="20261015234000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">時論公論 ICCの新たな試練 ノーベル平和賞とアメリカの制裁[字]</title>
-    <desc lang="ja">ＩＣＣ・国際刑事裁判所への制裁に踏み切った米トランプ政権。ノーベル平和賞に元ICC判事が選ばれたことへの対抗とされています。ICCの現状と存在意義を考えます</desc>
+    <title lang="ja">時論公論　ICCの新たな試練　ノーベル平和賞とアメリカの制裁[字]</title>
+    <desc lang="ja">ICC・国際刑事裁判所への制裁に踏み切った米トランプ政権。ノーベル平和賞に元ICC判事が選ばれたことへの対抗とされています。ICCの現状と存在意義を考えます</desc>
   </programme>
   <programme start="20261015234000 +0900" stop="20261015234500 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
@@ -10201,20 +10201,20 @@ HIPHOPミーツallグッド何か：野沢ダイブ禁止</desc>
     <desc lang="ja">紛争の影響で、制作環境の確保や伝統の継承が課題となっているパレスチナ刺しゅう。その魅力と伝統をつなごうとする女性たち、日本からの支援の取り組みを紹介する。</desc>
   </programme>
   <programme start="20261016050000 +0900" stop="20261016060000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">NHKニュース　おはよう日本</title>
-    <desc lang="ja">朝までに入っている最新ニュース、押さえておきたいきのう1日のニュースとスポーツ情報を！気になる今日の気象情報も詳しく。　【気象キャスター】檜山靖洋，晴山紋音</desc>
+    <title lang="ja">NHKニュース　おはよう日本　農相交代で国会影響は</title>
+    <desc lang="ja">▼声のAI利用ガイドライン　声優らが発表▼北海道でも暑さに強いコメ作り▼鳥取　ライダーたちの心をつかめ！新たな人気スポットづくり</desc>
   </programme>
   <programme start="20261016060000 +0900" stop="20261016063000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">NHKニュース　おはよう日本</title>
-    <desc lang="ja">1日のスタートに、国内外の最新ニュースをわかりやすく、コンパクトに。気になるニュースの解説、スポーツ情報も。気象情報は詳しくお伝えします。</desc>
+    <title lang="ja">NHKニュース　おはよう日本　また台風・・進路は？影響は？</title>
+    <desc lang="ja">▼火星に生命の痕跡は？日本主導の探査機　打ち上げへ▼プロ野球クライマックスシリーズ最新情報　ほか</desc>
   </programme>
   <programme start="20261016063000 +0900" stop="20261016070000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">NHKニュース　おはよう日本[字]</title>
-    <desc lang="ja">最新ニュースをコンパクトに！経済情報は「おはBiz」で。ほっこりする各地の話題やクスっと笑えるユニークな世界の話題もピックアップ。気象情報も詳しくお伝えします！</desc>
+    <title lang="ja">NHKニュース　おはよう日本　「餃子の王将」裁判　きょう判決[字]</title>
+    <desc lang="ja">▼バーガーチェーンに年賀状ソフト…情報漏えい相次ぐ▼パナソニック　ドラム式洗濯機64万台をリコール</desc>
   </programme>
   <programme start="20261016070000 +0900" stop="20261016074500 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">NHKニュース　おはよう日本[字]</title>
-    <desc lang="ja">国内外の最新ニュースをわかりやすく。気になるニュースの「なぜ？」を解説。ホットな現場の中継やスポーツ情報、社会の深層に鋭く迫る特集も。気象情報は詳しく。</desc>
+    <title lang="ja">NHKニュース　おはよう日本　情報漏えい「なぜ？」を徹底解説[字]</title>
+    <desc lang="ja">▼また台風・・進路は？影響は？▼農相交代で国会影響は▼「餃子の王将」裁判　きょう判決▼人気のスクイーズに…▼リーグ優勝かけてドジャース第4戦へ　ほか</desc>
   </programme>
   <programme start="20261016074500 +0900" stop="20261016080000 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">おはよう関西▼びわ湖の上を空中散歩　特殊構造の絶景つり橋</title>
@@ -10686,7 +10686,7 @@ HIPHOPミーツallグッド何か：野沢ダイブ禁止</desc>
     <desc lang="ja">赤ちゃんがなかなか寝ない！夜泣きの対応でフラフラ！睡眠にまつわる悩みは深刻…全国のパパママの悩みに専門家がとっておきの方法をアドバイス！柳沢正史</desc>
   </programme>
   <programme start="20261015235000 +0900" stop="20261015235500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">漢字ふむふむ　烏賊（イカ）はなぜ烏に賊と書くの？[字]</title>
+    <title lang="ja">漢字ふむふむ 烏賊（イカ）はなぜ烏に賊と書くの?[字]</title>
     <desc lang="ja">烏賊という漢字はなぜ「烏（カラス）に賊（ぞく）と書くのか？その語源が書かれた文章を発見！イカがそんなことを？と、驚きの内容が！ダーウィンが来た！の協力を得て探る</desc>
   </programme>
   <programme start="20261015235500 +0900" stop="20261016000000 +0900" channel="NHK大阪・教育_jp">
@@ -11178,24 +11178,24 @@ HIPHOPミーツallグッド何か：野沢ダイブ禁止</desc>
     <desc lang="ja">京都府のその日のニュースをまとめてお伝えします。身近な話題、知りたい情報をコンパクトに紹介。気になる明日の天気もしっかりと届けます。</desc>
   </programme>
   <programme start="20261015210000 +0900" stop="20261015220000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">ニュースウオッチ９▽北朝鮮による拉致問題・５人の帰国から２４年[二][字]</title>
-    <desc lang="ja">北朝鮮による拉致問題５人の帰国から24年▽G20でAIなど議論▽プロ野球クライマックスシリーズの結果</desc>
+    <title lang="ja">ニュースウオッチ9▽北朝鮮による拉致問題・5人の帰国から24年[二][字]</title>
+    <desc lang="ja">北朝鮮による拉致問題5人の帰国から24年▽G20でAIなど議論▽プロ野球クライマックスシリーズの結果</desc>
   </programme>
   <programme start="20261015220000 +0900" stop="20261015224500 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">The Covers 秋フェス 〜今夜、泣きにいこう〜[字]</title>
-    <desc lang="ja">MC:リリー・フランキー上白石萌歌／語り:堂本光一/NHKホールから贈る「秋の夜長に沁みる名曲ＳＰ」スタレビ×トータス松本ＳＰコラボ、柴咲コウ、超特急、平原綾香</desc>
+    <title lang="ja">The　Covers　秋フェス　〜今夜、泣きにいこう〜[字]</title>
+    <desc lang="ja">MC：リリー・フランキー上白石萌歌／語り：堂本光一／NHKホールから贈る「秋の夜長に沁みる名曲SP」スタレビ×トータス松本SPコラボ、柴咲コウ、超特急、平原綾香</desc>
   </programme>
   <programme start="20261015224500 +0900" stop="20261015230000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">【夜ドラ】税金で買った本[終](32)[解][字]</title>
+    <title lang="ja">【夜ドラ】税金で買った本[終]（32）[解][字]</title>
     <desc lang="ja">「おはなし会」で読み聞かせをする石平（奥平大兼）。打ち合わせを終えた十六夜かなきが帰ろうとしているところへ、早瀬丸（西野七瀬）に促された石平が駆けつけて・・・</desc>
   </programme>
   <programme start="20261015230000 +0900" stop="20261015233000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">所さん！事件ですよ みかん畑がアボカドに！？世界的ブームの光と影[字][再]</title>
-    <desc lang="ja">全国のみかん畑がアボカド畑に！？ホントに日本で作れるの？さらに輸入アボカドの大半を占めるメキシコを調査。なぜか武装する農家たちが！世界的ブームの光と影に迫る!</desc>
+    <title lang="ja">所さん！事件ですよ　みかん畑がアボカドに！？世界的ブームの光と影[字][再]</title>
+    <desc lang="ja">全国のみかん畑がアボカド畑に！？ホントに日本で作れるの？さらに輸入アボカドの大半を占めるメキシコを調査。なぜか武装する農家たちが！世界的ブームの光と影に迫る！</desc>
   </programme>
   <programme start="20261015233000 +0900" stop="20261015234000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">時論公論 ICCの新たな試練 ノーベル平和賞とアメリカの制裁[字]</title>
-    <desc lang="ja">ＩＣＣ・国際刑事裁判所への制裁に踏み切った米トランプ政権。ノーベル平和賞に元ICC判事が選ばれたことへの対抗とされています。ICCの現状と存在意義を考えます</desc>
+    <title lang="ja">時論公論　ICCの新たな試練　ノーベル平和賞とアメリカの制裁[字]</title>
+    <desc lang="ja">ICC・国際刑事裁判所への制裁に踏み切った米トランプ政権。ノーベル平和賞に元ICC判事が選ばれたことへの対抗とされています。ICCの現状と存在意義を考えます</desc>
   </programme>
   <programme start="20261015234000 +0900" stop="20261015234500 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
@@ -11238,20 +11238,20 @@ HIPHOPミーツallグッド何か：野沢ダイブ禁止</desc>
     <desc lang="ja">紛争の影響で、制作環境の確保や伝統の継承が課題となっているパレスチナ刺しゅう。その魅力と伝統をつなごうとする女性たち、日本からの支援の取り組みを紹介する。</desc>
   </programme>
   <programme start="20261016050000 +0900" stop="20261016060000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">NHKニュース　おはよう日本</title>
-    <desc lang="ja">朝までに入っている最新ニュース、押さえておきたいきのう1日のニュースとスポーツ情報を！気になる今日の気象情報も詳しく。　【気象キャスター】檜山靖洋，晴山紋音</desc>
+    <title lang="ja">NHKニュース　おはよう日本　農相交代で国会影響は</title>
+    <desc lang="ja">▼声のAI利用ガイドライン　声優らが発表▼北海道でも暑さに強いコメ作り▼鳥取　ライダーたちの心をつかめ！新たな人気スポットづくり</desc>
   </programme>
   <programme start="20261016060000 +0900" stop="20261016063000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">NHKニュース　おはよう日本</title>
-    <desc lang="ja">1日のスタートに、国内外の最新ニュースをわかりやすく、コンパクトに。気になるニュースの解説、スポーツ情報も。気象情報は詳しくお伝えします。</desc>
+    <title lang="ja">NHKニュース　おはよう日本　また台風・・進路は？影響は？</title>
+    <desc lang="ja">▼火星に生命の痕跡は？日本主導の探査機　打ち上げへ▼プロ野球クライマックスシリーズ最新情報　ほか</desc>
   </programme>
   <programme start="20261016063000 +0900" stop="20261016070000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">NHKニュース　おはよう日本[字]</title>
-    <desc lang="ja">最新ニュースをコンパクトに！経済情報は「おはBiz」で。ほっこりする各地の話題やクスっと笑えるユニークな世界の話題もピックアップ。気象情報も詳しくお伝えします！</desc>
+    <title lang="ja">NHKニュース　おはよう日本　「餃子の王将」裁判　きょう判決[字]</title>
+    <desc lang="ja">▼バーガーチェーンに年賀状ソフト…情報漏えい相次ぐ▼パナソニック　ドラム式洗濯機64万台をリコール</desc>
   </programme>
   <programme start="20261016070000 +0900" stop="20261016074500 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">NHKニュース　おはよう日本[字]</title>
-    <desc lang="ja">国内外の最新ニュースをわかりやすく。気になるニュースの「なぜ？」を解説。ホットな現場の中継やスポーツ情報、社会の深層に鋭く迫る特集も。気象情報は詳しく。</desc>
+    <title lang="ja">NHKニュース　おはよう日本　情報漏えい「なぜ？」を徹底解説[字]</title>
+    <desc lang="ja">▼また台風・・進路は？影響は？▼農相交代で国会影響は▼「餃子の王将」裁判　きょう判決▼人気のスクイーズに…▼リーグ優勝かけてドジャース第4戦へ　ほか</desc>
   </programme>
   <programme start="20261016074500 +0900" stop="20261016080000 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">おはよう関西▼びわ湖の上を空中散歩　特殊構造の絶景つり橋</title>
@@ -14096,7 +14096,7 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   </programme>
   <programme start="20261016180000 +0900" stop="20261016211500 +0900" channel="NHK・BS_jp">
     <title lang="ja">プロ野球2026 セ・リーグＣＳファイナル 第3戦「阪神×DeNA」[多][字]</title>
-    <desc lang="ja">※副音声は球場音声(試合開始 6:00)【解説】宮本慎也,【アナウンサー】別井敬之 〜甲子園球場から中継〜［延伸のとき以降の番組に変更あり]</desc>
+    <desc lang="ja">クライマックスシリーズ負けなしのDeNA!再び下克上へ!打線の主軸を欠く阪神新たな打のヒーローは？最多奪三振タイトルの才木浩人が勝利を呼び寄せるか？解説宮本慎也</desc>
   </programme>
   <programme start="20261016211500 +0900" stop="20261016220000 +0900" channel="NHK・BS_jp">
     <title lang="ja">COOL JAPAN 選 文房具[解][字]</title>
@@ -23159,12 +23159,10 @@ L'Arc〜en〜Ciel、THE YELLOW MONKEY、SPEED、モーニング娘。、工藤�
   <programme start="20261015221000 +0900" stop="20261015232000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">韓国ドラマ「昼と夜」ノーカット字幕版 #4</title>
     <desc lang="ja">ナムグン・ミンがワイルドで型破りな刑事役を熱演した本格ミステリー！私を救ったのは怪物だった―。28年前と現在…時を越えて繋がる2つの事件の謎を追う！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18632839/image/7309d81d780e91cc22b0d1d0323815d9.jpg" />
   </programme>
   <programme start="20261015232000 +0900" stop="20261015233000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">インフォメーション2026年10月</title>
     <desc lang="ja">TBSチャンネルのオススメ番組を紹介！カスタマーセンター TEL：0570-666-296（年中無休10-20時）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18632840/image/d9b102264174aa0bf7a51634561950b9.jpg" />
   </programme>
   <programme start="20261015233000 +0900" stop="20261016003000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">Run BTS! #15&lt;字幕&gt;</title>
@@ -24444,7 +24442,6 @@ KBS京都制作。「水」を通して、京の文化を紹介していきま�
 ＃１２「弱者を助ける道」
 高卒の国選弁護人が無実の人を救うために立ち上がるヒューマンリーガルドラマ！
 2020年　61分　全20話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18621184/image/a92c227b6ef132ff72c03d169a95b7a2.jpg" />
   </programme>
   <programme start="20261015233000 +0900" stop="20261016001500 +0900" channel="ホームドラマチャンネル_jp">
     <title lang="ja">韓◆お義母さんは私の嫁＃３２[字]【日本初放送】　▼キム・ヘリ</title>
@@ -24800,7 +24797,6 @@ KBS京都制作。「水」を通して、京の文化を紹介していきま�
   <programme start="20261015220000 +0900" stop="20261015233000 +0900" channel="LaLa-TV_jp">
     <title lang="ja">韓◆よくおごってくれる綺麗なお姉さん＃１２＜ノーカット版＞［字］</title>
     <desc lang="ja">チョン・へイン×ソン・イェジン豪華共演！社会現象を巻き起こした、史上最高の年の差胸キュンラブストーリー！[16話]2018年</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18630680/image/05a16f2108879a5926100ecdc3c420fc.jpg" />
   </programme>
   <programme start="20261015233000 +0900" stop="20261016014500 +0900" channel="LaLa-TV_jp">
     <title lang="ja">韓◆スキャンダル［字］</title>
@@ -26130,7 +26126,6 @@ KBS京都制作。「水」を通して、京の文化を紹介していきま�
   <programme start="20261015230000 +0900" stop="20261015233000 +0900" channel="キッズステーション_jp">
     <title lang="ja">まんが日本昔ばなし #148</title>
     <desc lang="ja">第148話「あまんじゃくの星とり/ドボンガボン」むかしむかし、あるところにーー 日本中の心をつないだ物語がありました。 1975年放送開始。語り継ぎたい“日本の心”</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18620309/image/643c20e05c3eeee469d9b1c4461f9454.jpg" />
   </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="キッズステーション_jp">
     <title lang="ja">ふるさと再生　日本の昔ばなし #140</title>
@@ -27802,7 +27797,6 @@ KBS京都制作。「水」を通して、京の文化を紹介していきま�
   <programme start="20261015230000 +0900" stop="20261015233000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ブルーイ#40[二]</title>
     <desc lang="ja">ブルーイはチェスをチェストと名づけ、想像を広げて遊ぶ。／ビンゴは誕生日のパパのためオムレツ作りに挑戦。／包装紙を重ね1枚ごとに贈り物を入れプレゼント回しを行う。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18635578/image/df1c055d2fd8ea0f34237dfa33e3c532.jpg" />
   </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ブルーイ#41[二]</title>
@@ -28614,7 +28608,6 @@ KBS京都制作。「水」を通して、京の文化を紹介していきま�
   <programme start="20261015212000 +0900" stop="20261015232500 +0900" channel="WOWOWプラス_jp">
     <title lang="ja">デイ・オブ・クライシス ヨーロッパが震撼した日</title>
     <desc lang="ja">フィンランドの独立記念日に同国の大統領宮殿が武装テロ集団に襲われ、各国の要人が人質に取られる大事件が発生。話題のベストセラー小説を映画化したアクションスリラー。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18620182/image/349dacc7d358ad2d8e17184df3563cf8.jpg" />
   </programme>
   <programme start="20261015232500 +0900" stop="20261016013000 +0900" channel="WOWOWプラス_jp">
     <title lang="ja">レジェンド・オブ・ドラゴン　鉄仮面と龍の秘宝</title>
@@ -29960,7 +29953,6 @@ https://otn.fujitv.co.jp</desc>
     <desc lang="ja">第7話「いずみ倒れる!!」
 ＜出演＞観月ありさ　松下由樹　伊藤かずえ　野際陽子　長塚京三　ほか
 （地上波放送日　1997年11月25日）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18644827/image/fc6d57689acdc877d5db465dd730597f.jpg" />
   </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">寺門ジモンの肉専門チャンネル　#144　チャーシュー麺SP</title>
@@ -30784,7 +30776,6 @@ TV初 日本 2026年 99分
   <programme start="20261015220000 +0900" stop="20261015232000 +0900" channel="KBS-WORLD_jp">
     <title lang="ja">ドラマスペシャル〜スチール写真　[字]</title>
     <desc lang="ja">2012年　全1話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18626065/image/75fa9d3697e96aded7d56394aaaf5d56.jpg" />
   </programme>
   <programme start="20261015232000 +0900" stop="20261016003000 +0900" channel="KBS-WORLD_jp">
     <title lang="ja">キマイラ　#10　[字]</title>
@@ -31863,7 +31854,6 @@ Episode 7 アジアン・バーガー</desc>
   <programme start="20261015230000 +0900" stop="20261015233000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">にっぽん酒処めぐり #12</title>
     <desc lang="ja">四季折々で楽しむ、日本が世界に誇る文化、酒。旨し一杯、極上の肴を求め、にっぽん全国の酒蔵のある町をさすらう旅番組。第１２話「奈良県奈良市」２０１９年制作</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18620025/image/9b10dd6adb289b731267d5c2f53d459e.jpg" />
   </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">ごほうび温泉 #11</title>
@@ -32735,7 +32725,6 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
   <programme start="20261015230000 +0900" stop="20261015233000 +0900" channel="BBCニュース_jp">
     <title lang="ja">ヴェリファイド・ライブ</title>
     <desc lang="ja">マシュー・アムロリワラが世界とイギリスの最新ニュースを、ロンドンからライブでお届けする。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18620696/image/90f7eb3eae72642ad3dcba7b4245eb77.jpg" />
   </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="BBCニュース_jp">
     <title lang="ja">[英]ヴェリファイド・ライブ</title>
@@ -33147,7 +33136,6 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
   <programme start="20261015224800 +0900" stop="20261015233600 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">古代の宇宙人S6 #73 人類の起源[二]</title>
     <desc lang="ja">遺伝子工学で明らかになった人類の起源。更に遠い過去まで遡り、人類の本当の祖先について解明を試みる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18620821/image/2a3433f5c688ae1780f4ba1eb18052b8.jpg" />
   </programme>
   <programme start="20261015233600 +0900" stop="20261016002400 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">ファイルX：暴かれた極秘文書 #9 スパイツール[二]</title>
@@ -35984,7 +35972,6 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
   <programme start="20261015230000 +0900" stop="20261015233000 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">サイトセブンカップ #700</title>
     <desc lang="ja">８名のライターが「ガチンコの戦い」を繰り広げるパチンコ実戦トーナメント！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261015/18640817/image/0b879aa02758b06fbe4904b378700d4b.jpg" />
   </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">くりとバッチのトレハン２ #60</title>
@@ -88139,9 +88126,6 @@ nocut@mbc.co.jp
   <programme start="20261016233000 +0900" stop="20261017013000 +0900" channel="Pigoo_jp">
     <title lang="ja">白石若奈「Sweet Emotion」</title>
   </programme>
-  <programme start="20261015230000 +0900" stop="20261015233000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">鉄道キャンプ旅 #24</title>
-  </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="鉄道チャンネル_jp">
     <title lang="ja">鉄道キャンプ旅 #25</title>
   </programme>
@@ -88519,9 +88503,6 @@ nocut@mbc.co.jp
   </programme>
   <programme start="20261016230000 +0900" stop="20261017000000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">ちょっとエッチな女の子・はるなちゃん２２歳と一泊旅行</title>
-  </programme>
-  <programme start="20261015220000 +0900" stop="20261015233000 +0900" channel="MUSIC-ON!-TV(エムオン!)_jp">
-    <title lang="ja">いま歌うならコレ！新定番カラオケソング▼米津玄師 他</title>
   </programme>
   <programme start="20261015233000 +0900" stop="20261016000000 +0900" channel="MUSIC-ON!-TV(エムオン!)_jp">
     <title lang="ja">Juice=Juice MV特集</title>
