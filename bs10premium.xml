@@ -4,56 +4,48 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261019043000 +0900" stop="20261019063000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">アルカトラズからの脱出</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-334.jpg" />
+  <programme start="20261020052000 +0900" stop="20261020083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">大脱走［4Kレストア版］[吹]</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-25627.jpg" />
   </programme>
-  <programme start="20261019063000 +0900" stop="20261019083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">野獣の瞳 BORN WILD</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-41589.jpg" />
+  <programme start="20261020083000 +0900" stop="20261020093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">サンダーバード［吹］［ＨＤ完全版］　第１２話「原子力機ファイアーフラッシュ号の危</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-30176.jpg" />
   </programme>
-  <programme start="20261019083000 +0900" stop="20261019093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">サンダーバード［吹］［ＨＤ完全版］　第１１話「ロケット“太陽号”の危機」</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-30174.jpg" />
+  <programme start="20261020093000 +0900" stop="20261020114000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ユー・ガット・メール［吹］</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-13005.jpg" />
   </programme>
-  <programme start="20261019093000 +0900" stop="20261019113000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">シティ・オブ・エンジェル</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-12541.jpg" />
+  <programme start="20261020114000 +0900" stop="20261020134500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">Hiromi Iwasaki Concert PRESENT for you for me Digest</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34300.jpg" />
   </programme>
-  <programme start="20261019113000 +0900" stop="20261019124500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">荻野目洋子ＬＩＶＥ２０２５“Ｏｕｒ　Ｓｔｏｒｙ　Ｃｏｎｔｉｎｕｅｓ”</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34251.jpg" />
+  <programme start="20261020134500 +0900" stop="20261020161500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">マネーボール</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-20930.jpg" />
   </programme>
-  <programme start="20261019124500 +0900" stop="20261019151500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">犬神家の一族（１９７６）</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-27054.jpg" />
+  <programme start="20261020161500 +0900" stop="20261020190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">クライマーズ・ハイ</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34494.jpg" />
   </programme>
-  <programme start="20261019151500 +0900" stop="20261019171000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">グレムリン[吹]</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-16818.jpg" />
+  <programme start="20261020190000 +0900" stop="20261020200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事　第１０話</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-43059.jpg" />
   </programme>
-  <programme start="20261019171000 +0900" stop="20261019190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">グレムリン２　－新・種・誕・生－[吹]</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-19986.jpg" />
+  <programme start="20261020200000 +0900" stop="20261020221000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ダーティハリー２</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-1378.jpg" />
   </programme>
-  <programme start="20261019190000 +0900" stop="20261019200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事　第９話</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-43058.jpg" />
+  <programme start="20261020221000 +0900" stop="20261021001000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">スキマスイッチ TOUR 2019-2020 “POPMAN’S CARNIVAL vol.2”</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/08/pr-43075.jpg" />
   </programme>
-  <programme start="20261019200000 +0900" stop="20261019220000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ダーティハリー</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-1377.jpg" />
+  <programme start="20261021001000 +0900" stop="20261021023000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">死霊館　エンフィールド事件［吹］</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-25715.jpg" />
   </programme>
-  <programme start="20261019220000 +0900" stop="20261019232000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">エルヴィス・プレスリー：’６８カムバック・スペシャル</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34470.jpg" />
-  </programme>
-  <programme start="20261019232000 +0900" stop="20261020012000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">死霊館[吹]</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-22575.jpg" />
-  </programme>
-  <programme start="20261020012000 +0900" stop="20261020035000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ジョージ・マイケル：Ｌｉｖｅ　ｉｎ　Ｌｏｎｄｏｎ</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-41122.jpg" />
+  <programme start="20261021023000 +0900" stop="20261021035500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">キャロル・キング＆ジェイムス・テイラー：トルバドール・リユニオン</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34207.jpg" />
   </programme>
 </tv>
