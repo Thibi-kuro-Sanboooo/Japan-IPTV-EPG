@@ -67,8 +67,18 @@
     <title lang="ja">連続テレビ小説「ブラッサム」</title>
     <desc lang="ja">（16）</desc>
   </programme>
-  <programme start="20261019081500 +0900" stop="20261019095400 +0900" channel="NHKワールド-PREMIUM_jp">
+  <programme start="20261019081500 +0900" stop="20261019085500 +0900" channel="NHKワールド-PREMIUM_jp">
     <title lang="ja">あさイチ</title>
+  </programme>
+  <programme start="20261019085500 +0900" stop="20261019090000 +0900" channel="NHKワールド-PREMIUM_jp">
+    <title lang="ja">ニュース・気象情報</title>
+  </programme>
+  <programme start="20261019090000 +0900" stop="20261019094500 +0900" channel="NHKワールド-PREMIUM_jp">
+    <title lang="ja">六角精児の呑み鉄本線・日本旅</title>
+    <desc lang="ja">旧北陸本線を呑む！IRいしかわ鉄道、のと鉄道編</desc>
+  </programme>
+  <programme start="20261019094500 +0900" stop="20261019095400 +0900" channel="NHKワールド-PREMIUM_jp">
+    <title lang="ja">ミニ番組</title>
   </programme>
   <programme start="20261019095400 +0900" stop="20261019095500 +0900" channel="NHKワールド-PREMIUM_jp">
     <title lang="ja">ワールドウェザー</title>
@@ -77,7 +87,7 @@
     <title lang="ja">みんなの体操</title>
   </programme>
   <programme start="20261019100000 +0900" stop="20261019100500 +0900" channel="NHKワールド-PREMIUM_jp">
-    <title lang="ja">ニュース・気象情報</title>
+    <title lang="ja">ミニ番組</title>
   </programme>
   <programme start="20261019100500 +0900" stop="20261019105100 +0900" channel="NHKワールド-PREMIUM_jp">
     <title lang="ja">新プロジェクトX ～挑戦者たち～</title>
@@ -114,20 +124,21 @@
     <title lang="ja">連続テレビ小説「ブラッサム」</title>
     <desc lang="ja">（16）</desc>
   </programme>
-  <programme start="20261019130000 +0900" stop="20261019130500 +0900" channel="NHKワールド-PREMIUM_jp">
-    <title lang="ja">ニュース</title>
+  <programme start="20261019130000 +0900" stop="20261019132900 +0900" channel="NHKワールド-PREMIUM_jp">
+    <title lang="ja">驚き！地球！ グレートネイチャー</title>
+    <desc lang="ja">「追跡！ヒマラヤ誕生の秘密」</desc>
   </programme>
-  <programme start="20261019130500 +0900" stop="20261019145000 +0900" channel="NHKワールド-PREMIUM_jp">
-    <title lang="ja">列島ニュース</title>
+  <programme start="20261019132900 +0900" stop="20261019133900 +0900" channel="NHKワールド-PREMIUM_jp">
+    <title lang="ja">にっぽん百名山ミニ</title>
   </programme>
-  <programme start="20261019145000 +0900" stop="20261019145500 +0900" channel="NHKワールド-PREMIUM_jp">
-    <title lang="ja">ワールドウェザー</title>
+  <programme start="20261019133900 +0900" stop="20261019134200 +0900" channel="NHKワールド-PREMIUM_jp">
+    <title lang="ja">ミニ番組</title>
   </programme>
-  <programme start="20261019145500 +0900" stop="20261019150000 +0900" channel="NHKワールド-PREMIUM_jp">
-    <title lang="ja">名曲アルバム</title>
+  <programme start="20261019134200 +0900" stop="20261019150000 +0900" channel="NHKワールド-PREMIUM_jp">
+    <title lang="ja">SLタイムマシン</title>
   </programme>
   <programme start="20261019150000 +0900" stop="20261019151000 +0900" channel="NHKワールド-PREMIUM_jp">
-    <title lang="ja">ニュース・気象情報</title>
+    <title lang="ja">にっぽん巨樹の旅ミニ</title>
   </programme>
   <programme start="20261019151000 +0900" stop="20261019154000 +0900" channel="NHKワールド-PREMIUM_jp">
     <title lang="ja">はじめましての2人旅</title>
@@ -350,7 +361,7 @@
     <title lang="ja">ワールドウェザー</title>
   </programme>
   <programme start="20261020145500 +0900" stop="20261020150000 +0900" channel="NHKワールド-PREMIUM_jp">
-    <title lang="ja">ミニ番組</title>
+    <title lang="ja">ニッポン創世　神々の道をたどる　5min.</title>
   </programme>
   <programme start="20261020150000 +0900" stop="20261020151000 +0900" channel="NHKワールド-PREMIUM_jp">
     <title lang="ja">ニュース・気象情報</title>
@@ -499,8 +510,17 @@
     <title lang="ja">Drama Serial "Blossom"</title>
     <desc lang="ja">Ep. 16</desc>
   </programme>
-  <programme start="20261019081500 +0900" stop="20261019095400 +0900" channel="NHK-WORLD-PREMIUM_jp">
+  <programme start="20261019081500 +0900" stop="20261019085500 +0900" channel="NHK-WORLD-PREMIUM_jp">
     <title lang="ja">asaichi</title>
+  </programme>
+  <programme start="20261019085500 +0900" stop="20261019090000 +0900" channel="NHK-WORLD-PREMIUM_jp">
+    <title lang="ja">News &amp; Weather</title>
+  </programme>
+  <programme start="20261019090000 +0900" stop="20261019094500 +0900" channel="NHK-WORLD-PREMIUM_jp">
+    <title lang="ja">Rokkaku Seiji's Nomitetsu Railroad Trip: IR Ishikawa Railway &amp; Noto Railway</title>
+  </programme>
+  <programme start="20261019094500 +0900" stop="20261019095400 +0900" channel="NHK-WORLD-PREMIUM_jp">
+    <title lang="ja">Mini Program</title>
   </programme>
   <programme start="20261019095400 +0900" stop="20261019095500 +0900" channel="NHK-WORLD-PREMIUM_jp">
     <title lang="ja">World Weather</title>
@@ -509,7 +529,7 @@
     <title lang="ja">Exercise for Everyone</title>
   </programme>
   <programme start="20261019100000 +0900" stop="20261019100500 +0900" channel="NHK-WORLD-PREMIUM_jp">
-    <title lang="ja">News &amp; Weather</title>
+    <title lang="ja">Mini Program</title>
   </programme>
   <programme start="20261019100500 +0900" stop="20261019105100 +0900" channel="NHK-WORLD-PREMIUM_jp">
     <title lang="ja">Project X: The Challengers-New Beginnings</title>
@@ -545,20 +565,21 @@
     <title lang="ja">Drama Serial "Blossom"</title>
     <desc lang="ja">Ep. 16</desc>
   </programme>
-  <programme start="20261019130000 +0900" stop="20261019130500 +0900" channel="NHK-WORLD-PREMIUM_jp">
-    <title lang="ja">News</title>
+  <programme start="20261019130000 +0900" stop="20261019132900 +0900" channel="NHK-WORLD-PREMIUM_jp">
+    <title lang="ja">The Great Nature</title>
+    <desc lang="ja">"Himalayas"</desc>
   </programme>
-  <programme start="20261019130500 +0900" stop="20261019145000 +0900" channel="NHK-WORLD-PREMIUM_jp">
-    <title lang="ja">News Around Japan</title>
+  <programme start="20261019132900 +0900" stop="20261019133900 +0900" channel="NHK-WORLD-PREMIUM_jp">
+    <title lang="ja">100 Beautiful Mountains of Japan Mini</title>
   </programme>
-  <programme start="20261019145000 +0900" stop="20261019145500 +0900" channel="NHK-WORLD-PREMIUM_jp">
-    <title lang="ja">World Weather</title>
+  <programme start="20261019133900 +0900" stop="20261019134200 +0900" channel="NHK-WORLD-PREMIUM_jp">
+    <title lang="ja">Mini Program</title>
   </programme>
-  <programme start="20261019145500 +0900" stop="20261019150000 +0900" channel="NHK-WORLD-PREMIUM_jp">
-    <title lang="ja">World Music Album</title>
+  <programme start="20261019134200 +0900" stop="20261019150000 +0900" channel="NHK-WORLD-PREMIUM_jp">
+    <title lang="ja">SL Time Machine</title>
   </programme>
   <programme start="20261019150000 +0900" stop="20261019151000 +0900" channel="NHK-WORLD-PREMIUM_jp">
-    <title lang="ja">News &amp; Weather</title>
+    <title lang="ja">Giant Trees in Japan Mini</title>
   </programme>
   <programme start="20261019151000 +0900" stop="20261019154000 +0900" channel="NHK-WORLD-PREMIUM_jp">
     <title lang="ja">An Unlikely Pair Hits the Road</title>
@@ -771,7 +792,7 @@
     <title lang="ja">World Weather</title>
   </programme>
   <programme start="20261020145500 +0900" stop="20261020150000 +0900" channel="NHK-WORLD-PREMIUM_jp">
-    <title lang="ja">Mini Program</title>
+    <title lang="ja">Japan Genesis: Pilgrimage to the Land of the Gods 5min.</title>
   </programme>
   <programme start="20261020150000 +0900" stop="20261020151000 +0900" channel="NHK-WORLD-PREMIUM_jp">
     <title lang="ja">News &amp; Weather</title>

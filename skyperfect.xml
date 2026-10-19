@@ -28,12 +28,6 @@
     <display-name lang="ja">スカチャン-1</display-name>
     <icon src="https://api2.bangumi.org/repix/monomedia/logo/css/logo-0006-801-75x75.png" />
   </channel>
-  <programme start="20261019080000 +0900" stop="20261019093000 +0900" channel="Pigoo_jp">
-    <title lang="ja">渡邉音宇「ねねと、こいする？」</title>
-  </programme>
-  <programme start="20261019093000 +0900" stop="20261019113000 +0900" channel="Pigoo_jp">
-    <title lang="ja">鈴木聖「転生したら鈴木聖だった件」</title>
-  </programme>
   <programme start="20261019113000 +0900" stop="20261019140000 +0900" channel="Pigoo_jp">
     <title lang="ja">白川のぞみ「ふわふわのぞみん」</title>
   </programme>
@@ -93,33 +87,6 @@
   </programme>
   <programme start="20261020223000 +0900" stop="20261021003000 +0900" channel="Pigoo_jp">
     <title lang="ja">桜りん「りんに溶けて」</title>
-  </programme>
-  <programme start="20261019083000 +0900" stop="20261019090000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">テレビショッピング</title>
-  </programme>
-  <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">湯らり鉄道 女子ふたり旅 #2</title>
-  </programme>
-  <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">テレビショッピング</title>
-  </programme>
-  <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">にっぽん再発見～ローカル線で行く小さな旅～ #7</title>
-  </programme>
-  <programme start="20261019103000 +0900" stop="20261019110000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">盲腸線～行き止まり駅の旅 #13</title>
-  </programme>
-  <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">しおねるの鉄道幸せ美食旅 #7</title>
-  </programme>
-  <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">テレビショッピング</title>
-  </programme>
-  <programme start="20261019120000 +0900" stop="20261019123000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">三宅智子の女子的駅弁紀行 #1</title>
-  </programme>
-  <programme start="20261019123000 +0900" stop="20261019130000 +0900" channel="鉄道チャンネル_jp">
-    <title lang="ja">鉄道で巡る美しき工場夜景の世界 #3</title>
   </programme>
   <programme start="20261019130000 +0900" stop="20261019133000 +0900" channel="鉄道チャンネル_jp">
     <title lang="ja">鉄道で巡る美しき工場夜景の世界 #4</title>
@@ -307,21 +274,6 @@
   <programme start="20261020233000 +0900" stop="20261021000000 +0900" channel="鉄道チャンネル_jp">
     <title lang="ja">徳永ゆうきのぐるっと歌テツ旅 #10</title>
   </programme>
-  <programme start="20261019050000 +0900" stop="20261019100000 +0900" channel="ミュージック・ジャパンTV_jp">
-    <title lang="ja">最新！カウントダウン TOP50</title>
-  </programme>
-  <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="ミュージック・ジャパンTV_jp">
-    <title lang="ja">たっぷり歌える！歌詞有りMV vol.1～Mコレ</title>
-  </programme>
-  <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="ミュージック・ジャパンTV_jp">
-    <title lang="ja">情報番組</title>
-  </programme>
-  <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="ミュージック・ジャパンTV_jp">
-    <title lang="ja">歌詞有り！泣きたい心に寄り添うバラード Vol.1～Mコレ</title>
-  </programme>
-  <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="ミュージック・ジャパンTV_jp">
-    <title lang="ja">たっぷり歌える！歌詞有りMV vol.4～Mコレ</title>
-  </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="ミュージック・ジャパンTV_jp">
     <title lang="ja">たっぷり歌える！歌詞有りMV vol.2～Mコレ</title>
   </programme>
@@ -451,21 +403,6 @@
   <programme start="20261020230000 +0900" stop="20261021000000 +0900" channel="ミュージック・ジャパンTV_jp">
     <title lang="ja">☆ラブラブ K-POP 10月放送分②</title>
   </programme>
-  <programme start="20261019080000 +0900" stop="20261019090000 +0900" channel="V-パラダイス_jp">
-    <title lang="ja">海賊王船長タック season.14 ＃4</title>
-  </programme>
-  <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="V-パラダイス_jp">
-    <title lang="ja">情報番組</title>
-  </programme>
-  <programme start="20261019093000 +0900" stop="20261019113000 +0900" channel="V-パラダイス_jp">
-    <title lang="ja">PARKER パーカー</title>
-  </programme>
-  <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="V-パラダイス_jp">
-    <title lang="ja">情報番組</title>
-  </programme>
-  <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="V-パラダイス_jp">
-    <title lang="ja">ダメージ シーズン2 第5話</title>
-  </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="V-パラダイス_jp">
     <title lang="ja">アンフォゲッタブル 完全記憶捜査 シーズン1 第20話</title>
   </programme>
@@ -567,21 +504,6 @@
   </programme>
   <programme start="20261020235000 +0900" stop="20261021022000 +0900" channel="V-パラダイス_jp">
     <title lang="ja">樹智子 上書き保存ができません</title>
-  </programme>
-  <programme start="20261019080000 +0900" stop="20261019090000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">本●行為は禁止のお店で挿れさせてくれた風俗嬢！（４）</title>
-  </programme>
-  <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">ごく一般的な夫婦のリアルな性生活を隠し撮り（３）</title>
-  </programme>
-  <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">熟女５人！思わず中でイッちゃいました⑰</title>
-  </programme>
-  <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">白河花清がレンタルお母さんで家にやってきた！</title>
-  </programme>
-  <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="ヌーヴェルパラダイス_jp">
-    <title lang="ja">寸止女⑪ のぞみ</title>
   </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="ヌーヴェルパラダイス_jp">
     <title lang="ja">ガチ口説きⅠ～かわいいシロウト女性５人と本気のＳＥＸ</title>
@@ -762,15 +684,6 @@
   </programme>
   <programme start="20261020233000 +0900" stop="20261021000000 +0900" channel="MUSIC-ON!-TV(エムオン!)_jp">
     <title lang="ja">耳に残る歴代CMソングメドレー▼藤井 風、ORANGE RANGE 他</title>
-  </programme>
-  <programme start="20261019083000 +0900" stop="20261019094500 +0900" channel="スカチャン-1_jp">
-    <title lang="ja">【KNTV】シークレット・ブティック #15</title>
-  </programme>
-  <programme start="20261019094500 +0900" stop="20261019113000 +0900" channel="スカチャン-1_jp">
-    <title lang="ja">【KNTV】知ってるお兄さん #497</title>
-  </programme>
-  <programme start="20261019113000 +0900" stop="20261019124500 +0900" channel="スカチャン-1_jp">
-    <title lang="ja">【KNTV】一番目の男 #89-90</title>
   </programme>
   <programme start="20261019124500 +0900" stop="20261019140000 +0900" channel="スカチャン-1_jp">
     <title lang="ja">【KNTV】一番目の男 #91-92</title>

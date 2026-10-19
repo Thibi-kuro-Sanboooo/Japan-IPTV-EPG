@@ -19,13 +19,13 @@ Candidate: self-acquired ABEMA XMLTV
 ## Programme parity
 
 - reference programmes in candidate window: 885
-- candidate programmes: 864
+- candidate programmes: 870
 - exact channel/start/stop/title matches: 787
-- candidate match rate: 91.09%
+- candidate match rate: 90.46%
 - reference coverage rate: 88.93%
 - matching descriptions among exact programme matches: 555
 - description match rate: 70.52%
-- candidate-only programmes: 77
+- candidate-only programmes: 83
 - reference-only programmes: 98
 
 ### Candidate-only examples
@@ -36,20 +36,20 @@ Candidate: self-acquired ABEMA XMLTV
 - abema-news | 2026-10-18T23:00:00+09:00 -> 2026-10-19T01:10:00+09:00 | ABEMA NEWS　お休み前に最新ニュース | x1
 - abema-special | 2026-10-19T18:49:00+09:00 -> 2026-10-19T20:57:00+09:00 | さよならくちびる【~10/25無料！青春・恋愛映画が毎月入荷＆毎週無料】 | x1
 - abema-special | 2026-10-20T02:00:00+09:00 -> 2026-10-20T03:00:00+09:00 | #7：AKB時代から若返った・板野友美(35)＆奇跡の56歳美魔女 | x1
+- abema-special | 2026-10-20T03:00:00+09:00 -> 2026-10-20T07:00:00+09:00 | ラブキャッチャージャパン3 #1~4 | x1
 - abema-special | 2026-10-20T21:00:00+09:00 -> 2026-10-20T22:00:00+09:00 | ラブキャッチャージャパン3 #8 | x1
 - abema-special | 2026-10-20T23:00:00+09:00 -> 2026-10-21T00:05:00+09:00 | ナオキマンの都市伝説ワイドショー#1：【過去最恐】予測不能なヒトコワSP | x1
 - special-plus | 2026-10-19T14:30:00+09:00 -> 2026-10-19T14:44:00+09:00 | 映画『汝、星のごとく』公開記念特番 愛が紡いだ15年の軌跡SP ダイジェスト版 | x1
 - special-plus | 2026-10-19T22:00:00+09:00 -> 2026-10-19T22:57:00+09:00 | ななにー 地下ABEMA #138 今話題の爆モテ！イケメン店員大集合 | x1
+- special-plus | 2026-10-19T23:00:00+09:00 -> 2026-10-20T00:00:00+09:00 | POKER SONIC＃3史上最悪！こんな煽りポーカーここでしか見られない | x1
 - special-plus | 2026-10-20T00:00:00+09:00 -> 2026-10-20T02:00:00+09:00 | チャンスの時間 #375~376 | x1
+- special-plus | 2026-10-20T02:00:00+09:00 -> 2026-10-20T04:00:00+09:00 | ナオキマンの都市伝説ワイドショー season2 #7~8 | x1
 - special-plus | 2026-10-20T18:30:00+09:00 -> 2026-10-20T23:00:00+09:00 | 第一生命 D.LEAGUE 26-27【ROUND.2】BLOCK VIBE | x1
 - special-plus-7 | 2026-10-18T18:00:00+09:00 -> 2026-10-19T03:00:00+09:00 | ブギーポップは笑わない #1〜18【無料ビデオ2週間】 | x1
 - special-plus-7 | 2026-10-19T22:00:00+09:00 -> 2026-10-20T04:00:00+09:00 | 冰剣の魔術師が世界を統べる #1〜12【無料ビデオ1週間】 | x1
 - anime-special-2 | 2026-10-18T20:30:00+09:00 -> 2026-10-19T03:00:00+09:00 | 頭文字[イニシャル]D First Stage#1～13【無料ビデオ1週間】 | x1
 - anime-special-2 | 2026-10-19T20:30:00+09:00 -> 2026-10-20T03:00:00+09:00 | 頭文字[イニシャル]D First Stage#14～26【無料ビデオ1週間】 | x1
 - anime-special-2 | 2026-10-20T20:30:00+09:00 -> 2026-10-21T03:00:00+09:00 | 頭文字[イニシャル]D Second Stage#1～13【無料ビデオ1週間】 | x1
-- anime-special-4 | 2026-10-19T12:00:00+09:00 -> 2026-10-19T14:30:00+09:00 | ジョジョの奇妙な冒険 ストーンオーシャン #26〜30 | x1
-- anime-special-4 | 2026-10-19T20:00:00+09:00 -> 2026-10-19T22:30:00+09:00 | ジョジョの奇妙な冒険 ストーンオーシャン #26〜30 | x1
-- anime-special-4 | 2026-10-20T12:00:00+09:00 -> 2026-10-20T14:30:00+09:00 | ジョジョの奇妙な冒険 ストーンオーシャン #31〜35 | x1
 
 ### Reference-only examples
 

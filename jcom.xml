@@ -566,7 +566,7 @@
   </programme>
   <programme start="20261019215400 +0900" stop="20261019231000 +0900" channel="ABCテレビ_jp">
     <title lang="ja">報道ステーション[字]</title>
-    <desc lang="ja">国会焦点は消費減税に…深刻、外食産業の苦悩▽発達続ける台風３０号…千葉豪雨も高精度で…ＡＩ台風進路予測の今▽松坂大輔×織田翔希…怪物対談(他)</desc>
+    <desc lang="ja">国会焦点は消費減税に…深刻、外食産業の苦悩…高市政権の支持率は▽クマで都も初訓練へ▽発達続ける台風３０号▽松坂大輔×織田翔希…怪物対談(他)</desc>
   </programme>
   <programme start="20261019231000 +0900" stop="20261020000000 +0900" channel="ABCテレビ_jp">
     <title lang="ja">なるみ岡村の過ぎるＴＶ[字] ごはんが進む米泥棒！名店グルメにご飯のお供を大特集！</title>
@@ -643,8 +643,9 @@
     <desc lang="ja">▽生活が豊かになるとっておきのええもんを妹尾和夫と秋吉英美がご紹介します!</desc>
   </programme>
   <programme start="20261020050000 +0900" stop="20261020080000 +0900" channel="ABCテレビ_jp">
-    <title lang="ja">おはよう朝日です[デ]</title>
-    <desc lang="ja">関西の朝は「おはよう朝日です」でスタート。ニュース、スポーツはもちろん最新グルメガイドや新製品まで、一番新しい情報を笑いとともにお届けします。</desc>
+    <title lang="ja">おはよう朝日です[デ] 町中華徹底リサーチ！小嶋花梨感動！コーナー史上最高得点が出た!</title>
+    <desc lang="ja">▽町中華徹底リサーチでコーナー史上最高得点が出た!
+▽京都に集結した豪華芸能人に小櫃アナが直撃!</desc>
   </programme>
   <programme start="20261020080000 +0900" stop="20261020095500 +0900" channel="ABCテレビ_jp">
     <title lang="ja">羽鳥慎一モーニングショー[字]</title>
@@ -849,7 +850,6 @@
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="BBCニュース_jp">
     <title lang="ja">BBCニュース</title>
     <desc lang="ja">世界の最新ニュースをお送りする。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633982/image/d554c4dfdf45f94645e47001079a6ba8.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="BBCニュース_jp">
     <title lang="ja">[字][英]気候問題：中国の気候変動対策(再)</title>
@@ -858,7 +858,6 @@
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="BBCニュース_jp">
     <title lang="ja">ニュースデイ</title>
     <desc lang="ja">BBCシンガポール支局から、アジアと世界の最新情報をお伝えする生放送のニュース番組。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633984/image/eadab869b19ac09f6ce87be24ac48668.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019104500 +0900" channel="BBCニュース_jp">
     <title lang="ja">ビジネストゥデイ</title>
@@ -871,7 +870,6 @@
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="BBCニュース_jp">
     <title lang="ja">ニュースデイ</title>
     <desc lang="ja">BBCシンガポール支局から、アジアと世界の最新情報をお伝えする生放送のニュース番組。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633987/image/6955c419c55666bc29afcce35ad4fe65.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019114500 +0900" channel="BBCニュース_jp">
     <title lang="ja">ビジネストゥデイ</title>
@@ -884,7 +882,6 @@
   <programme start="20261019120000 +0900" stop="20261019123000 +0900" channel="BBCニュース_jp">
     <title lang="ja">ニュースデイ</title>
     <desc lang="ja">BBCシンガポール支局から、アジアと世界の最新情報をお伝えする生放送のニュース番組。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633990/image/207c4ac39c92052298b165d30cbf2db7.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019124500 +0900" channel="BBCニュース_jp">
     <title lang="ja">ビジネストゥデイ</title>
@@ -3321,7 +3318,7 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
   </programme>
   <programme start="20261020070500 +0900" stop="20261020080000 +0900" channel="BSテレ東-4K_jp">
     <title lang="ja">モープラＦＴ【それいけマネー編集長「著名投資家に聞く　激動相場の読み解き術】[二]</title>
-    <desc lang="ja">ビジネスや投資に必要なニュース、情報を厳選し、コンパクトかつ的確に生放送でお伝えします。日本経済新聞や英フィナンシャル・タイムズと連携して制作しています。</desc>
+    <desc lang="ja">▼それいけマネー編集長〜著名投資家に聞く激動相場の読み解き術▼FTToday　共和党が偽動画で激戦州対立候補を攻撃▼QUICK為替調査</desc>
   </programme>
   <programme start="20261020080000 +0900" stop="20261020082900 +0900" channel="BSテレ東-4K_jp">
     <title lang="ja">美と健康のショッピング</title>
@@ -3353,7 +3350,7 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
     <desc lang="ja">マグロ漁師達が新型コロナで大ピンチ！逆境に燃える男達が荒海へ▽大間最年少漁師が化け物マグロと死闘▽やもめ漁師、娘の決意に涙▽紅白歌手も海へ＆マグロ爆釣映像大連発</desc>
   </programme>
   <programme start="20261020210000 +0900" stop="20261020220000 +0900" channel="BSテレ東-4K_jp">
-    <title lang="ja">視る日経！ニュースNEXT▼１日の経済・投資・マーケット情報を深掘り、明日に生かす！</title>
+    <title lang="ja">視る日経！ニュースNEXT【AI相場は暴発寸前？導火線は新興クラウド！投資家どうする】</title>
     <desc lang="ja">きょうの日経電子版の注目ニュースを厳選。記者や編集委員、専門家が舞台裏も含め読み解きます。先の見えない激動の時代に、経済の「これから」を見通すヒントを探ります。</desc>
   </programme>
   <programme start="20261020220000 +0900" stop="20261020225500 +0900" channel="BSテレ東-4K_jp">
@@ -3541,6 +3538,7 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
   <programme start="20261020000000 +0900" stop="20261020003000 +0900" channel="BSテレ東_jp">
     <title lang="ja">晩酌の流儀５〜秋冬篇〜第３話「鮭のスイートチリソース焼き」[字]</title>
     <desc lang="ja">アキラの手助けで、急遽美幸とデートすることになったヤス。なんとか距離を縮めようと努力するヤスだったが四苦八苦。そんな最中、あるトラブルに巻き込まれて…!?</desc>
+    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/478486/image/1e2c92e1883ba2e12c14cb44a92f1d44.jpg" />
   </programme>
   <programme start="20261020003000 +0900" stop="20261020005900 +0900" channel="BSテレ東_jp">
     <title lang="ja">ホテル・インヒューマンズ request 16.[字]</title>
@@ -3594,7 +3592,7 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
   </programme>
   <programme start="20261020070500 +0900" stop="20261020080000 +0900" channel="BSテレ東_jp">
     <title lang="ja">モープラＦＴ【それいけマネー編集長「著名投資家に聞く 激動相場の読み解き術】[二]</title>
-    <desc lang="ja">ビジネスや投資に必要なニュース、情報を厳選し、コンパクトかつ的確に生放送でお伝えします。日本経済新聞や英フィナンシャル・タイムズと連携して制作しています。</desc>
+    <desc lang="ja">▼それいけマネー編集長〜著名投資家に聞く激動相場の読み解き術▼FTToday 共和党が偽動画で激戦州対立候補を攻撃▼QUICK為替調査</desc>
   </programme>
   <programme start="20261020080000 +0900" stop="20261020082900 +0900" channel="BSテレ東_jp">
     <title lang="ja">美と健康のショッピング</title>
@@ -3655,7 +3653,7 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
     <desc lang="ja">マグロ漁師達が新型コロナで大ピンチ！逆境に燃える男達が荒海へ▽大間最年少漁師が化け物マグロと死闘▽やもめ漁師、娘の決意に涙▽紅白歌手も海へ＆マグロ爆釣映像大連発</desc>
   </programme>
   <programme start="20261020210000 +0900" stop="20261020220000 +0900" channel="BSテレ東_jp">
-    <title lang="ja">視る日経！ニュースNEXT▼1日の経済・投資・マーケット情報を深掘り、明日に生かす!</title>
+    <title lang="ja">視る日経！ニュースNEXT【AI相場は暴発寸前?導火線は新興クラウド！投資家どうする】</title>
     <desc lang="ja">きょうの日経電子版の注目ニュースを厳選。記者や編集委員、専門家が舞台裏も含め読み解きます。先の見えない激動の時代に、経済の「これから」を見通すヒントを探ります。</desc>
   </programme>
   <programme start="20261020220000 +0900" stop="20261020225500 +0900" channel="BSテレ東_jp">
@@ -5781,7 +5779,6 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
     <title lang="ja">[二]CNNニュースルーム</title>
     <desc lang="ja">日本語同時通訳付。
 アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633664/image/2e2a0566a799afc6e3054094a26e4a60.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="CNNj_jp">
     <title lang="ja">[二]特別番組：米中間選挙プレビュー</title>
@@ -5794,7 +5791,6 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="CNNj_jp">
     <title lang="ja">African Voices[再]</title>
     <desc lang="ja">世界的に活躍するアフリカ各国の話題の人物に、ロング・インタビュー。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633667/image/27121b0eb5652c329ab73b7696db217e.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019114500 +0900" channel="CNNj_jp">
     <title lang="ja">ヨーロッパ経済市場[再]</title>
@@ -5811,7 +5807,6 @@ Y-Tube大賞は、毎日更新し続ける「OmO」の厳選動画を吉本芸�
   <programme start="20261019123000 +0900" stop="20261019130000 +0900" channel="CNNj_jp">
     <title lang="ja">Inside Africa[再]</title>
     <desc lang="ja">アフリカ各地の魅力を自然、産業、芸術、文化、人物など、様々な観点から伝える。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633671/image/c7a586f107cde8ea07c3b045cffba782.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="CNNj_jp">
     <title lang="ja">[二]CNNニュースルーム</title>
@@ -6122,7 +6117,6 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
   <programme start="20261019083000 +0900" stop="20261019093000 +0900" channel="Dlife(ディーライフ)_jp">
     <title lang="ja">9-1-1: LA救命最前線 シーズン8 #15「実験用ラット」[二]</title>
     <desc lang="ja">実験室に閉じ込められたボビー、チムニー、ヘン、ラヴィ。チムニーはウイルスに感染し、ヘンは負傷していた。ボビーは軍とＦＢＩに任せて、アシーナには外れるよう告げる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18641389/image/d628bc210eb4f662a17dcc9f7f956d2d.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="Dlife(ディーライフ)_jp">
     <title lang="ja">インフォメーション[日]</title>
@@ -6131,17 +6125,14 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="Dlife(ディーライフ)_jp">
     <title lang="ja">BONES シーズン4 #2「イギリス事件簿　パート2」[二]</title>
     <desc lang="ja">アメリカへ帰国しようとしていたブレナンとブース。そんな中、イアン・ウェクスラー教授の自宅でガス爆発が発生し、イアンと思われる焼死体が発見されたとの連絡が…。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18641391/image/50dca83b384520e08ae726d99d6e665b.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="Dlife(ディーライフ)_jp">
     <title lang="ja">BONES シーズン4 #3「浮気の代償」[二]</title>
     <desc lang="ja">排泄物まみれの男の遺体が見つかる。男は、女性をおとり役に、世の夫たちの浮気“前”現場を押さえる人気リアリティ番組のホスト、ビル。番組に騙された夫たちが疑われる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18641392/image/4c0abf538392d35fbc8a543b847b2ce1.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130500 +0900" channel="Dlife(ディーライフ)_jp">
     <title lang="ja">24 JAPAN #18[日]◆『24』シリーズ25周年特別編成</title>
     <desc lang="ja">獅堂現馬らが極秘で監視する作戦の最中、三保はアレクシスを刺してしまう。アレクシスが何者かに大金を受け渡す約束をしていたことを知った現馬は、大胆な計画を思いつく。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18641393/image/5c6c195304a2b2066ec709282619a97a.jpg" />
   </programme>
   <programme start="20261019130500 +0900" stop="20261019140000 +0900" channel="Dlife(ディーライフ)_jp">
     <title lang="ja">24-TWENTY FOUR-S1#18[二]◆『24』シリーズ25周年特別編成</title>
@@ -6599,47 +6590,38 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
   <programme start="20261019084500 +0900" stop="20261019090000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">川崎漁業組合「新年最初の釣りは暴風!? 編」 #92</title>
     <desc lang="ja">プロ野球・ヤクルトスワローズなどで活躍した川崎憲次郎が、故郷・大分県佐伯市で釣竿片手に釣りの醍醐味を紹介！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633159/image/d85bb0d8c3f4a9d6469259046dc881a3.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">よしもと新喜劇「すち子の、ドキュメンタリーで仲直り〜」 #1759</title>
     <desc lang="ja">MBS放送:2025/6/14▽すっちー扮する吉本テレビのディレクター・すち子が、密着取材の現場でドタバタ劇を繰り広げる！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633160/image/217cfe790ad92960a2e698a00728e115.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">生活に役立つお得な情報をお届けします</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633161/image/cc7d92983d930cfd7b6f0671d30dcf43.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019110000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">事件です！阿部祐二のゴルフ塾 #37</title>
     <desc lang="ja">俳優・報道リポーターの阿部祐二が、秋野速人レッスンプロの指導を受けるゴルフレッスン番組！▽出演:阿部祐二、秋野速人、夫馬菜月、神谷ゆう子／ゲスト:江口紗代</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633162/image/241bf4d8a8058d093e9ac367a9dab46a.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">Good Luck! #92</title>
     <desc lang="ja">出演:芹澤名人、政田夢乃、政田大成、濱野希、桜りん▽JGMセベバレステロスゴルフクラブ(茨城県)</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633163/image/21278f43360f6bffaedab108187fd175.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">生活に役立つお得な情報をお届けします</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633164/image/8309f570bcf2979f4a6b9a06c1eb9362.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019123000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">Good Luck! #63</title>
     <desc lang="ja">出演:芹澤名人、江澤亜弥、三浦桃香、佐々木理乃、桜りん▽JGMベルエアゴルフクラブ(群馬県)</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633165/image/6bbc143ad5610e19396e580910ca12f3.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019130000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">谷繁元信×青木翔の勝つゴルフノート #1</title>
     <desc lang="ja">グリップの握り方・アイアンのスイング▽出演:谷繁元信、青木翔、久保葵▽"勝つためのゴルフノート"を作り上げていく上級者向けゴルフレッスン番組！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633166/image/736375f594afb11699f97a842c785a14.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019131500 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">ブレイザーズ＠TV #135</title>
     <desc lang="ja">国内バレーボール最高峰「大同生命SVリーグ」男子の強豪、日本製鉄堺ブレイザーズの応援番組。普段見られない選手の表情などファン必見の内容盛りだくさんでお届け。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633167/image/dc4d4853f2b910e290157d8f06c8375e.jpg" />
   </programme>
   <programme start="20261019131500 +0900" stop="20261019153000 +0900" channel="GAORA-SPORTS_jp">
     <title lang="ja">【完全版】東京大衆歌謡楽団 東京公演 〜春の音色〜2026.3.1セシオン杉並</title>
@@ -7236,12 +7218,10 @@ www.jsports.co.jp</desc>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="J-SPORTS-1_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">暮らしに役立つ情報番組</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633496/image/dec8febb5a121008df55e5ac144a6d8a.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019130000 +0900" channel="J-SPORTS-1_jp">
     <title lang="ja">高円宮杯U-18サッカープレミアリーグ2026 EAST第18節-2 FC東京×川崎</title>
     <desc lang="ja">全国のJリーグユースと高体連所属のトップクラスの24チームがEASTとWESTに分かれて頂点を目指す高校年代サッカー最高峰のリーグ戦。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633497/image/53036f06315981c8f2c20f1f2cae1ccd.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019133000 +0900" channel="J-SPORTS-1_jp">
     <title lang="ja">諸見里しのぶ 実践ゴルフテク！#200【ハッピーゴルフアワー】</title>
@@ -7800,7 +7780,6 @@ www.jsports.co.jp</desc>
   <programme start="20261019080000 +0900" stop="20261019100000 +0900" channel="J-SPORTS-4_jp">
     <title lang="ja">ラグビー関東大学対抗戦2026 早稲田大学×青山学院大学</title>
     <desc lang="ja">対抗戦Aグループは帝京、明治、早稲田、筑波、慶応など関東の有力8校による対抗戦。大学ラグビーの中でも高い人気を誇る。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634137/image/e6ea8ba2d36e6fe8cd409ac6b72e33a1.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="J-SPORTS-4_jp">
     <title lang="ja">まるっとバレーボール 〜SVリーグ開幕直前情報〜</title>
@@ -7817,7 +7796,6 @@ www.jsports.co.jp</desc>
     <desc lang="ja">出演：柏木由紀、平手晃平
 
 様々なお笑いタレントやアイドルたちが、サーキットを舞台にSUPER GTならではの体験し、その魅力を紹介！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634140/image/36cbdc86cd70f1c5ecca0080ce520ad4.jpg" />
   </programme>
   <programme start="20261019111500 +0900" stop="20261019135000 +0900" channel="J-SPORTS-4_jp">
     <title lang="ja">【2026シーズン一挙放送！】ツール・ド・ラ・プロヴァンス2026 第1ステージ Cycle*</title>
@@ -7991,27 +7969,22 @@ www.jsports.co.jp</desc>
   <programme start="20261019073500 +0900" stop="20261019085000 +0900" channel="KBS-WORLD_jp">
     <title lang="ja">大王世宗　#1　[字][初]</title>
     <desc lang="ja">2008年　全86話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18654375/image/02343295a90bddb8a58795c50c6489e2.jpg" />
   </programme>
   <programme start="20261019085000 +0900" stop="20261019102000 +0900" channel="KBS-WORLD_jp">
     <title lang="ja">天上の約束（原題）　#29、30　[字]</title>
     <desc lang="ja">2016年　全102話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18654376/image/b2a73ffb3b3e86c4c89eb2855835bd94.jpg" />
   </programme>
   <programme start="20261019102000 +0900" stop="20261019105000 +0900" channel="KBS-WORLD_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja"> </desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18654377/image/a240ab4ab003e3a1285d08ef7fc37cd6.jpg" />
   </programme>
   <programme start="20261019105000 +0900" stop="20261019120000 +0900" channel="KBS-WORLD_jp">
     <title lang="ja">スーパーマンが帰ってきた　プレイバック　[字]</title>
     <desc lang="ja">48時間ママなしで芸能人パパたちが子育てにチャレンジする番組。過去の映像をプレイバック！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18654378/image/e5146823644095b3d88e35621b79fecd.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019123000 +0900" channel="KBS-WORLD_jp">
     <title lang="ja">コチュわさび〜韓国グルメ放浪記　[字][再]</title>
     <desc lang="ja">2026年</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18654379/image/216c2021dd266eda39bc5cb0f4a22afb.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019150000 +0900" channel="KBS-WORLD_jp">
     <title lang="ja">トキメキ☆成均館スキャンダル　#13、14　[字][再]</title>
@@ -8632,7 +8605,8 @@ www.jsports.co.jp</desc>
   </programme>
   <programme start="20261021003000 +0900" stop="20261021010000 +0900" channel="KBS京都_jp">
     <title lang="ja">千歳くんはラムネ瓶のなか　#15</title>
-    <desc lang="ja"> </desc>
+    <desc lang="ja">県内随一の進学校・藤志高校に通う千歳朔。
+福井を舞台に紡がれる、どこまでも青く、どこまでも眩しい、エモーショナル青春ストーリー!</desc>
   </programme>
   <programme start="20261021010000 +0900" stop="20261021015500 +0900" channel="KBS京都_jp">
     <title lang="ja">京都浪漫　悠久の物語[再][字]</title>
@@ -8713,22 +8687,18 @@ www.jsports.co.jp</desc>
   <programme start="20261019083000 +0900" stop="20261019093000 +0900" channel="LaLa-TV_jp">
     <title lang="ja">［初］THE MENTALIST／メンタリスト　シーズン３［吹替］＃１１</title>
     <desc lang="ja">犯罪者の心を見抜くスペシャリスト“ザ・メンタリスト”ついにレッド・ジョンの正体が明らかに！？[全24話]2010年</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634099/image/2896860ffb895d55b5fe9dd400742799.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="LaLa-TV_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">インフォメーション</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634100/image/5e7a01f4468e9bb0ad017606870df947.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019114500 +0900" channel="LaLa-TV_jp">
     <title lang="ja">韓◆三食ごはん 旌善編（チョンソン）＃５［字］</title>
     <desc lang="ja">イ・ソジン、テギョン（2PM）、キム・グァンギュ共演！ナ・ヨンソクPDの人気シリーズ。[全18回]/2015年</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634101/image/f95ee71688a363eb1d0cd2f725dbffad.jpg" />
   </programme>
   <programme start="20261019114500 +0900" stop="20261019120000 +0900" channel="LaLa-TV_jp">
     <title lang="ja">ビーチコテージ・ジャーナル シーズン１ ファイアー・アイランド［字］</title>
     <desc lang="ja">アメリカ各地の美しいビーチコテージを訪ね、そこに息づくデザインや建築、家族の物語を紹介／2022年</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634102/image/e5fce806df89668cd773298d8d7328bf.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019133000 +0900" channel="LaLa-TV_jp">
     <title lang="ja">［初］韓◆よくおごってくれる綺麗なお姉さん＃１４＜ノーカット版＞［字］</title>
@@ -9014,37 +8984,30 @@ www.jsports.co.jp</desc>
     <title lang="ja">ガールズパチンコリーグ・フレンズ #19</title>
     <desc lang="ja">人気女性パチンコライターがリーグ戦実戦。出演：アスカ・かおりっきぃ☆・工藤らぎ・ヒラヤマン・政重ゆうき・道井悠・湯川舞
 ＃１９　ヒラヤマンＶＳ政重ゆうき</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633424/image/5fe46b6263377faadbdcc39e95c22bc3.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="MONDOTV_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">通販番組をお届けする３０分</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633425/image/f958c1c67fca5eaecb2740a2da7b8870.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="MONDOTV_jp">
     <title lang="ja">ヒロシのぼっちキャンプ Season6 #119</title>
     <desc lang="ja">大人気シリーズ第6弾！ヒロシが自分のためだけにするひとりぼっちのキャンプ。ほんとうの自由がここにある。第119話 岐阜恵那・里山のキャンプ場へ（前編）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633426/image/247b86902c55514c79ed289c2d811c42.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="MONDOTV_jp">
     <title lang="ja">ヒロシのぼっちキャンプ Season6 #120</title>
     <desc lang="ja">大人気シリーズ第6弾！ヒロシが自分のためだけにするひとりぼっちのキャンプ。ほんとうの自由がここにある。第120話 岐阜恵那・里山のキャンプ場へ（後編）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633427/image/c2211c9e5c0a189de53fd03a51db0614.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019110000 +0900" channel="MONDOTV_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">通販番組をお届けする３０分</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633428/image/149051b2030aeced960d198398a2ca33.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="MONDOTV_jp">
     <title lang="ja">サウナを愛でたい #33</title>
     <desc lang="ja">「ととのった〜！」のフレーズとともに、今盛り上がりを見せている「サウナ」。巷には「サウナー」と呼ばれるサウナ好きが急増中！第33話 横浜市 湯あそびひろば葛の湯</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633429/image/a3f6d1198a1bd5a9842ee92415c35098.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="MONDOTV_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">通販番組をお届けする３０分</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633430/image/3bd387e5e75a030308f31bb4004e4b28.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019133000 +0900" channel="MONDOTV_jp">
     <title lang="ja">モンド麻雀プロリーグ 第8回名人戦 #7</title>
@@ -9316,7 +9279,6 @@ www.jsports.co.jp</desc>
   <programme start="20261019080000 +0900" stop="20261019100000 +0900" channel="MTV_jp">
     <title lang="ja">MTV BIGGEST POP▼最強ポップソング</title>
     <desc lang="ja">時代を超えて愛され続ける最強ポップソングをお届け！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633259/image/5efa398e8678ec0ad092536e665e8fb4.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019150000 +0900" channel="MTV_jp">
     <title lang="ja">【歌詞付】甘く切ない音楽ベストセレクション▼藤井 風 ほか</title>
@@ -10839,7 +10801,7 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
   <programme start="20261020130000 +0900" stop="20261020160000 +0900" channel="NHK・BS_jp">
     <title lang="ja">シネマ「オッペンハイマー」＜字幕スーパー＞＜レターボックスサイズ&gt;</title>
     <desc lang="ja">アカデミー作品賞はじめ７部門を受賞。クリストファー・ノーラン監督が「原爆の父」と呼ばれたアメリカの科学者Ｊ・ロバート・オッペンハイマーの半生を描く伝記ドラマ。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/80050000/80050952/image/04ff5a8dcbdbb98e3b35b6560e4d0a1e.jpg" />
+    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/80050000/80050952/image/9bb0825aaa37d6469239afd067b83369.jpg" />
   </programme>
   <programme start="20261020160000 +0900" stop="20261020170000 +0900" channel="NHK・BS_jp">
     <title lang="ja">ワールドニュース ▽アメリカ▽アジア[二]</title>
@@ -10935,7 +10897,7 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja">「働くだけでは豊かになれない」と、生活を切り詰め「投資」に向かう人々。物価高や老後不安により、“焦り”が増す日本と韓国の現場から、投資社会の向かう先を考える。</desc>
   </programme>
   <programme start="20261021045900 +0900" stop="20261021050000 +0900" channel="NHK・BS_jp">
-    <title lang="ja">プレミアムシアター 藤田真央×バレンシア管 1分PR</title>
+    <title lang="ja">プレミアムシアター 藤田真央×バレンシア管弦楽団 1分PR</title>
     <desc lang="ja">『プレミアムシアター』1分PR ▼放送:10月25日(日) BSP4K 23:20〜 ▼10月26日(月)BS 0:20〜 ※日曜深夜</desc>
   </programme>
   <programme start="20261018235500 +0900" stop="20261019001500 +0900" channel="NHK京都・総合_jp">
@@ -11208,7 +11170,7 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja">国内外の最新ニュースをわかりやすく。気になるニュースの「なぜ？」を解説。ホットな現場の中継やスポーツ情報、社会の深層に鋭く迫る特集も。気象情報は詳しく。</desc>
   </programme>
   <programme start="20261020074500 +0900" stop="20261020080000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">おはよう関西</title>
+    <title lang="ja">おはよう関西▼温暖化を逆手にバナナ栽培！　和歌山県田辺市</title>
     <desc lang="ja">▼関西の最新ニュースと地域の話題▼きょうの天気は？気象情報詳しく▼交通情報もきめ細かく</desc>
   </programme>
   <programme start="20261020080000 +0900" stop="20261020081500 +0900" channel="NHK京都・総合_jp">
@@ -11229,8 +11191,8 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020100500 +0900" stop="20261020105500 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">キャッチ！世界のトップニュース[二][字]</title>
-    <desc lang="ja">世界の放送局が伝える注目ニュースを、一日のはじまりに、いち早く解説。特派員がニュースの背景を探る特集も。</desc>
+    <title lang="ja">キャッチ！世界のトップニュース　中東の大国・トルコの外交戦略とは[二][字]</title>
+    <desc lang="ja">【海外特派員が報告】ガザ戦闘から3年　存在感増す中東の大国・トルコの外交戦略　カギはハマスとの“独自パイプ”　出演：望月麻美・江原啓一郎</desc>
   </programme>
   <programme start="20261020105500 +0900" stop="20261020110000 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">みんなのうた「絶対晴天！！」／「おっちょこブラザーズ」</title>
@@ -11305,27 +11267,27 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020151000 +0900" stop="20261020160000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">午後LIVE　ニュースーン[字]</title>
-    <desc lang="ja"> </desc>
+    <title lang="ja">午後LIVEニュースーン　午後3時台　紅葉に染まる岩峰　瑞牆山　[字]</title>
+    <desc lang="ja">山登りをテレビで体験！紅葉に染まる　山梨・瑞牆山▽ニュースを深堀り！千葉・佐倉市の浸水被害はなぜ起きた？▽横浜市長選挙を振り返る▽水族館から“時限クイズ”中継</desc>
   </programme>
   <programme start="20261020160000 +0900" stop="20261020160500 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020160500 +0900" stop="20261020170000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">午後LIVE　ニュースーン[字]</title>
-    <desc lang="ja"> </desc>
+    <title lang="ja">午後LIVE　ニュースーン　午後4時台「豊臣兄弟！」井上和インタビュー[字]</title>
+    <desc lang="ja">「豊臣兄弟！」茶々役・乃木坂46の井上和さんインタビュー▽ドラマ10「会社員」に出演・南沙良さん生トーク▽個人向け社債が活況▽約1か月浸水した家の被害は？</desc>
   </programme>
   <programme start="20261020170000 +0900" stop="20261020180000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">午後LIVE　ニュースーン[字]</title>
-    <desc lang="ja"> </desc>
+    <title lang="ja">午後LIVE　ニュースーン　午後5時台サツマイモの産地を訪ねて[字]</title>
+    <desc lang="ja">食べたくなる季節になりました！サツマイモ特集▽ニュースを解説とともに▽気象情報▽台本のない中継ほかをお送りします。</desc>
   </programme>
   <programme start="20261020180000 +0900" stop="20261020181000 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">ニュース[字]</title>
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020181000 +0900" stop="20261020183000 +0900" channel="NHK京都・総合_jp">
-    <title lang="ja">ほっと関西[字]</title>
+    <title lang="ja">ほっと関西▽維新・連立合意1年　吉村代表＆各党に聞く[字]</title>
     <desc lang="ja">【関西のイマを凝縮　1分長く見たら「知っててよかった」が増える】火曜は学校の『推し』を探る新企画</desc>
   </programme>
   <programme start="20261020183000 +0900" stop="20261020190000 +0900" channel="NHK京都・総合_jp">
@@ -11342,7 +11304,7 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
   </programme>
   <programme start="20261020195700 +0900" stop="20261020204200 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">うたコン【ミリオンヒット特集】絢香・石川さゆり・氷川きよし・ゴダイゴ[字]</title>
-    <desc lang="ja">ミリオンヒット特集◆石川さゆり・氷川きよし名曲カバー◆絢香・虎舞竜・相川七瀬・秋川雅史ヒット曲◆平成ミリオン貴重映像◆50周年ゴダイゴSPメドレー◆なにわ最新曲</desc>
+    <desc lang="ja">ミリオンヒット特集◆絢香「三日月」◆石川さゆり・氷川きよし名曲カバー◆虎舞竜・相川・秋川◆紅白映像で平成ミリオンヒットを◆50周年ゴダイゴメドレー◆なにわ最新曲</desc>
   </programme>
   <programme start="20261020204200 +0900" stop="20261020204500 +0900" channel="NHK京都・総合_jp">
     <title lang="ja">＃NHK　おすすめ番組の紹介</title>
@@ -11523,12 +11485,12 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja">つむぎちゃんがなわとびをしています。ほねチキンも得意ななわとびでそのままお出かけをします。しかし一晩たっても帰ってきません。心配したなんこつたちが探していると…</desc>
   </programme>
   <programme start="20261019085000 +0900" stop="20261019085500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">てれび絵本「しごとばシリーズ　客船船長」[字]</title>
+    <title lang="ja">てれび絵本「しごとばシリーズ 客船船長」[字]</title>
     <desc lang="ja">天気と海図を見ながら大海原を安全に航海し、細やかな気配りでお客さんに船上で快適に過ごしてもらう一番の責任者『客船船長』の仕事を紹介します。</desc>
   </programme>
   <programme start="20261019085500 +0900" stop="20261019090000 +0900" channel="NHK大阪・教育_jp">
     <title lang="ja">みんなのうた「絶対晴天！！」／「おっちょこブラザーズ」</title>
-    <desc lang="ja">「絶対晴天！！」うた：P丸様。／「おっちょこブラザーズ」うた：SAKANAMON</desc>
+    <desc lang="ja">「絶対晴天！！」うた：Ｐ丸様。／「おっちょこブラザーズ」うた:SAKANAMON</desc>
   </programme>
   <programme start="20261019090000 +0900" stop="20261019090500 +0900" channel="NHK大阪・教育_jp">
     <title lang="ja">すたあと「あきさがしびんご」[解][字]</title>
@@ -11567,47 +11529,47 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja">数式の計算から三角比、データの分析まで…数学が得意な人も苦手な人も、基礎から楽しく学びましょう！</desc>
   </programme>
   <programme start="20261019104000 +0900" stop="20261019110000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">NHK高校講座　地理探究　世界の衣食住[字]</title>
-    <desc lang="ja">世界の地理を探究する番組！謎解きクリエイター松丸亮吾と一緒に「世界の衣食住」を探究！世界の気候と衣服・住居の関係は？「食」を掘り下げたSDGs直結の課題とは！？</desc>
+    <title lang="ja">ＮＨＫ高校講座 地理探究 世界の衣食住[字]</title>
+    <desc lang="ja">世界の地理を探究する番組！謎解きクリエイター松丸亮吾と一緒に「世界の衣食住」を探究！世界の気候と衣服・住居の関係は？「食」を掘り下げたSDGs直結の課題とは!?</desc>
   </programme>
   <programme start="20261019110000 +0900" stop="20261019111000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">アクティブ10　プロのプロセス「情報の集め方」[字]</title>
+    <title lang="ja">アクティブ１０ プロのプロセス「情報の集め方」[字]</title>
     <desc lang="ja">さまざまな仕事のプロから「情報の集め方」や「分析のしかた」「発表するテクニック」などを学ぶ。今回のテーマは「情報の集め方」。出演：チョコレートプラネット</desc>
   </programme>
   <programme start="20261019111000 +0900" stop="20261019112000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">会話が続く！リアル旅英語（79）陶芸ワークショップ「何を作るか聞く」</title>
+    <title lang="ja">会話が続く！リアル旅英語(79)陶芸ワークショップ「何を作るか聞く」</title>
     <desc lang="ja">海外旅行で耳にする「リアルな英語」を聞き取るためのリスニング実践講座。アメリカのロサンゼルスを旅行するときに出会う、様々な会話の場面を紹介します。</desc>
   </programme>
   <programme start="20261019112000 +0900" stop="20261019112500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">5分であさイチ　後ろ姿が美しく！劇的改善テクニック[字]</title>
-    <desc lang="ja">平日朝に放送している「あさイチ」の中から暮らしに役立つ情報を5分でギュギュっとコンパクトにお伝えします。今回は、後ろ姿が美しくなる、劇的な改善テクニック！</desc>
+    <title lang="ja">５分であさイチ 後ろ姿が美しく！劇的改善テクニック[字]</title>
+    <desc lang="ja">平日朝に放送している「あさイチ」の中から暮らしに役立つ情報を５分でギュギュっとコンパクトにお伝えします。今回は、後ろ姿が美しくなる、劇的な改善テクニック!</desc>
   </programme>
   <programme start="20261019112500 +0900" stop="20261019113000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">きょうの料理ビギナーズ　巻きす入門！巻きずしにチャレンジ[字]</title>
-    <desc lang="ja">すし飯をマスターしたら、巻きずしにチャレンジしましょう。決め手は巻きすの使い方。手順通りに巻けば、初めてでも上手につくれますよ！</desc>
+    <title lang="ja">きょうの料理ビギナーズ 巻きす入門！巻きずしにチャレンジ[字]</title>
+    <desc lang="ja">すし飯をマスターしたら、巻きずしにチャレンジしましょう。決め手は巻きすの使い方。手順通りに巻けば、初めてでも上手につくれますよ!</desc>
   </programme>
   <programme start="20261019113000 +0900" stop="20261019115500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">きょうの料理「明日香と飯尾の」　隣の家の豚汁[字]</title>
+    <title lang="ja">きょうの料理「明日香と飯尾の」 隣の家の豚汁[字]</title>
     <desc lang="ja">今回は、料理研究家の和田明日香さんと、お笑いコンビ「ずん」の飯尾和樹さんの「明日香と飯尾の隣の家の豚汁」。新米がおいしい季節に食べたくなる「牛しぐれ煮」も紹介。</desc>
   </programme>
   <programme start="20261019115500 +0900" stop="20261019120000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">365日の献立日記「にんじんのギリシャふう」[字]</title>
-    <desc lang="ja">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが26年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
+    <title lang="ja">３６５日の献立日記「にんじんのギリシャふう」[字]</title>
+    <desc lang="ja">毎日のごはん作りの悩みを解決する献立をほっとする映像で紹介。昭和の名優、沢村貞子さんが２６年半続けた献立日記をもとに、フードスタイリスト飯島奈美さんが料理する。</desc>
   </programme>
   <programme start="20261019120000 +0900" stop="20261019121500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">きょうの健康　女性にも知ってほしい！男性ホルモン　男性の更年期障害[解][字]</title>
+    <title lang="ja">きょうの健康 女性にも知ってほしい！男性ホルモン 男性の更年期障害[解][字]</title>
     <desc lang="ja">男性の中年期以降の疲労感やイライラなどの体や心の変化は、単なる疲れや加齢のせいではなく、「男性更年期障害」かも。女性の更年期障害との違い、診断・治療など解説。</desc>
   </programme>
   <programme start="20261019121500 +0900" stop="20261019124500 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">明日から使える　華のタイパ弁当（2）パワフル！たんぱく質弁当[解][字][再]</title>
-    <desc lang="ja">おいしくて見た目が美しい「華」、時短につながる「タイパ」、2つのアイデアを企業などに取材、それをもとに料理研究家きじまりゅうたが番組特製華のタイパ弁当を作る。</desc>
+    <title lang="ja">明日から使える 華のタイパ弁当(2)パワフル!たんぱく質弁当[解][字][再]</title>
+    <desc lang="ja">おいしくて見た目が美しい「華」、時短につながる「タイパ」、２つのアイデアを企業などに取材、それをもとに料理研究家きじまりゅうたが番組特製華のタイパ弁当を作る。</desc>
   </programme>
   <programme start="20261019124500 +0900" stop="20261019125000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">みんなのうた「フライパンDJ！」／「あのドアの向こうに」</title>
-    <desc lang="ja">「フライパンDJ！」うた：チョコレートプラネット＆Kengo．／「あのドアの向こうに」うた：今尾侑夕（ゆーゆ）</desc>
+    <title lang="ja">みんなのうた「フライパンDJ!」/「あのドアの向こうに」</title>
+    <desc lang="ja">「フライパンDJ!」うた:チョコレートプラネット&amp;Kengo./「あのドアの向こうに」うた：今尾侑夕（ゆーゆ)</desc>
   </programme>
   <programme start="20261019125000 +0900" stop="20261019130000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">視点・論点　急がれる学校体育館の冷暖房設置[字]</title>
+    <title lang="ja">視点・論点 急がれる学校体育館の冷暖房設置[字]</title>
     <desc lang="ja">災害時には避難所として利用される学校の体育館。しかし冷暖房の設置が進んでいないことが課題になっている。災害大国、日本における学校や避難所のあり方を考える。</desc>
   </programme>
   <programme start="20261019130000 +0900" stop="20261019130500 +0900" channel="NHK大阪・教育_jp">
@@ -11615,16 +11577,16 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261019130500 +0900" stop="20261019131000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">名曲アルバム　交響曲第9番　マーラー作曲[SS]</title>
-    <desc lang="ja">管弦楽：NHK交響楽団　指揮：沼尻竜典【ロケ地】ドッビアーコ（イタリア）</desc>
+    <title lang="ja">名曲アルバム 交響曲第９番 マーラー作曲[SS]</title>
+    <desc lang="ja">管弦楽:NHK交響楽団 指揮:沼尻竜典【ロケ地】ドッビアーコ(イタリア)</desc>
   </programme>
   <programme start="20261019131000 +0900" stop="20261019140000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">ドキュランドへようこそ▽衛生兵キューバとアラスカ　ウクライナ前線[後]※字幕[再]</title>
+    <title lang="ja">ドキュランドへようこそ▽衛生兵キューバとアラスカ ウクライナ前線[後]※字幕[再]</title>
     <desc lang="ja">ウクライナ東部の激戦地で医療班に所属するキューバとアラスカ。常にユーモアを忘れない女性たちの日常を通して、戦う人々の希望や人間らしさを描くドキュメンタリー（後）</desc>
   </programme>
   <programme start="20261019140000 +0900" stop="20261019143000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">クラシックTV「ホロヴィッツ　〜人生を奏でる〜」[字][再]</title>
-    <desc lang="ja">20世紀最高とも称された伝説のピアニスト、ウラディーミル・ホロヴィッツの音楽と人生をたどる30分！</desc>
+    <title lang="ja">クラシックＴＶ「ホロヴィッツ 〜人生を奏でる〜」[字][再]</title>
+    <desc lang="ja">２０世紀最高とも称された伝説のピアニスト、ウラディーミル・ホロヴィッツの音楽と人生をたどる30分!</desc>
   </programme>
   <programme start="20261019143000 +0900" stop="20261019150000 +0900" channel="NHK大阪・教育_jp">
     <title lang="ja">ハートネットTVフクチッチ　工夫いろいろ！障害のある人のファッション[解][字][再]</title>
@@ -11894,8 +11856,8 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja">「絶対晴天！！」うた：P丸様。／「おっちょこブラザーズ」うた：SAKANAMON</desc>
   </programme>
   <programme start="20261020125000 +0900" stop="20261020130000 +0900" channel="NHK大阪・教育_jp">
-    <title lang="ja">視点・論点[字]</title>
-    <desc lang="ja">▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場</desc>
+    <title lang="ja">視点・論点　選　手書きの“力”[字]</title>
+    <desc lang="ja">子どもの文字を書く力の低下は文章作成能力にも大きな影響を与えるという分析結果が明らかになった。デジタル化が進む現代、手書きの“力”について改めて考える。</desc>
   </programme>
   <programme start="20261020130000 +0900" stop="20261020130500 +0900" channel="NHK大阪・教育_jp">
     <title lang="ja">NHK手話ニュース[手]</title>
@@ -12151,8 +12113,8 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <title lang="ja">ニュース・気象情報[字]</title>
     <desc lang="ja"> </desc>
   </programme>
-  <programme start="20261019090000 +0900" stop="20261019115400 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">国会中継「参議院予算委員会質疑」[字]</title>
+  <programme start="20261019115300 +0900" stop="20261019115400 +0900" channel="NHK大阪・総合_jp">
+    <title lang="ja">1分PR「クローズアップ現代」[再]</title>
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261019115400 +0900" stop="20261019120000 +0900" channel="NHK大阪・総合_jp">
@@ -12317,7 +12279,7 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja">国内外の最新ニュースをわかりやすく。気になるニュースの「なぜ？」を解説。ホットな現場の中継やスポーツ情報、社会の深層に鋭く迫る特集も。気象情報は詳しく。</desc>
   </programme>
   <programme start="20261020074500 +0900" stop="20261020080000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">おはよう関西</title>
+    <title lang="ja">おはよう関西▼温暖化を逆手にバナナ栽培！　和歌山県田辺市</title>
     <desc lang="ja">▼関西の最新ニュースと地域の話題▼きょうの天気は？気象情報詳しく▼交通情報もきめ細かく</desc>
   </programme>
   <programme start="20261020080000 +0900" stop="20261020081500 +0900" channel="NHK大阪・総合_jp">
@@ -12338,8 +12300,8 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020100500 +0900" stop="20261020105500 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">キャッチ！世界のトップニュース[二][字]</title>
-    <desc lang="ja">世界の放送局が伝える注目ニュースを、一日のはじまりに、いち早く解説。特派員がニュースの背景を探る特集も。</desc>
+    <title lang="ja">キャッチ！世界のトップニュース　中東の大国・トルコの外交戦略とは[二][字]</title>
+    <desc lang="ja">【海外特派員が報告】ガザ戦闘から3年　存在感増す中東の大国・トルコの外交戦略　カギはハマスとの“独自パイプ”　出演：望月麻美・江原啓一郎</desc>
   </programme>
   <programme start="20261020105500 +0900" stop="20261020110000 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">みんなのうた「絶対晴天！！」／「おっちょこブラザーズ」</title>
@@ -12414,27 +12376,27 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020151000 +0900" stop="20261020160000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">午後LIVE　ニュースーン[字]</title>
-    <desc lang="ja"> </desc>
+    <title lang="ja">午後LIVEニュースーン　午後3時台　紅葉に染まる岩峰　瑞牆山　[字]</title>
+    <desc lang="ja">山登りをテレビで体験！紅葉に染まる　山梨・瑞牆山▽ニュースを深堀り！千葉・佐倉市の浸水被害はなぜ起きた？▽横浜市長選挙を振り返る▽水族館から“時限クイズ”中継</desc>
   </programme>
   <programme start="20261020160000 +0900" stop="20261020160500 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020160500 +0900" stop="20261020170000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">午後LIVE　ニュースーン[字]</title>
-    <desc lang="ja"> </desc>
+    <title lang="ja">午後LIVE　ニュースーン　午後4時台「豊臣兄弟！」井上和インタビュー[字]</title>
+    <desc lang="ja">「豊臣兄弟！」茶々役・乃木坂46の井上和さんインタビュー▽ドラマ10「会社員」に出演・南沙良さん生トーク▽個人向け社債が活況▽約1か月浸水した家の被害は？</desc>
   </programme>
   <programme start="20261020170000 +0900" stop="20261020180000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">午後LIVE　ニュースーン[字]</title>
-    <desc lang="ja"> </desc>
+    <title lang="ja">午後LIVE　ニュースーン　午後5時台サツマイモの産地を訪ねて[字]</title>
+    <desc lang="ja">食べたくなる季節になりました！サツマイモ特集▽ニュースを解説とともに▽気象情報▽台本のない中継ほかをお送りします。</desc>
   </programme>
   <programme start="20261020180000 +0900" stop="20261020181000 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">ニュース[字]</title>
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020181000 +0900" stop="20261020190000 +0900" channel="NHK大阪・総合_jp">
-    <title lang="ja">ほっと関西[字]</title>
+    <title lang="ja">ほっと関西▽維新・連立合意1年　吉村代表＆各党に聞く[字]</title>
     <desc lang="ja">【関西のイマを凝縮　1分長く見たら「知っててよかった」が増える】火曜は学校の『推し』を探る新企画</desc>
   </programme>
   <programme start="20261020190000 +0900" stop="20261020193000 +0900" channel="NHK大阪・総合_jp">
@@ -12447,7 +12409,7 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
   </programme>
   <programme start="20261020195700 +0900" stop="20261020204200 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">うたコン【ミリオンヒット特集】絢香・石川さゆり・氷川きよし・ゴダイゴ[字]</title>
-    <desc lang="ja">ミリオンヒット特集◆石川さゆり・氷川きよし名曲カバー◆絢香・虎舞竜・相川七瀬・秋川雅史ヒット曲◆平成ミリオン貴重映像◆50周年ゴダイゴSPメドレー◆なにわ最新曲</desc>
+    <desc lang="ja">ミリオンヒット特集◆絢香「三日月」◆石川さゆり・氷川きよし名曲カバー◆虎舞竜・相川・秋川◆紅白映像で平成ミリオンヒットを◆50周年ゴダイゴメドレー◆なにわ最新曲</desc>
   </programme>
   <programme start="20261020204200 +0900" stop="20261020204500 +0900" channel="NHK大阪・総合_jp">
     <title lang="ja">＃NHK　おすすめ番組の紹介</title>
@@ -12999,8 +12961,8 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja">「絶対晴天！！」うた：Ｐ丸様。／「おっちょこブラザーズ」うた:SAKANAMON</desc>
   </programme>
   <programme start="20261020125000 +0900" stop="20261020130000 +0900" channel="NHK東京・教育_jp">
-    <title lang="ja">視点・論点[字]</title>
-    <desc lang="ja">▽ニュースや現代社会の諸問題、世界情勢などについて独自の視点から分析し、自らの言葉で語るオピニオン番組。▽各界の第一人者はもちろん、新進気鋭の論客も登場</desc>
+    <title lang="ja">視点・論点 選 手書きの“力”[字]</title>
+    <desc lang="ja">子どもの文字を書く力の低下は文章作成能力にも大きな影響を与えるという分析結果が明らかになった。デジタル化が進む現代、手書きの“力”について改めて考える。</desc>
   </programme>
   <programme start="20261020130000 +0900" stop="20261020130500 +0900" channel="NHK東京・教育_jp">
     <title lang="ja">NHK手話ニュース[手]</title>
@@ -13252,8 +13214,16 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <title lang="ja">ニュース・気象情報[字]</title>
     <desc lang="ja"> </desc>
   </programme>
-  <programme start="20261019090000 +0900" stop="20261019115400 +0900" channel="NHK東京・総合_jp">
+  <programme start="20261019090000 +0900" stop="20261019115000 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">国会中継「参議院予算委員会質疑」[字]</title>
+    <desc lang="ja"> </desc>
+  </programme>
+  <programme start="20261019115000 +0900" stop="20261019115300 +0900" channel="NHK東京・総合_jp">
+    <title lang="ja">巡る日本絶景 鹿児島・屋久島[SS]</title>
+    <desc lang="ja">巡る日本絶景。鹿児島の屋久島に迫る。</desc>
+  </programme>
+  <programme start="20261019115300 +0900" stop="20261019115400 +0900" channel="NHK東京・総合_jp">
+    <title lang="ja">1分PR「クローズアップ現代」[再]</title>
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261019115400 +0900" stop="20261019120000 +0900" channel="NHK東京・総合_jp">
@@ -13447,8 +13417,8 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020100500 +0900" stop="20261020105500 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">キャッチ！世界のトップニュース[二][字]</title>
-    <desc lang="ja">世界の放送局が伝える注目ニュースを、一日のはじまりに、いち早く解説。特派員がニュースの背景を探る特集も。</desc>
+    <title lang="ja">キャッチ！世界のトップニュース 中東の大国・トルコの外交戦略とは[二][字]</title>
+    <desc lang="ja">【海外特派員が報告】ガザ戦闘から３年 存在感増す中東の大国・トルコの外交戦略 カギはハマスとの“独自パイプ” 出演：望月麻美・江原啓一郎</desc>
   </programme>
   <programme start="20261020105500 +0900" stop="20261020110000 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">みんなのうた「絶対晴天！！」／「おっちょこブラザーズ」</title>
@@ -13523,20 +13493,20 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020151000 +0900" stop="20261020160000 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">午後LIVE ニュースーン[字]</title>
-    <desc lang="ja"> </desc>
+    <title lang="ja">午後LIVEニュースーン 午後３時台 紅葉に染まる岩峰 瑞牆山 [字]</title>
+    <desc lang="ja">山登りをテレビで体験！紅葉に染まる 山梨・瑞牆山▽ニュースを深堀り！千葉・佐倉市の浸水被害はなぜ起きた？▽横浜市長選挙を振り返る▽水族館から“時限クイズ”中継</desc>
   </programme>
   <programme start="20261020160000 +0900" stop="20261020160500 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">ニュース・気象情報[字]</title>
     <desc lang="ja"> </desc>
   </programme>
   <programme start="20261020160500 +0900" stop="20261020170000 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">午後LIVE ニュースーン[字]</title>
-    <desc lang="ja"> </desc>
+    <title lang="ja">午後LIVE ニュースーン 午後４時台「豊臣兄弟！」井上和インタビュー[字]</title>
+    <desc lang="ja">「豊臣兄弟！」茶々役・乃木坂４６の井上和さんインタビュー▽ドラマ１０「会社員」に出演・南沙良さん生トーク▽個人向け社債が活況▽約１か月浸水した家の被害は?</desc>
   </programme>
   <programme start="20261020170000 +0900" stop="20261020180000 +0900" channel="NHK東京・総合_jp">
-    <title lang="ja">午後LIVE ニュースーン[字]</title>
-    <desc lang="ja"> </desc>
+    <title lang="ja">午後LIVE ニュースーン 午後５時台サツマイモの産地を訪ねて[字]</title>
+    <desc lang="ja">食べたくなる季節になりました！サツマイモ特集▽ニュースを解説とともに▽気象情報▽台本のない中継ほかをお送りします。</desc>
   </programme>
   <programme start="20261020180000 +0900" stop="20261020181000 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">ニュース[字]</title>
@@ -13556,7 +13526,7 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
   </programme>
   <programme start="20261020195700 +0900" stop="20261020204200 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">うたコン【ミリオンヒット特集】絢香・石川さゆり・氷川きよし・ゴダイゴ[字]</title>
-    <desc lang="ja">ミリオンヒット特集◆石川さゆり・氷川きよし名曲カバー◆絢香・虎舞竜・相川七瀬・秋川雅史ヒット曲◆平成ミリオン貴重映像◆５０周年ゴダイゴＳＰメドレー◆なにわ最新曲</desc>
+    <desc lang="ja">ミリオンヒット特集◆絢香「三日月」◆石川さゆり・氷川きよし名曲カバー◆虎舞竜・相川・秋川◆紅白映像で平成ミリオンヒットを◆５０周年ゴダイゴメドレー◆なにわ最新曲</desc>
   </programme>
   <programme start="20261020204200 +0900" stop="20261020204500 +0900" channel="NHK東京・総合_jp">
     <title lang="ja">#NHK おすすめ番組の紹介</title>
@@ -13986,13 +13956,13 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja">▽台風30号最新進路 列島への影響は?▽各地でクマ出没▽簗大臣辞任の影響は?消費税減税法案どうなる…プレミアム商品券も!?▽フランス全土で55万人規模デモ なぜ</desc>
   </programme>
   <programme start="20261019135500 +0900" stop="20261019154900 +0900" channel="TBS_jp">
-    <title lang="ja">ゴゴスマ</title>
-    <desc lang="ja">様々な事が起こる平日の午後、あらゆるジャンルの関心事を「生」にこだわって、MC石井亮次がわかりやすく、「見て、わかった　見て、よかった」となるようにお届け!</desc>
+    <title lang="ja">ゴゴスマ【台風30号　列島への影響は▼なぜ?荷下ろし中　車にはねられ両足切断】</title>
+    <desc lang="ja">台風30号　「猛烈な」勢力に成長へ▼“1.4億件超え"情報漏洩はなぜ止まらない?▼残り2週!リアルタイムで見て当てよう!5万円分QUOカード　(他)(予定)</desc>
   </programme>
   <programme start="20261019154900 +0900" stop="20261019190000 +0900" channel="TBS_jp">
     <title lang="ja">Nスタ[字]　井上貴博、出水麻衣が、あなたのパートナーに。</title>
-    <desc lang="ja">嬉しいニュースに湧き立つ日も、つらいニュースで落ち着かない日も、
-夕方テレビをつければそこにある、いつもの顔、いつもの声、あなたのパートナーに、Nスタ。</desc>
+    <desc lang="ja">外食産業支援の秘策?プレミアム商品券とは▽愛子さまに鳥取熱狂　秋は皇室公務目白押し▽紅葉シーズン到来!
+解説!どこでいつ頃?▽今年ミカンの出来は　ほか</desc>
   </programme>
   <programme start="20261019190000 +0900" stop="20261019205500 +0900" channel="TBS_jp">
     <title lang="ja">CDTVライブ!ライブ![字][デ]★なにわ男子★イコラブ★aiko</title>
@@ -14004,7 +13974,7 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
   </programme>
   <programme start="20261019215400 +0900" stop="20261019225700 +0900" channel="TBS_jp">
     <title lang="ja">岡田准一とロバート秋山の今さらシロー!上白石萌音とアニメの街中野へ&amp;ミセスに突撃</title>
-    <desc lang="ja">上白石萌音とアニメ&amp;サブカルの街・中野をシロー!チェンソーマン・呪術廻戦を手掛けたMAPPA潜入!村上隆&amp;隆二兄弟がテレビ初共演▼ミセスに岡田秋山が楽曲依頼!?</desc>
+    <desc lang="ja">[字]上白石萌音とアニメ&amp;サブカルの街・中野をシロー!チェンソーマン・呪術廻戦を手掛けたMAPPA潜入!村上隆&amp;隆二兄弟がテレビ初共演▼ミセスに岡田秋山が楽曲依頼!?</desc>
   </programme>
   <programme start="20261019225700 +0900" stop="20261019230000 +0900" channel="TBS_jp">
     <title lang="ja">トップニュース先出し[字]</title>
@@ -14173,22 +14143,18 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
   <programme start="20261019084000 +0900" stop="20261019090000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">吉田類の酒場放浪記 #162「南平『よっちゃん』」</title>
     <desc lang="ja">東京の下町を中心に“大人がひとりでぶらっと立ち寄れる”酒場を紹介する異色の立ち飲み紀行番組。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633097/image/d13fc1618ba87ced3bd4d21946ab01c3.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">水戸黄門・第24部 #5 ◆佐野浅夫</title>
     <desc lang="ja">国民的時代劇シリーズ「水戸黄門」の第24部。佐野浅夫演じる3代目黄門様ご一行が、次席家老の魔の手から、薩摩藩を救うために大奮闘する。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633098/image/5f9a3070d6bf98a4aa7ef55722079d3f.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">ハンチョウ〜神南署安積班〜 #9</title>
     <desc lang="ja">今野敏原作・佐々木蔵之介主演「ハンチョウ〜神南署安積班〜」第1シリーズ。神南署を舞台に、安積班長をはじめとする6人の刑事たちの活躍を描く。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633099/image/52255807191ce51a937dec9024d65e53.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">橋田壽賀子ドラマ「渡る世間は鬼ばかり」(第10シリーズ) #9</title>
     <desc lang="ja">国民的ホームドラマ「渡る世間は鬼ばかり」がついにフィナーレ！岡倉大吉と娘たちとその家族が就職・結婚・離婚・子育て・介護など様々な問題に直面していく。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633100/image/c6439fe97dfc25ac7e8b456ce8ad1b11.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019134000 +0900" channel="TBSチャンネル1_jp">
     <title lang="ja">浅見光彦シリーズ「漂泊の楽人」</title>
@@ -14444,22 +14410,18 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
   <programme start="20261019084000 +0900" stop="20261019102000 +0900" channel="TBSチャンネル2_jp">
     <title lang="ja">十津川警部シリーズ「松島・蔵王殺人事件」</title>
     <desc lang="ja">渡瀬恒彦主演「十津川警部」シリーズ第9弾。今回は松島・蔵王を舞台に、亀井刑事の初恋の人が連続殺人事件の鍵を握っていた…。出演は渡瀬恒彦ほか。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633636/image/88facde387d4c8f67f3da832a97728c6.jpg" />
   </programme>
   <programme start="20261019102000 +0900" stop="20261019111000 +0900" channel="TBSチャンネル2_jp">
     <title lang="ja">3年B組金八先生(第6シリーズ) #4</title>
     <desc lang="ja">武田鉄矢主演「3年B組金八先生」第6シリーズ。3年B組にやって来た二人の転入生、直と政則が新たな波紋を投げかける。上戸彩が性同一性障害の生徒を熱演！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633637/image/962032de6558b1e898d3c0ce719e59b1.jpg" />
   </programme>
   <programme start="20261019111000 +0900" stop="20261019120000 +0900" channel="TBSチャンネル2_jp">
     <title lang="ja">3年B組金八先生(第6シリーズ) #5</title>
     <desc lang="ja">武田鉄矢主演「3年B組金八先生」第6シリーズ。3年B組にやって来た二人の転入生、直と政則が新たな波紋を投げかける。上戸彩が性同一性障害の生徒を熱演！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633638/image/95a46379b30314c343f7c40a27579b5e.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019125000 +0900" channel="TBSチャンネル2_jp">
     <title lang="ja">中国ドラマ「与鳳行」ノーカット字幕版 #18</title>
     <desc lang="ja">チャオ・リーイン×ケニー・リンの『楚喬伝』黄金カップルが再び共演！天命に抗う二人の恋と宿命を描いた壮大なファンタジー時代劇。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633639/image/0f9e739ccfc223c67dffcc9ace7d0958.jpg" />
   </programme>
   <programme start="20261019125000 +0900" stop="20261019134000 +0900" channel="TBSチャンネル2_jp">
     <title lang="ja">中国ドラマ「与鳳行」ノーカット字幕版 #19</title>
@@ -14739,7 +14701,7 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <desc lang="ja">東京の伝統工芸篇</desc>
   </programme>
   <programme start="20261019122900 +0900" stop="20261019155000 +0900" channel="TOKYO・MX2_jp">
-    <title lang="ja">東京マーケットワイド　第２部【デ】</title>
+    <title lang="ja">東京マーケットワイド 第２部【デ】</title>
     <desc lang="ja">東証アローズから市況を完全生中継！プライム・スタンダード・グロースなど各市場の個別銘柄の値動きをリアルタイムで解説。アナリストが相場動向を分析、企業の最新情報も</desc>
   </programme>
   <programme start="20261019155000 +0900" stop="20261019170000 +0900" channel="TOKYO・MX2_jp">
@@ -15407,7 +15369,6 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
   <programme start="20261019094500 +0900" stop="20261019110000 +0900" channel="WOWOWプライム_jp">
     <title lang="ja">エル（キム・ミョンス）主演「暗行御史&lt;アメンオサ&gt;」#14</title>
     <desc lang="ja">エル（キム・ミョンス）主演で贈る、朝鮮時代の王室の秘密捜査官「暗行御史（アメンオサ）」の活躍を描いた痛快時代劇。民衆の無念を晴らすため、不正腐敗に立ち向かう!</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/70400000/70409197/image/ecb8985c13aef26a214887130859258f.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="WOWOWプライム_jp">
     <title lang="ja">シャオ・ジャン主演「玉骨遥（ぎょっこつよう)」#9(字幕版)</title>
@@ -15488,10 +15449,12 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
   <programme start="20261020083000 +0900" stop="20261020094500 +0900" channel="WOWOWプライム_jp">
     <title lang="ja">[初]韓国ドラマ ぺ・イニョク主演「チェックイン漢陽(ハニャン)」#14</title>
     <desc lang="ja">光と闇に満ちた朝鮮最高峰の旅閣を舞台に、明かせない秘密を胸に研修生として集まった４人の若者。その愛と友情、復讐を描く波乱の青春時代劇。注目の若手俳優が出演!</desc>
+    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/70400000/70409217/image/87f62602acb0cd2de7c850240d053c85.jpg" />
   </programme>
   <programme start="20261020094500 +0900" stop="20261020110000 +0900" channel="WOWOWプライム_jp">
     <title lang="ja">エル（キム・ミョンス）主演「暗行御史&lt;アメンオサ&gt;」#15</title>
     <desc lang="ja">エル（キム・ミョンス）主演で贈る、朝鮮時代の王室の秘密捜査官「暗行御史（アメンオサ）」の活躍を描いた痛快時代劇。民衆の無念を晴らすため、不正腐敗に立ち向かう!</desc>
+    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/70400000/70409218/image/326069bf361a9679a224853aa30a0b7b.jpg" />
   </programme>
   <programme start="20261020110000 +0900" stop="20261020120000 +0900" channel="WOWOWプライム_jp">
     <title lang="ja">シャオ・ジャン主演「玉骨遥（ぎょっこつよう)」#10(字幕版)</title>
@@ -15588,12 +15551,10 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
   <programme start="20261019080000 +0900" stop="20261019101500 +0900" channel="WOWOWプラス_jp">
     <title lang="ja">天使のくれた時間</title>
     <desc lang="ja">ニコラス・ケイジ主演のハートウォーミングなファンタジー。ふたつの人生を生きることで本当の幸せを知る男の物語。監督は『ラッシュアワー』のブレット・ラトナー。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633339/image/5ea12babde643de5256a84d39c080716.jpg" />
   </programme>
   <programme start="20261019101500 +0900" stop="20261019120000 +0900" channel="WOWOWプラス_jp">
     <title lang="ja">SISU シス　不死身の男</title>
     <desc lang="ja">第二次世界大戦末期のフィンランドで、ナチスの戦車隊に立ち向かう“不死身の男”。その活躍を、迫力満点のバイオレンスを詰め込んで描いた、痛快ノンストップアクション！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633340/image/3163cbf0ee4b737edefa4ed1fdd1faed.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019134500 +0900" channel="WOWOWプラス_jp">
     <title lang="ja">如懿伝〜紫禁城に散る宿命の王妃〜 #59〜60（全87話）</title>
@@ -15892,12 +15853,10 @@ K-POPを愛する全ての人が楽しめるディープなトークバラエテ
     <title lang="ja">シカゴ・ファイア S11 [二]#21-22[終] &amp; S12[二]＃1-2</title>
     <desc lang="ja">【モーニングUSA：ハリウッドの人気ドラマを毎日放送！】
 シカゴの街を命がけで守る熱い消防隊員たちの活躍を描いた大ヒット作。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633215/image/fb4000c65e0a797767e37c019943d451.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019131000 +0900" channel="アクションチャンネル_jp">
     <title lang="ja">ハドソン＆レックス〜セントジョンズ警察シェパード犬刑事 4 [字] #4-6</title>
     <desc lang="ja">【毎日ワンコ：勇敢なワンコの活躍をチェック！】カナダのセントジョンズを舞台に、刑事ハドソンと相棒のシェパード犬レックスのコンビが事件を解決！3話連続放送！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633216/image/e7b6eed3366aa04f9059f6c163db06d4.jpg" />
   </programme>
   <programme start="20261019131000 +0900" stop="20261019131500 +0900" channel="アクションチャンネル_jp">
     <title lang="ja">豆助のニッポンっていいな。 #12</title>
@@ -16186,33 +16145,28 @@ MISSION-10「決死！極秘任務！」
     <desc lang="ja">#52「弁護士」#53「決意」
 一人の青年「ヨハン」を中心にあらゆる人物の運命が絡み合い回り始める…。
 原作:浦沢直樹/制作:2004年/全75話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633237/image/97fc3d243c1ab849e6956fd6921986e8.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="アニマックス_jp">
     <title lang="ja">怪物くん デジタルリマスター版 第25〜28話</title>
     <desc lang="ja">#25〜28
 ワガママで世間知らずな怪物ランドの王子、怪物太郎(怪物くん)。
 制作:1980年/全188話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633238/image/2a15c6160b131490af876a08ecddf237.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="アニマックス_jp">
     <title lang="ja">ハイキュー!! #3，4</title>
     <desc lang="ja">#3「最強の味方」#4「頂の景色」
 原作は週刊少年ジャンプで連載の、高校バレーボールを題材にしたアニメ。
 ＜制作:2014年/全25話＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633239/image/49173c13a6dd39df9b6242365f505cf1.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="アニマックス_jp">
     <title lang="ja">キングダム #6，7</title>
     <desc lang="ja">#6「大将軍への道」#7「恐ろしき山の民」
 紀元前、中国。2人の少年、信と漂。そして、漂とうり二つの少年・政…。戦国大河アクション！＜制作:2012年/全38話＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633240/image/300aa01a8e0da98a3c2638537d2a2c1b.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="アニマックス_jp">
     <title lang="ja">ONE OUTS #21，22</title>
     <desc lang="ja">#21「漏洩」#22「盗聴」
 プロ野球を舞台に、渡久地東亜らが仕掛けるギリギリの深層心理を突いた勝負が見せ場の心理エンターテインメントアニメ。全25話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633241/image/829d666492085275836264fc8758c69d.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="アニマックス_jp">
     <title lang="ja">あかね噺 #3，4</title>
@@ -16569,36 +16523,30 @@ MISSION-10「決死！極秘任務！」
     <title lang="ja">【アンコール一挙】スーパーアニマル S2：生き残るための言語(二)</title>
     <desc lang="ja">アンコール一挙
 オウムの「ことば」、クジラの「歌」、イルカの「音で見る力」など、生き物たちの驚異的なコミュニケーション能力に迫る。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633703/image/dc2f8a90e0bfd48e15d2311535bb4a3c.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="アニマルプラネット_jp">
     <title lang="ja">【アンコール一挙】スーパーアニマル S2：凍てつく大地の支配者たち(二)</title>
     <desc lang="ja">アンコール一挙
 極寒の地で生き抜くホッキョクギツネ、深海へと潜るコウテイペンギン、闇の海を感知するアザラシ、過酷な環境に挑む。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633704/image/f2c2120250b0b2048ffa7c03b38ed67d.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="アニマルプラネット_jp">
     <title lang="ja">【アンコール一挙】スーパーアニマル S2：美しさに宿る驚異の能力(二)</title>
     <desc lang="ja">アンコール一挙
 鮮やかな色彩で身を守るカメレオン、極寒の山岳で生き抜くレッサーパンダ、海中で輝くニシキテグリなど。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633705/image/2444f58e95db27302585ebad0f87e8e6.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="アニマルプラネット_jp">
     <title lang="ja">インフォマーシャル(日)</title>
     <desc lang="ja">通販番組をお届けする30分</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633706/image/873e3c13acad68e168d1bc3c86db858b.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019113000 +0900" channel="アニマルプラネット_jp">
     <title lang="ja">【野生の王国アワー】命の継承者〜野生の子育て戦略〜：命をつなぐ親たち(二)</title>
     <desc lang="ja">野生の王国アワー
 子育てはアドベンチャーだ。ライオンは仲間同士で子育ての手伝いをする。アナホリフクロウは食べ物を確保しながら巣を掘る。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633707/image/ce7318f811a302bb1c1d87196c2a639b.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019123000 +0900" channel="アニマルプラネット_jp">
     <title lang="ja">【野生の王国アワー】命の継承者〜野生の子育て戦略〜：海(二)</title>
     <desc lang="ja">野生の王国アワー
 海で子育てをする動物は珍しい。ある魚は口の中で卵を育てる。ウィーディ・シードラゴンは海藻に擬態して子育てをする。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633708/image/27937b64e480d56622aa78f23a143688.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019133000 +0900" channel="アニマルプラネット_jp">
     <title lang="ja">【ネイチャー特選】いきもの極限サバイバー：自然界の強健者(二)</title>
@@ -17411,18 +17359,15 @@ MC：齋藤 陽（テレビ東京アナウンサー）</desc>
   <programme start="20261019084500 +0900" stop="20261019090000 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">おっはよー！アンクル・グランパ #124(二)</title>
     <desc lang="ja">＜穴を掘れ！＞愛車のキャンピングカーを乗り回し、昼でも夜でも「おっはよー！」大連発のナゾのおじさんがやってきた！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633537/image/f975f365a86fb6413523117531a12f62.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">パワーパフ ガールズ（リマスター版） #30(二)</title>
     <desc lang="ja">＜キャンディ大好き！／都会へおひっこし＞ブロッサム、バブルス、バターカップの３人はとっても強い正義の味方！タウンズヴィルの平和のため戦います。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633538/image/f39352cc2b6c77cf00e3f94bbebb5af2.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">インフォメーション
 通販番組をお届けする30分</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633539/image/00e0b4f261df8a8adf20706f5bff1edf.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019133000 +0900" channel="カートゥーン-ネットワーク_jp">
     <title lang="ja">ジェイクの日（二）</title>
@@ -17878,33 +17823,27 @@ MC：齋藤 陽（テレビ東京アナウンサー）</desc>
   <programme start="20261019083000 +0900" stop="20261019090000 +0900" channel="キッズステーション_jp">
     <title lang="ja">パウ・パトロール[二] #248</title>
     <desc lang="ja">第248話「おてつだいロボットをとめろ！／モーター・パウ！チェイスのくしゃみがとまらない」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633453/image/75d87897e0f67ded73670dd2b08e9f18.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="キッズステーション_jp">
     <title lang="ja">それいけ！アンパンマン #1535</title>
     <desc lang="ja">第1535話「ばいきんまんと３ばいてんどんまん／コキンちゃんとマゴマジョ」
 アンパンマンは、どんな困難をも乗り越えて大活躍する正義のヒーローです。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633454/image/e1499b19dee53977bb5bf8498903b064.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="キッズステーション_jp">
     <title lang="ja">子育てTV ハピクラ #297</title>
     <desc lang="ja">第２９７回「ハピクラの森コンサート〜がんばれファイト〜」身近な題材をテーマに歌ったり踊ったり、お子さまの五感や想像力・創造力を育む番組。楽しいコーナーも満載！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633455/image/af8e031c8f49e224af80b68cce3d78ed.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="キッズステーション_jp">
     <title lang="ja">さくらももこ劇場　コジコジ #48，49</title>
     <desc lang="ja">＃４８「ドーデスのお城　大ピンチ」＃４９「ファッションショーをやろう」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633456/image/a2c1ffaf94557d25a087902c65a2f58e.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="キッズステーション_jp">
     <title lang="ja">黒子のバスケ #47，48</title>
     <desc lang="ja">＃４７「決まってらあ」＃４８「負けたくない！」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633457/image/a3fe36885a2df5d5d7a03921a473381a.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="キッズステーション_jp">
     <title lang="ja">テニスの王子様 #135，136</title>
     <desc lang="ja">＃１３５「菊丸の夏休み」＃１３６「ジュニア選抜、集まる」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633458/image/2dde99bad7f5c71e1fbcdbdcae55aa37.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="キッズステーション_jp">
     <title lang="ja">名探偵コナン #180，181</title>
@@ -18462,17 +18401,14 @@ MC：齋藤 陽（テレビ東京アナウンサー）</desc>
 話題のクラブやグッズをご紹介。
 気に入った商品を即購入することができる！
 ショッピング番組。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18676758/image/c7a0d5b74cd0cf02df146186aeae93d2.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">プレメンレッスン！Season5 大山トギメソッド ＃１＆２</title>
     <desc lang="ja">悩めるゴルファーや向上したいゴルファーへ、コースで直接役に立つ、より実践的なレッスンをお届けします。今回は、大山トギプロのメソッドを紹介。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18676759/image/697a5a049a67ddcb182d6ca96dbe0fb6.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">プレメンレッスン！Season5 大山トギメソッド ＃３＆４</title>
     <desc lang="ja">悩めるゴルファーや向上したいゴルファーへ、コースで直接役に立つ、より実践的なレッスンをお届けします。今回は、大山トギプロのメソッドを紹介。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18676760/image/10da59c4cc4f2f6bed9aea2015e15abc.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">インフォメーション</title>
@@ -18480,12 +18416,10 @@ MC：齋藤 陽（テレビ東京アナウンサー）</desc>
 話題のクラブやグッズをご紹介。
 気に入った商品を即購入することができる！
 ショッピング番組。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18676761/image/e7ae951f3a8f065a548b6494cadd1fe9.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019113000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">ＳＨＯＷＤＯＷＮ ＃９ 大槻智春ｖｓ石坂友宏（前半）</title>
     <desc lang="ja">今回は2026年男子ツアーの国内開幕戦で悲願の初優勝を遂げた石坂友宏が登場！相手は、石坂をデビュー当時から気にかけてくれている先輩、ツアー通算3勝の大槻智春。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18676762/image/6509e5bd2af7011339d97726f6b7bbdf.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">インフォメーション</title>
@@ -18493,12 +18427,10 @@ MC：齋藤 陽（テレビ東京アナウンサー）</desc>
 話題のクラブやグッズをご紹介。
 気に入った商品を即購入することができる！
 ショッピング番組。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18676763/image/43b090798e08718400a5cedba5943523.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">ひとりゴルフ 岡田晃平</title>
     <desc lang="ja">ゴルフの魅力を伝え、ドローンカメラで撮影したゴルフ場の景色、コースの特徴も紹介しながら、ひとりのゴルファーの9ホールのラウンドを紹介する60分。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18676764/image/9d1c0a98d5e1577c1f93d72160001ea8.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019133000 +0900" channel="ゴルフネットワーク_jp">
     <title lang="ja">インフォメーション</title>
@@ -18926,7 +18858,6 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="サンテレビ_jp">
     <title lang="ja">ドラマ10　棘&lt;トゲ&gt;と蜜(第106話)</title>
     <desc lang="ja">あの時と同じ事故◇恋人との別れ、望まない結婚…嫉妬と嘘にまみれたドロドロ愛憎劇!&lt;日本語字幕入り&gt;(全122話)</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/477504/image/8715d952a5b6945000db618bcd3f2c8b.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019110000 +0900" channel="サンテレビ_jp">
     <title lang="ja">テレビショッピング</title>
@@ -18935,7 +18866,6 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261019110000 +0900" stop="20261019115500 +0900" channel="サンテレビ_jp">
     <title lang="ja">ドラマ11　国家代表ワイフ〜華麗なる江南奮闘記〜(第31話)</title>
     <desc lang="ja">◇憧れの地、江南に住めば幸せになれるのか?ワンランク上の人生を過ごすために奔走する主婦と個性豊かな登場人物たちによる物語!&lt;日本語字幕入り&gt;(全70話)</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/477513/image/12ad5c4ff6e73e6dcfe0b40f14026911.jpg" />
   </programme>
   <programme start="20261019115500 +0900" stop="20261019120000 +0900" channel="サンテレビ_jp">
     <title lang="ja">サンテレビニュース</title>
@@ -18952,7 +18882,6 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261019130000 +0900" stop="20261019135600 +0900" channel="サンテレビ_jp">
     <title lang="ja">ドラマ13　王女ピョンガン　月が浮かぶ川[二](第23話)</title>
     <desc lang="ja">◇キム・ソヒョン×ナ・イヌ共演!三国時代の高句麗で、国を守るために戦う王女と純朴な青年の真実の愛と絆の物語。&lt;二カ国語版　日本語字幕入り&gt;(全30話)</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/477523/image/a8cde8ec9a13dc50c1322c197dc24337.jpg" />
   </programme>
   <programme start="20261019135600 +0900" stop="20261019140000 +0900" channel="サンテレビ_jp">
     <title lang="ja">天気予報</title>
@@ -19315,12 +19244,10 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261019084000 +0900" stop="20261019110000 +0900" channel="ザ・シネマ_jp">
     <title lang="ja">燃えよデブゴン４／ピックポケット！ [字]</title>
     <desc lang="ja">お馴染み、サモ・ハンの太っちょカンフーが炸裂！「デブゴン」シリーズ最高傑作！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634152/image/6ce1fa055a46a776d0d38151e3c6f415.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019131000 +0900" channel="ザ・シネマ_jp">
     <title lang="ja">ダーティハリー [字]</title>
     <desc lang="ja">憎むべき犯罪者に正義の銃弾を撃ち込むアウトロー刑事ハリー・キャラハンの伝説、ここに始まる！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634153/image/71d271cafcee63bebe3c93a046421a00.jpg" />
   </programme>
   <programme start="20261019131000 +0900" stop="20261019160000 +0900" channel="ザ・シネマ_jp">
     <title lang="ja">チャイナタウン [字]</title>
@@ -19458,27 +19385,22 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261019080000 +0900" stop="20261019090000 +0900" channel="ショップチャンネル_jp">
     <title lang="ja">毎日使えるこだわり洗剤　スマートハイベック　消臭剤配合！</title>
     <desc lang="ja">水溶性・不溶性・油性の汚れを一度に落とす洗浄力！ドライクリーニング溶剤を配合した、普段使いにおすすめの洗剤です。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633014/image/bb4cf64a739a2387021149eedb41cfc7.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="ショップチャンネル_jp">
     <title lang="ja">伝統の金工芸　内閣総理大臣賞受賞「光則」純金大判小判</title>
     <desc lang="ja">福を招くといわれる招き猫を愛らしく描きました。豊かさへの願いを込めた、価値の高い純金小判です。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633015/image/ce0e1edf0015a8294cc2b085a6cfdf4f.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="ショップチャンネル_jp">
     <title lang="ja">フィールダウンでぽかぽか！　西川　ダブルフェイス掛けふとん　新作</title>
     <desc lang="ja">ダウンライクわた×吸湿発熱フィールダウンわたのダブル構造で優れた保温性を実現し、心地よい睡眠環境へと導きます。詳細は番組で！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633016/image/8f94f7dc23a6e5e81933161ff7d46d25.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="ショップチャンネル_jp">
     <title lang="ja">マイヤー火から冷蔵庫へ。動かす。楽しく。ムービングリル　デビュー</title>
     <desc lang="ja">直火やグリル、オーブンなどマルチに調理。そのまま食卓へサーブ、冷蔵保存までムービン♪新発想の調理器具。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633017/image/58308920f43e89a69fd3e71cd257fad6.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="ショップチャンネル_jp">
     <title lang="ja">ＧＯ！ＧＯ！バリュー　富洋物産　目利き人厳選！　豪華海鮮セット</title>
     <desc lang="ja">昼１２時は午後のおすすめ商品「ＧＯ！ＧＯ！バリュー」をご紹介。旬の商品をはじめ、選りすぐりのアイテムを厳選してご紹介。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633018/image/93ef518bb4c5b087c06e42e2b81407a2.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="ショップチャンネル_jp">
     <title lang="ja">アペーナ　凛とした大人の女性に　洗練された白金スタイル新作登場！</title>
@@ -19951,27 +19873,22 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261019083000 +0900" stop="20261019090000 +0900" channel="スカイA_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja"> </desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633190/image/14b36269888d5e7b2a6e01cd20212fe6.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="スカイA_jp">
     <title lang="ja">ゴルフ侍、見参！#569</title>
     <desc lang="ja">#569　▽河村雅之プロ×永井資士アマ（高知県・Kochi黒潮カントリークラブ/前半太平洋）テレビゴルフ番組史上初、プロとアマがハンデなしでガチンコ対決！！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633191/image/c14bfea1f1365e5b4324d8b692ab0b10.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="スカイA_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja"> </desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633192/image/3f2a8ce8119b14c3cab2cadc83e6ab65.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019113000 +0900" channel="スカイA_jp">
     <title lang="ja">ゴルフサバイバル 88thステージ#1</title>
     <desc lang="ja">88thステージ#1　ゴルフサバイバルは、シュートアウト（脱落）方式で争うゴルフマッチ。賞金100万円を賭けた真剣勝負！生き残るのは、ただ一人！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633193/image/1c49ba60e8a6898da7354b416f5db517.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="スカイA_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja"> </desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633194/image/59089158e225c0e29ffa8a483702031f.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019154500 +0900" channel="スカイA_jp">
     <title lang="ja">2025 サロンパスレディスオープン 第1日</title>
@@ -20247,12 +20164,10 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261019080000 +0900" stop="20261019110000 +0900" channel="スペースシャワーTV_jp">
     <title lang="ja">スペシャカウントダウン50▼Mrs. GREEN APPLE、藤井 風 他</title>
     <desc lang="ja">最新スペースシャワーTVオリジナルチャートを一挙カウントダウン！この番組で今最もホットな音楽のすべてをチェック！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633351/image/2a20a1ee22baf565321ffd5613a02c7d.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="スペースシャワーTV_jp">
     <title lang="ja">ナウヒッツ！</title>
     <desc lang="ja">▼TAKARA／&amp;TEAM／STUTS &amp; butaji／三浦大知／藤井 風／JENNIE／KIHYUN／Chevon／SABOTEMPLE／ブランデー戦記／ammo／音田雅則 他</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633352/image/7a83d094553d24755b7c5af0a664fa57.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019150000 +0900" channel="スペースシャワーTV_jp">
     <title lang="ja">全曲歌詞入り！カラオケランキング50▼M!LK、Vaundy 他</title>
@@ -20392,22 +20307,18 @@ Bird　Song/三原淑治・スインギー坂野</desc>
   <programme start="20261019062500 +0900" stop="20261019085500 +0900" channel="スポーツライブ+_jp">
     <title lang="ja">若手ゴルファー大会！マイナビ ネクストヒロインゴルフツアー2024 第11戦 後編</title>
     <desc lang="ja">プロテスト合格を目指す、将来有望な若手女子ゴルファーたちの熱き戦い！各大会の模様を2時間半に前編と後編に凝縮してお届け。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18644612/image/2e380d0c661c96596af4ea079365e7cd.jpg" />
   </programme>
   <programme start="20261019085500 +0900" stop="20261019092500 +0900" channel="スポーツライブ+_jp">
     <title lang="ja">ホッとな☆お買い物情報</title>
     <desc lang="ja"> </desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18644613/image/a761eafbdf54fd25045507ed60da5e8b.jpg" />
   </programme>
   <programme start="20261019092500 +0900" stop="20261019115500 +0900" channel="スポーツライブ+_jp">
     <title lang="ja">マイナビ ネクストヒロインゴルフツアー2025 第16戦 前編</title>
     <desc lang="ja">将来有望な若手女子ゴルファーたちの熱き戦い！今回は第16戦  Dormy Ladies Cupの模様をお届け。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18644614/image/bbed7808d3aad0b39e96bfac9b80a4fc.jpg" />
   </programme>
   <programme start="20261019115500 +0900" stop="20261019122500 +0900" channel="スポーツライブ+_jp">
     <title lang="ja">ホッとな☆お買い物情報</title>
     <desc lang="ja"> </desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18644615/image/6f95e696a0f4e4feda368d46c33401af.jpg" />
   </programme>
   <programme start="20261019122500 +0900" stop="20261019163000 +0900" channel="スポーツライブ+_jp">
     <title lang="ja">[生]第23回みやざきフェニックス・リーグ ハヤテvs.ソフトバンク</title>
@@ -20592,12 +20503,10 @@ TV初 日本 2026年 147分
     <desc lang="ja">＜パチンコ・パチスロ番組史上初の海賊モノ＞
 日本 2026年 58分
 出演：木村魚拓、青山りょう、麗奈、ちょび</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633809/image/2d4d5e54a7260e9d66dd354972e82bb6.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">情報番組</title>
     <desc lang="ja">情報番組（PR）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633810/image/622b1d2f27cdf6c2b5f3acb5233a46dd.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019113000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">PARKER パーカー</title>
@@ -20605,12 +20514,10 @@ TV初 日本 2026年 147分
 字幕 アメリカ 2013年 119分
 監督：テイラー・ハックフォード
 出演：ジェイソン・ステイサム、ジェニファー・ロペス</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633811/image/06328203d39a6f4d6452c8dd58a642ba.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">情報番組</title>
     <desc lang="ja">情報番組（PR）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633812/image/8899cefe92505faaad8c90648bf6cb78.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">ダメージ シーズン2 第5話</title>
@@ -20618,7 +20525,6 @@ TV初 日本 2026年 147分
 字幕
 監督：マリオ・ヴァン・ピープルズ、他
 出演：グレン・クローズ、ローズ・バーン</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633813/image/2e36107281677ebf6840c371aebae8fc.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="スーパー!ドラマTV_jp">
     <title lang="ja">アンフォゲッタブル 完全記憶捜査 シーズン1 第20話</title>
@@ -21181,27 +21087,22 @@ TV初 日本 2026年 147分
   <programme start="20261019083000 +0900" stop="20261019093000 +0900" channel="チャンネル銀河_jp">
     <title lang="ja">中国ドラマ「定風波〜神捕、冥（くら）き真実を暴く〜」＃２５＜字幕＞</title>
     <desc lang="ja">『墨雨雲間〜美しき復讐〜』ワン・シンユエ、『氷に恋したサンシャイン -驕陽伴我-』シアン・ハンジー共演でおくる本格サスペンス時代劇/2025年/全36話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634183/image/73e20d6bea50dfc7e09d9b4adda82eb1.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="チャンネル銀河_jp">
     <title lang="ja">【グルメ祭り】下山メシ＃１</title>
     <desc lang="ja">【御岳山　はらしま食堂】西野淑子の著書『関東周辺 美味し愛しの下山メシ』を原案とした「山」×「メシ」の新たなグルメドラマ/2024年/全8話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634184/image/e75a5623062a50ffb66caa306ee25d11.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019113000 +0900" channel="チャンネル銀河_jp">
     <title lang="ja">韓◆七日の王妃＃１４＜ノーカット字幕版＞</title>
     <desc lang="ja">【愛するがゆえの涙】1人の女性をめぐる切ない三角関係と、異母兄弟による熾烈な政権争いの模様を描いた王宮ロマンス大作/2017年/全20話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634185/image/be2911838023f8f1e6dee04941bfc129.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="チャンネル銀河_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">インフォメーション</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634186/image/8c244ea18c06193294eb3034e88166ef.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="チャンネル銀河_jp">
     <title lang="ja">[新]中国ドラマ「猟罪図鑑II」＃２８＜字幕＞[終]</title>
     <desc lang="ja">【空と地上】『長相思』タン・ジェンツー×『HOPE 誘拐特捜室』ジン・シージャー共演でおくる人気サスペンスシリーズ第2弾/2024年/全28話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634187/image/6fb790e9fb638a153d6825d2cdeee18f.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="チャンネル銀河_jp">
     <title lang="ja">[新]中国ドラマ「国色芳華〜牡丹の花咲く都で〜」＃１０＜字幕＞</title>
@@ -21850,7 +21751,7 @@ U字工事も絶賛!M!LK塩崎「美味しすぎて滅!」な餃子旅
   </programme>
   <programme start="20261019215400 +0900" stop="20261019231000 +0900" channel="テレビ朝日_jp">
     <title lang="ja">報道ステーション[字]</title>
-    <desc lang="ja">国会焦点は消費減税に…深刻、外食産業の苦悩▽発達続ける台風30号…千葉豪雨も高精度で…AI台風進路予測の今▽松坂大輔×織田翔希…怪物対談(他)</desc>
+    <desc lang="ja">国会焦点は消費減税に…深刻、外食産業の苦悩…高市政権の支持率は▽クマで都も初訓練へ▽発達続ける台風30号▽松坂大輔×織田翔希…怪物対談(他)</desc>
   </programme>
   <programme start="20261019231000 +0900" stop="20261019231500 +0900" channel="テレビ朝日_jp">
     <title lang="ja">世界の車窓から[字]</title>
@@ -21871,7 +21772,8 @@ by.Brandi Disterheft</desc>
   </programme>
   <programme start="20261020001500 +0900" stop="20261020011500 +0900" channel="テレビ朝日_jp">
     <title lang="ja">START　UP!ドリームエンタ[字]</title>
-    <desc lang="ja">★キョコロヒー:錦鯉・渡辺隆のちょうどいいアテンド!佐々木美玲と2人旅!</desc>
+    <desc lang="ja">★キョコロヒー:錦鯉・渡辺隆のちょうどいいアテンド!佐々木美玲と2人旅!
+★ドリームエンタ:FRUITS ZIPPER月足天音×CANDY TUNE立花琴未サシトーク</desc>
   </programme>
   <programme start="20261020011500 +0900" stop="20261020012000 +0900" channel="テレビ朝日_jp">
     <title lang="ja">ドリームナビ</title>
@@ -21995,7 +21897,7 @@ by.Daniel Lanois</desc>
     <desc lang="ja">大悟が何故か大激怒!後輩のさらば森田&amp;水田&amp;マユリカ阪本&amp;とろサーモン村田を呼び出し大説教</desc>
   </programme>
   <programme start="20261021001500 +0900" stop="20261021004500 +0900" channel="テレビ朝日_jp">
-    <title lang="ja">夫が寝たあとに[字]</title>
+    <title lang="ja">夫が寝たあとに　2児のママ・佐々木希とママ会SP![字]</title>
     <desc lang="ja">ママ会トークバラエティ“夫が寝たあとに"
 3児のママでMCの藤本美貴と横澤夏子がママトーク全開!!パパも思わず覗き見したくなる本音が盛りだくさん!?</desc>
   </programme>
@@ -22173,7 +22075,6 @@ by.Daniel Lanois</desc>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">かながわ旬菜ナビ▽期待の新米“にじのきらめき” 〜座間〜[再]</title>
     <desc lang="ja">今回は、神奈川県で新しく奨励品種になったお米「にじのきらめき」をリサーチ!</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/477889/image/e9c0d3686546684a429b4ed86b419c9a.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019105900 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">tvkお買物情報</title>
@@ -22259,7 +22160,6 @@ by.Daniel Lanois</desc>
   <programme start="20261019183000 +0900" stop="20261019185500 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">音楽缶</title>
     <desc lang="ja">最新のミュージックビデオをノーカットで紹介</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/477898/image/914cb6b0a24cc147389cf30435c4a3fa.jpg" />
   </programme>
   <programme start="20261019185500 +0900" stop="20261019190000 +0900" channel="テレビ神奈川_jp">
     <title lang="ja">どすこいすしずもう[再]</title>
@@ -22668,26 +22568,22 @@ by.Daniel Lanois</desc>
     <title lang="ja">[新]科捜研の女（1999） #1</title>
     <desc lang="ja">第1話「声紋は語る！京都大文字の夜謎の女が…」科学捜査研究所・略称「科捜研」。そこで働く女性科学捜査官の活躍を描く。
 放送日：1999年10月21日　＜全9話＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18638470/image/de814639252ada5a0db171a7668af6a3.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="テレ朝チャンネル1_jp">
     <title lang="ja">相棒 season17 #11</title>
     <desc lang="ja">第11話「密着特命係24時」（2018-2019年／全20話）
 出演者：水谷豊、反町隆史、鈴木杏樹、川原和久、山中崇史、山西惇、浅利陽介、田中隆三、小野了、片桐竜次　ほか</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18638471/image/56a22b08b7838df0e0d24720199237ce.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="テレ朝チャンネル1_jp">
     <title lang="ja">ドクターX 〜外科医・大門未知子〜（2014） #4</title>
     <desc lang="ja">OPE.4「切りましょうか、私が。私なら完璧に治せますよ」
 出演者：米倉涼子、遠藤憲一、北大路欣也
 ＜全11話＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18638472/image/201ba286b2ead963dd995f04d25fa954.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019124500 +0900" channel="テレ朝チャンネル1_jp">
     <title lang="ja">おかしな刑事23 有名マジシャン生舞台仰天殺人!!</title>
     <desc lang="ja">芥川龍之介ゆかりの田端〜王子〜板橋！東京城北大捜査疑惑の文学散歩の男…ネットの罠に嵌った女 父娘豪邸救出作戦!!（2020年）
 出演者：伊東四朗、羽田美智子　ほか</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18638473/image/8c18720d060646ab6e5ad998e4d93db4.jpg" />
   </programme>
   <programme start="20261019124500 +0900" stop="20261019134500 +0900" channel="テレ朝チャンネル1_jp">
     <title lang="ja">鉄道絶景遺産 #1-4</title>
@@ -23030,7 +22926,6 @@ by.Daniel Lanois</desc>
   <programme start="20261019070000 +0900" stop="20261019130000 +0900" channel="テレ朝チャンネル2_jp">
     <title lang="ja">フィギュアスケート ジュニアGPシリーズ2026 第4戦トルコ大会 男子ショート</title>
     <desc lang="ja">次世代のスター候補が集結するジュニアGPシリーズ。12月中国・重慶で行われるジュニアGPファイナルの出場権をかけた戦いが繰り広げられる！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18675077/image/4a4a62ffbdca272ddbfc0d8bdbf7ce1b.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="テレ朝チャンネル2_jp">
     <title lang="ja">[新]トリック（2000） #1</title>
@@ -23425,7 +23320,7 @@ by.Daniel Lanois</desc>
     <desc lang="ja">次元を超越し、瀞霊廷・現世・虚圏に同時出現したユーハバッハは、世界を無に還し、「生の恐怖」も「死の恐怖」もない新たな世界を創ると宣言する。</desc>
   </programme>
   <programme start="20261020003000 +0900" stop="20261020010000 +0900" channel="テレ東_jp">
-    <title lang="ja">キテレツキテル！[字]奇天烈高校！漢の三番勝負！土屋アンナ参戦!</title>
+    <title lang="ja">キテレツキテル！奇天烈高校！漢の三番勝負！土屋アンナ参戦![字]</title>
     <desc lang="ja">ヤンキー熱が高まっている昨今いかにモテるのか！土屋アンナの認める漢は一体だれか!?</desc>
   </programme>
   <programme start="20261020010000 +0900" stop="20261020013000 +0900" channel="テレ東_jp">
@@ -23976,7 +23871,7 @@ by.Daniel Lanois</desc>
   </programme>
   <programme start="20261020135900 +0900" stop="20261020143000 +0900" channel="テレ玉_jp">
     <title lang="ja">知事定例記者会見[手]</title>
-    <desc lang="ja"> </desc>
+    <desc lang="ja">県庁で行われている知事会見の模様を中継でお送りします。</desc>
   </programme>
   <programme start="20261020143000 +0900" stop="20261020150000 +0900" channel="テレ玉_jp">
     <title lang="ja">ＴＶショッピング・健康テレビショッピング[S]</title>
@@ -24145,30 +24040,25 @@ by.Daniel Lanois</desc>
     <title lang="ja">【ミリタリーSP】兵器のテクノロジー：防衛技術(二)</title>
     <desc lang="ja">ミリタリーSP
 戦闘での勝利に必要な軍事テクノロジーのすべてをご紹介／防弾チョッキから戦車の装甲まで、兵士たちの身を守る防御手段に迫る。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634054/image/d4a9d016a77ff6871ad78a4c35f94674.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="ディスカバリーチャンネル_jp">
     <title lang="ja">インフォマーシャル(日)</title>
     <desc lang="ja">通販番組をお届けする30分</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634055/image/7e6a1a3798a730fae1d5f692addf3c52.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="ディスカバリーチャンネル_jp">
     <title lang="ja">【名車一挙】名車再生ドリームカー大作戦：ドリームカー獲得の近道(二)</title>
     <desc lang="ja">名車一挙
 夢の車を手に入れる方法をあなたに伝授。車のショーやオークション、部品のフリーマーケット“オートジャンブル”を紹介する。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634056/image/f3f2ec929b177ec192382028a759c0fa.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="ディスカバリーチャンネル_jp">
     <title lang="ja">【名車一挙】名車再生！BMW840(二)</title>
     <desc lang="ja">名車一挙
 マイクが探しているのは大人気のBMW・8シリーズ。彼はV8モデルのBMW840を見つけ大満足。しかしエドは喜ばなかった。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634057/image/40a98a292950e9146edb3ea381d65e67.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="ディスカバリーチャンネル_jp">
     <title lang="ja">【名車一挙】名車再生！ワールドツアー：アナドル STC-16(二)</title>
     <desc lang="ja">名車一挙
 現存数が25台ほどしかないアナドル STC−16 の1台をトルコで入手。ボディーには穴が開き、シャシーも壊れていて…。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634058/image/1fbd36a255d1c7560b12917417757351.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019133000 +0900" channel="ディスカバリーチャンネル_jp">
     <title lang="ja">インフォマーシャル(日)</title>
@@ -24509,52 +24399,42 @@ by.Daniel Lanois</desc>
   <programme start="20261019083000 +0900" stop="20261019090000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">スーパーキティ#16[二]</title>
     <desc lang="ja">サムとエディの目の前で、スパークスが猫のおやつを盗む。本当の犯人はだれか？／スパークスとの兄弟の時間をビッツィにじゃまされて、バディは不機嫌になる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637763/image/6bb5eefb6956283e017a7a6bc6a784da.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">おさるのジョージ#50[二]</title>
     <desc lang="ja">クラシックコンサートへ行くジョージ。次の子どものためのコンサートで指揮をすることに！／黄色い帽子のおじさんたちが掘る穴に、ジョージがヘルメットを落としてしまう。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637764/image/6d93f4f77f805a2af3c25d127c135c7f.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">オクトノーツと地上のミッション#18[二]</title>
     <desc lang="ja">ナットクイック教授の家にアカギツネがすみついて、大変なことに。／ミユビナマケモノからマングローブを守るため、ベジマルを海ぞくとして訓練する。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637765/image/e443e158130391c6ea55d77bf8f6063c.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ちいさなプリンセス　ソフィア#19[二]</title>
     <desc lang="ja">王立アカデミーでハロウィーンパーティーが開かれる。その中でコスチューム・コンテストもあるのだが、今年はコスチュームを手作りしなければいけないというルールに。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637766/image/51b45ce60213410903deaa3d21ee490d.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019110000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ちいさなプリンセス　ソフィア#36[二]</title>
     <desc lang="ja">今日はハロウィーン！ソフィアはお城の大広間でお化け屋敷パーティーを開くことに。ところがお化けのダックスとブーがソフィアの邪魔をする。それには深い理由があった…。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637767/image/1e1509950096c460d735b60d152ddfc8.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">マペット・ベビー#28[二]</title>
     <desc lang="ja">ミス・ナニーの植木鉢を割り、叱られると思ったフォジーは本の中の世界へ逃げ込む。／リゾの兄、スーパースターのヴィニー・リングイネが遊びに来るが、リゾは浮かない顔。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637768/image/c076245c8f8aae13a37ab41f9ac41d96.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ペッパピッグ#97-#100[二]</title>
     <desc lang="ja">#97「オモチャのとだな」　#98「みんなでキャンプ」　#99「グランマとグランパのやねうら」　#100「キャプテン・ダディピッグ」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637769/image/5684d3afe2b79b3ceb2bbb7c4cc6edb4.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019123000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">パグ・パグ・アドベンチャー#34[二]</title>
     <desc lang="ja">無風で凧揚げが出来ないボブ。そこでビンゴとローリーはシカゴから風を持ち帰ろうとする。／トリマーさんに行くのを怖がるキーアのために、ビンゴたちは練習することに。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637770/image/bd91f2e372b383229a49b0fe94fd9ef6.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019125000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">モーフルとまほうのペット#26[二]</title>
     <desc lang="ja">ルイスのペットモービルとモーフルのどちらが速いか、レースで決めることに。／ジョーディは森で新しい石を見つけてくる。ところが、ケースに保管したはずの石がなくなる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637771/image/733805218fc5fd434a0e450a7632b09e.jpg" />
   </programme>
   <programme start="20261019125000 +0900" stop="20261019130000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ディズニージュニア おうたのじかん</title>
     <desc lang="ja">ディズニージュニアで人気のショートムービーの中から、英語で歌っているおうたたちを集めたよ！みんなで一緒に歌おう！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637772/image/407f3ff6124b6afab90d628214b8f58c.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019133000 +0900" channel="ディズニージュニア_jp">
     <title lang="ja">ドックはおもちゃドクター#63[二]</title>
@@ -25021,47 +24901,38 @@ by.Daniel Lanois</desc>
   <programme start="20261019083000 +0900" stop="20261019090000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ちいさなプリンセス　ソフィア#38[二]</title>
     <desc lang="ja">引退した魔法使いが住む不思議の森。そこでセドリックの父親グッドウィンは、セドリックを一人前と認めず、父から息子へ代々伝わる強力な魔法の杖を渡そうとしなかった…。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637482/image/3a9d910e83b735181f46f675288e68d8.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ミッキーマウス　ファンハウス#16[二]</title>
     <desc lang="ja">季節を変える魔法のノームたち。秋を迎える音楽を演奏するが全く息が合わない。／ビッグ・シーホース・ショーで踊るシービスケットとバブルズ。衣装について意見が割れる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637483/image/faee0bdcb53dc221c5f0249cd34368f1.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">スパイディとすごいなかまたち#36[二]</title>
     <desc lang="ja">マイルスは、自由の女神のイベントを見に行く。するとそこにブラックキャットも現れて…。／スパイディとレプティルが動物園にいると、突然ロボット恐竜が現れる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637484/image/12003f8c8183e4147b310c736e5d79ec.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ファイヤーバディ#13[二]</title>
     <desc lang="ja">ボーの祖父ベンの７０歳の誕生会。無口なベンが苦手なボーだが、ベンのユーモアのセンスに気づく。／消火訓練で徹夜明けのボーとフラッシュ。救助に出ても眠くて仕方ない。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637485/image/653377ff4d4652efd21b237eed86ba53.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019110000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ファイヤーバディ#14[二]</title>
     <desc lang="ja">ファイヤーバディのあまり怖くないお化け屋敷で悪童コンビのロッドとイギーがやりたい放題！／カーリーとハリーはファイヤーバディに扮してお菓子泥棒ワイリーたちを追う。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637486/image/018f75df80c1c037514fdbea6d6e7634.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ブルーイ#6[二]</title>
     <desc lang="ja">お医者さんごっこで患者役になったハニーだが、次々と順番を飛ばされて…。/パパとママがクレーンゲームを手作りすることに！/ブルーイは5ドルの使い道に頭を悩ませる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637487/image/dd5a26c71296b26aae121831bdac7299.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ブルーイ#7[二]</title>
     <desc lang="ja">お店屋さんごっこを始めるが、ブルーイがこだわりすぎて中断してばかり。/ママの助言を聞き流し、プールに遊びに来たパパたちだが…。　/パパのお腹の上で冒険の旅へ！？</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637488/image/26acd6ea9f41afeec69a3e08e4ed3c38.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019122500 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ベイマックス　ザ・シリーズ#46[二]</title>
     <desc lang="ja">「ぶっちぎりのスー」の孫、「ぶっちぎりのステュー」がスーの脱獄を手助けする。人前で話すことが苦手なワサビは、グランビル教から授量子光学の代講を頼まれパニックに。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637489/image/2a9eab6517b8d0755ff8436c47960131.jpg" />
   </programme>
   <programme start="20261019122500 +0900" stop="20261019123000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">ツムツム#27[解]</title>
     <desc lang="ja">床一面がモニターの部屋に入るツムたち。そこに映る一本の木の緑の葉っぱに飛び乗ると、おしりの色に合せて葉っぱが次々と黄色、オレンジ、赤に変色して見事な紅葉に！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18637490/image/2c4f7fca7d289ad468aa7de8b8fb0da4.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019133000 +0900" channel="ディズニー・チャンネル_jp">
     <title lang="ja">スゴ腕どうぶつドクター#4[二]</title>
@@ -25383,27 +25254,22 @@ by.Daniel Lanois</desc>
   <programme start="20261019080000 +0900" stop="20261019090000 +0900" channel="ナショナル-ジオグラフィック_jp">
     <title lang="ja">地球：生き物たちの故郷〜アフリカ「ようこそアフリカ大陸へ」[字]</title>
     <desc lang="ja">アフリカは驚異に満ちた大陸だ。地球上で最も多くの野生動物が集まり、ありとあらゆる環境が存在する。この変化に富んだ大地で暮らすには適応力が求められる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18635902/image/c3dff652186d8789cd0280c483367a6b.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="ナショナル-ジオグラフィック_jp">
     <title lang="ja">スゴ腕どうぶつドクター「ウシを襲った一大事」[二]</title>
     <desc lang="ja">ポール医師は息子のチャールズと共に、理由もなく体重が落ちた警察犬などの難しい症例に挑む。チャールズは、膨大な仕事量を難なくこなす父を見て、尊敬の念を新たにする。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18635903/image/253a669289ca860263d87a139b99733a.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="ナショナル-ジオグラフィック_jp">
     <title lang="ja">スゴ腕どうぶつドクター９「冬将軍到来」[二]</title>
     <desc lang="ja">ミシガンに寒波襲来！急激な冷え込みで動物たちはみんな病気に…気管支炎のネコ、凍傷の犬、肺炎に罹ったブタとトナカイとアンゴラヤギ。馬のダンサーは氷で滑って…。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18635904/image/3bafaec09c00754bd5e7279778c958e4.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="ナショナル-ジオグラフィック_jp">
     <title lang="ja">【スゴ腕どうぶつドクター４　一挙放送】「跳べないウサギ」[二]</title>
     <desc lang="ja">大忙しのクリニックに新任のドクター・エミリーがやって来る！さっそくドクター・ポールと農場の往診へ。外来には跳べないウサギ、発作を起こしたブルドッグが…。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18635905/image/84552d371ed7d3415666a8b414b46fb1.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="ナショナル-ジオグラフィック_jp">
     <title lang="ja">スゴ腕どうぶつドクター４「お金にまつわるエトセトラ」[二]</title>
     <desc lang="ja">厳しい冬はまだ去る気配がなく、動物たちには問題が続出。ドクター・ポールは新入りのドクター・エミリーと往診へ出かけ、一方チャールズは農場の仕事を手伝うことに。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18635906/image/eb0755719438e4a565c0ff901b997149.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="ナショナル-ジオグラフィック_jp">
     <title lang="ja">スゴ腕どうぶつドクター４「早食い競争」[二]</title>
@@ -25628,31 +25494,26 @@ by.Daniel Lanois</desc>
     <desc lang="ja">『#5 ノルマンディーの電撃戦/#6 ドイツ軍を突破せよ』
 第二次大戦下、連合軍を勝利に導いた米陸軍の名将・パットンの大胆な戦術と人物像に迫る。
 ＜全10話＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634161/image/b1b03e5f57956d0934606444b29aeae8.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">第二次世界大戦全史 by トム・ハンクス #16[二]</title>
     <desc lang="ja">『#16 レジスタンス』
 ナチスに占領された欧州でも抵抗は続く。フランスやポーランドでレジスタンスが活動し、アウシュビッツでも命がけの反抗が試みられる。
 ＜全20話＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634162/image/00317bfc3d21df8f700c6b5267f5174f.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">ザ・鍛冶男 #6 喫煙可能「パイプ・トマホーク」[二]</title>
     <desc lang="ja">先住民の斧の一部を銃身に使った「パイプ・トマホーク」銃の製作。ダニエルは弟子の腕を試しながら、試行錯誤の末、独特な構造の一品を完成へ導く。
 ＜全12話＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634163/image/e1d996b248ea5c43ae51c59ac4c85509.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">情報番組</title>
     <desc lang="ja">暮らしに役立つ情報満載。気に入った商品が見つかったらすぐにお電話下さい。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634164/image/c7331db2cea8ddb2960bf21c19f51f92.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">激闘！恐怖の人喰い獣スペシャル #1 死の沼地[字]</title>
     <desc lang="ja">ミャンマー沖で起きたワニによる虐殺事件。2人の男が真相解明に乗り出す。現地の沼に今も潜む巨大なワニは事件の当事者なのか？
 ＜全2話＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634165/image/bd48dbff59376258682feb1084c20398.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019140000 +0900" channel="ヒストリーチャンネル_jp">
     <title lang="ja">ザ・山男 S3 #26 厳冬シーズン到来[二]</title>
@@ -25896,17 +25757,14 @@ ISPS主催の男子レギュラートーナメントをご紹介します。</de
   <programme start="20261019083000 +0900" stop="20261019102000 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">伊豆・天城越え殺人事件　出演：木の実ナナ</title>
     <desc lang="ja">【出演】：木の実ナナ、浅田美代子、さとう珠緒、京本政樹、竜雷太、原久美子、未來貴子、梨本謙次郎</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633366/image/1b343ad36f867b3afd1677ec359e07d2.jpg" />
   </programme>
   <programme start="20261019102000 +0900" stop="20261019105000 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">生活お役立ち情報</title>
     <desc lang="ja">この時間は生活に役立つお得なテレビショッピングをお届けします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633367/image/abef5cb9a7be5e219d989388ff984ef2.jpg" />
   </programme>
   <programme start="20261019105000 +0900" stop="20261019125000 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">北アルプス山岳救助隊・紫門一鬼５　殺人山行　不帰ノ嶮　出演：高嶋政宏</title>
     <desc lang="ja">出演：高嶋政宏、一色彩子（現：一色采子）、中江有里、宮川一朗太、渡瀬恒彦　ほか</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633368/image/552e54a8787499df485a873afccb0e18.jpg" />
   </programme>
   <programme start="20261019125000 +0900" stop="20261019145000 +0900" channel="ファミリー劇場_jp">
     <title lang="ja">山村美紗サスペンス　黒の滑走路３</title>
@@ -26106,33 +25964,28 @@ ISPS主催の男子レギュラートーナメントをご紹介します。</de
     <title lang="ja">ワールドカップバレー 黄金伝説 女子　#38　1995年大会「日本×中国」</title>
     <desc lang="ja">1995年大会 女子「日本 vs 中国」
 ▽ワールドカップバレーの過去の名勝負をプレイバック！あの感動をもう一度！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18658992/image/7fb476f314c1d15bb9f3fdbd3c68b5ac.jpg" />
   </programme>
   <programme start="20261019101000 +0900" stop="20261019102000 +0900" channel="フジテレビNEXT_jp">
     <title lang="ja">純喫茶に恋をして（10分だけver.） #22　名古屋 大高町「珈琲ポプリ」</title>
     <desc lang="ja">名古屋 大高町「珈琲ポプリ」
 ▽レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
 ＜出演＞戸塚純貴　ほか</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18658993/image/b7666e8af3fdc7235d72eec8c0e7a569.jpg" />
   </programme>
   <programme start="20261019102000 +0900" stop="20261019103000 +0900" channel="フジテレビNEXT_jp">
     <title lang="ja">純喫茶に恋をして（10分だけver.） #23　名古屋 錦「珈琲にしき」</title>
     <desc lang="ja">名古屋 錦「珈琲にしき」
 ▽レトロかわいい喫茶店が舞台。新感覚☆ドラマ形式のグルメガイド番組
 ＜出演＞戸塚純貴　ほか</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18658994/image/1ebd9e9f884e23f197680d0ed66c19eb.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019110500 +0900" channel="フジテレビNEXT_jp">
     <title lang="ja">DANCE STADIUM 2026　日本中学校ダンス部選手権「中日本大会」</title>
     <desc lang="ja">「中日本大会」
 ▽全国の中学校ダンス部が日本一を目指して競い合う大会。情熱、努力、友情、そしてチームワークを武器に熱戦を繰り広げる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18658995/image/51b6fb1d8c773191c11ae28a534f55f0.jpg" />
   </programme>
   <programme start="20261019110500 +0900" stop="20261019130500 +0900" channel="フジテレビNEXT_jp">
     <title lang="ja">DANCE STADIUM 2026　日本中学校ダンス部選手権「東日本大会」</title>
     <desc lang="ja">「東日本大会」
 ▽全国の中学校ダンス部が日本一を目指して競い合う大会。情熱、努力、友情、そしてチームワークを武器に熱戦を繰り広げる。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18658996/image/388dcc51e362a8f9b4082397b6cbb18d.jpg" />
   </programme>
   <programme start="20261019130500 +0900" stop="20261019142500 +0900" channel="フジテレビNEXT_jp">
     <title lang="ja">DANCE STADIUM 2026　日本中学校ダンス部選手権「西日本大会」</title>
@@ -26434,19 +26287,16 @@ https://otn.fujitv.co.jp</desc>
     <title lang="ja">新・みんなの鉄道　#39「東日本旅客鉄道・寝台特急北斗星」</title>
     <desc lang="ja">#39『東日本旅客鉄道・寝台特急北斗星』
 最後のブルートレイン、東日本旅客鉄道の寝台列車「北斗星」の魅力をたっぷりご紹介！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659142/image/a01ea0de1dafc1c878a4e3b13ee58173.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="フジテレビONE_jp">
     <title lang="ja">パチンコLAB 〜15th season〜　#5</title>
     <desc lang="ja">パチンコの新たな楽しみ方を提案！新感覚パチンコバラエティ！
 ＜出演＞木村魚拓　青山りょう　ロギー</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659143/image/0ce5d6dfa76e2e812079662454caa09b.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="フジテレビONE_jp">
     <title lang="ja">パチンコLAB 〜15th season〜　#6</title>
     <desc lang="ja">パチンコの新たな楽しみ方を提案！新感覚パチンコバラエティ！
 ＜出演＞木村魚拓　青山りょう　ロギー</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659144/image/a6b998857f21bd34659b250044363f37.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019121500 +0900" channel="フジテレビONE_jp">
     <title lang="ja">有吉くんの正直さんぽ　#328「平井」</title>
@@ -26454,7 +26304,6 @@ https://otn.fujitv.co.jp</desc>
 ＜ゲスト＞坂下千里子　小森隼（GENERATIONS）
 （地上波放送日　2025年4月19日）
 ▽CS放送のみの特典映像あり</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659145/image/efa0d884e3919afbb4aa7832806010bf.jpg" />
   </programme>
   <programme start="20261019121500 +0900" stop="20261019131500 +0900" channel="フジテレビONE_jp">
     <title lang="ja">ゲームセンターCX　#425　クリアせよ！「スターフォックス64」</title>
@@ -26811,53 +26660,44 @@ https://otn.fujitv.co.jp</desc>
     <title lang="ja">韓国ドラマ「復讐の化身 ヨン・スジョン」#100　【日本語字幕版】（全124話）</title>
     <desc lang="ja">第100話「一緒に目的を果たすのよ」
 ＜出演＞オム・ヒョンギョン　ソ・ジュニョン　イム・ジュウン　クォン・ファウン　ほか</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659343/image/6b7ba80a3953f05700e3bfe6d6991e1d.jpg" />
   </programme>
   <programme start="20261019090300 +0900" stop="20261019093600 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">韓国ドラマ「復讐の化身 ヨン・スジョン」#101　【日本語字幕版】（全124話）</title>
     <desc lang="ja">第101話「生きた証拠を見つけなきゃ」
 ＜出演＞オム・ヒョンギョン　ソ・ジュニョン　イム・ジュウン　クォン・ファウン　ほか</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659344/image/25d648294ededdbc53525c1d9934eae4.jpg" />
   </programme>
   <programme start="20261019093600 +0900" stop="20261019101000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">韓国ドラマ「復讐の化身 ヨン・スジョン」#102　【日本語字幕版】（全124話）</title>
     <desc lang="ja">第102話「お母さん、もう終わりよ」
 ＜出演＞オム・ヒョンギョン　ソ・ジュニョン　イム・ジュウン　クォン・ファウン　ほか</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659345/image/e7746ccebc48eeaabf1ba180d88bb073.jpg" />
   </programme>
   <programme start="20261019101000 +0900" stop="20261019104000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">韓国ドラマ「スジと出逢ったウリ 〜医師たちの恋愛事情!?〜」#37</title>
     <desc lang="ja">第37話「届かぬ思い」　【日本語字幕版】
 ＜出演＞ウンジョン（T-ARA）　ペク・ソンヒョン　カン・ビョル　シン・ジョンユン　ほか　（全128話）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659346/image/41581b3b632f50b0f6206e9c48baa1be.jpg" />
   </programme>
   <programme start="20261019104000 +0900" stop="20261019111000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">韓国ドラマ「スジと出逢ったウリ 〜医師たちの恋愛事情!?〜」#38</title>
     <desc lang="ja">第38話「新たな計画」　【日本語字幕版】　＜出演＞ウンジョン（T-ARA）　ペク・ソンヒョン　カン・ビョル　シン・ジョンユン　ほか　（全128話）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659347/image/79944738a47282e4ec04ff934badbb1f.jpg" />
   </programme>
   <programme start="20261019111000 +0900" stop="20261019114000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">韓国ドラマ「スジと出逢ったウリ 〜医師たちの恋愛事情!?〜」#39</title>
     <desc lang="ja">第39話「きびだんご」　【日本語字幕版】　＜出演＞ウンジョン（T-ARA）　ペク・ソンヒョン　カン・ビョル　シン・ジョンユン　ほか　（全128話）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659348/image/065904ecdc5bfece677d75c8b6786ee8.jpg" />
   </programme>
   <programme start="20261019114000 +0900" stop="20261019121000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">おトクな時間</title>
     <desc lang="ja">生活を彩るおトクな情報をお届けします！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659349/image/36211dfda8a871265cf60650229ac306.jpg" />
   </programme>
   <programme start="20261019121000 +0900" stop="20261019123500 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">サザエさん　#25「ワカメのアイカギ」「おばあさんの魔法のつえ」 ほか</title>
     <desc lang="ja">第2374話「ワカメのアイカギ」「おばあさんの魔法のつえ」「姉さん、ナイスシュート」　（地上波放送日　2016年9月18日）
 ＜原作＞長谷川町子</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659350/image/dca5781baa0a6ceb4cf1d7d1ebced68e.jpg" />
   </programme>
   <programme start="20261019123500 +0900" stop="20261019130000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">サザエさん　#26「母さんは探さない」「息子の説教」「今夜のメニューは？」</title>
     <desc lang="ja">第2375話「母さんは探さない」「息子の説教」「今夜のメニューは？」
 （地上波放送日　2016年9月25日）
 ＜原作＞長谷川町子</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18659351/image/ca7ea3ed3cb6cb6a0f2b032a1fbd3e94.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019145000 +0900" channel="フジテレビTWO_jp">
     <title lang="ja">リーガルハイ・スペシャル　　堺雅人＆新垣結衣 大森南朋ら豪華ゲストにも注目！</title>
@@ -27317,12 +27157,12 @@ https://otn.fujitv.co.jp</desc>
     <desc lang="ja">月10ドラマ『南田南弁護士は天才肌』出演の高橋文哉&amp;久保史緒里が撮影裏話▼調理師免許所有の高橋が簡単おすすめレシピを伝授▼リアクションダウト演技力対決</desc>
   </programme>
   <programme start="20261019135000 +0900" stop="20261019154200 +0900" channel="フジテレビ_jp">
-    <title lang="ja">とれたてっ![字][デ]</title>
-    <desc lang="ja">全国各地の「いま起きていること」を伝えるニュース・情報番組。MC青木源太と歯に衣着せないパネラーたちがズバッと切り込みます!</desc>
+    <title lang="ja">とれたてっ!　台風30号最新▼季節外れの桜が開花?▼高速道路を守る隊員に密着[字][デ]</title>
+    <desc lang="ja">台風30号最新進路▼季節外れの桜が開花?▼なぜ?シカが各地で大量発生▼高速道路を守る隊員に密着▼芦田愛菜を直撃</desc>
   </programme>
   <programme start="20261019154200 +0900" stop="20261019190000 +0900" channel="フジテレビ_jp">
-    <title lang="ja">イット!【榎並大二郎、山崎夕貴、遠藤玲子が「夕方」を安心して過ごすお手伝い】[字]</title>
-    <desc lang="ja">台風30号の最新進路は太平洋側は高波に警戒東北〜北陸午後大雨も▽大渋滞に違法駐車も紅葉見頃に人・人・人▽卵最高値に肉も高騰すき焼きダブルパンチ</desc>
+    <title lang="ja">イット!【台風30号最新進路は?太平洋側は高波警戒…東北〜北陸午後大雨も】[字]</title>
+    <desc lang="ja">▽大渋滞に違法駐車も紅葉見頃に人・人・人▽卵最高値に肉も高騰すき焼きダブルパンチ▽シカ飛び出し死者…淡路島に巨大イノシシ▽中国の超狭小住宅</desc>
   </programme>
   <programme start="20261019190000 +0900" stop="20261019210000 +0900" channel="フジテレビ_jp">
     <title lang="ja">真剣遊戯!THEバトルSHOW★SnowMan渡辺&amp;向井軍vs出川軍2時間SP[字]</title>
@@ -27352,7 +27192,7 @@ https://otn.fujitv.co.jp</desc>
     <desc lang="ja">絶対にあきらめない!茨城県水戸の高校生200名と現役Jリーガーが絆をつなぐ青春ドキュメント完結編!トラジャも挑戦!一度もボールを落とさずゴールを目指せ</desc>
   </programme>
   <programme start="20261019234500 +0900" stop="20261020003000 +0900" channel="フジテレビ_jp">
-    <title lang="ja">FNN　Live　News　α[字]</title>
+    <title lang="ja">FNN　Live　News　α【人気集める超狭小住宅▼注目!バスケBリーグ】[字]</title>
     <desc lang="ja">中国で続く不動産不況人気集める超狭小住宅▽注目バスケBリーグアジア初の施策とは?</desc>
   </programme>
   <programme start="20261020003000 +0900" stop="20261020010000 +0900" channel="フジテレビ_jp">
@@ -27428,6 +27268,7 @@ https://otn.fujitv.co.jp</desc>
   <programme start="20261020220000 +0900" stop="20261020225400 +0900" channel="フジテレビ_jp">
     <title lang="ja">華大さんと千鳥くん　Aぇ!group末澤誠也&amp;千原ジュニアがスパイ初参戦![字][デ]</title>
     <desc lang="ja">Aぇ!group末澤誠也&amp;千原ジュニアがスパイ初参戦▼新・川柳伝達ゲームでは末澤のアイドルらしからぬ衝撃回答にスタジオ騒然▼運動音痴すぎるジュニアにスパイ疑惑!</desc>
+    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/476317/image/d3e6421a778e63ea5bb492ba3e8c703d.jpg" />
   </programme>
   <programme start="20261020225400 +0900" stop="20261020230000 +0900" channel="フジテレビ_jp">
     <title lang="ja">陽だまりのとき[字][解]</title>
@@ -27447,7 +27288,7 @@ https://otn.fujitv.co.jp</desc>
   </programme>
   <programme start="20261021004500 +0900" stop="20261021011500 +0900" channel="フジテレビ_jp">
     <title lang="ja">F1サイドbyサイド[再][字]</title>
-    <desc lang="ja"> </desc>
+    <desc lang="ja">世界8億人以上が熱狂するF1。その最新ニュースからパドック裏のゴシップまで、海外F1シーンに精通するナビゲーター・サッシャとハリー杉山がお届けします!</desc>
   </programme>
   <programme start="20261021011500 +0900" stop="20261021014500 +0900" channel="フジテレビ_jp">
     <title lang="ja">あなたを殺す旅【三代目の訃報】　#04[再]</title>
@@ -27553,21 +27394,18 @@ https://otn.fujitv.co.jp</desc>
 まさかの立場逆転！？
 元・嫁姑が繰り広げる波乱万丈ホームコメディ！
 2015年　36分　全136話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633040/image/adaeac72d31ab292fe748d63426de159.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019110000 +0900" channel="ホームドラマチャンネル_jp">
     <title lang="ja">金田一耕助シリーズ７「不死蝶」　▼古谷一行、有森也実、佐倉しおり</title>
     <desc lang="ja">≪横溝正史没後４５年 金田一耕助シリーズ一挙放送≫
 23年前、投身自殺をした女は生きていた！？ 真相を探るべく金田一の鋭い推理が冴える！
 1988年　97分</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633041/image/7fbc46059a9395b9ce692019905a33a3.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019122200 +0900" channel="ホームドラマチャンネル_jp">
     <title lang="ja">韓◆私の期限は49日＃９[字]【ノーカット】　▼ナム・ギュリ、チョン・イル</title>
     <desc lang="ja">生き返るための期限は49日間―。
 心から愛する3人の涙を集めるため、切なくも美しい49日間の旅が始まる。
 2011年　65分　全20話</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633042/image/4c305375fde688fc0642690d9ae0a9b5.jpg" />
   </programme>
   <programme start="20261019122200 +0900" stop="20261019140000 +0900" channel="ホームドラマチャンネル_jp">
     <title lang="ja">韓◆私の期限は49日＃１０[字]【ノーカット】　▼ナム・ギュリ、チョン・イル</title>
@@ -27894,7 +27732,6 @@ https://otn.fujitv.co.jp</desc>
     <title lang="ja">新・赤かぶ検事奮戦記 #5〜6</title>
     <desc lang="ja">【朝からサスペンス】
 正義感が強く、人情に厚い叩き上げの検事、柊茂の鋭い勘が光る！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633294/image/562503677cb9f23aa92df0bec508d7c1.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019160000 +0900" channel="ミステリーチャンネル_jp">
     <title lang="ja">アストリッドとラファエル　文書係の事件録（シーズン3) #3〜6 [字]</title>
@@ -28105,12 +27942,10 @@ https://otn.fujitv.co.jp</desc>
   <programme start="20261019093000 +0900" stop="20261019094600 +0900" channel="ミュージック・エア_jp">
     <title lang="ja">テディ・ウィルソン：ライヴ・イン・スイス1969</title>
     <desc lang="ja">スイング・ジャズを代表するピアニスト、テディ・ウィルソンが1969年にスイスで行ったライヴ。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18636458/image/3b90f0cd719569fd0074d929f320ec16.jpg" />
   </programme>
   <programme start="20261019094600 +0900" stop="20261019110000 +0900" channel="ミュージック・エア_jp">
     <title lang="ja">ベニー・グッドマン＆ライオネル・ハンプトン・トリビュート・コンサート1992</title>
     <desc lang="ja">スウィングの王様として名高いクラリネット奏者ベニー・グッドマンとジャズ・ヴィブラフォンの第一人者ライオネル・ハンプトンのトリビュート・ライヴ。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18636459/image/1a1f7465498ef4697a8890ed638c2821.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="ミュージック・エア_jp">
     <title lang="ja">情報番組</title>
@@ -28119,7 +27954,6 @@ https://otn.fujitv.co.jp</desc>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="ミュージック・エア_jp">
     <title lang="ja">ダフト・パンク：ポップ・プロフィール</title>
     <desc lang="ja">2013年にアルバムで全米1・全英1位を獲得し、2021年に解散したグラミー6冠を誇るフランスの電子音楽デュオ、ダフト・パンクの軌跡に迫るドキュメンタリー。（2014年制作）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18636461/image/c4d404b2090f4812f62de02f7e5c9179.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="ミュージック・エア_jp">
     <title lang="ja">シネマタイムプラス#150『mentor』、ミュージカル『十二国記 ‐月の影 影の海‐』</title>
@@ -28379,22 +28213,18 @@ https://otn.fujitv.co.jp</desc>
   <programme start="20261019071500 +0900" stop="20261019090000 +0900" channel="ムービープラス_jp">
     <title lang="ja">ガンマンの対決</title>
     <desc lang="ja">グレン・フォード主演の西部劇。実際の出来事を元に、さらわれた妻子を取り戻そうとする男と、彼に付きまとう恋のライバルの対決を描く。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634075/image/f0b89e706dd1739fc16f1d67b6e0450c.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019091500 +0900" channel="ムービープラス_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja"> </desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634076/image/c715b829d1b5f7379038684642b7fcbd.jpg" />
   </programme>
   <programme start="20261019091500 +0900" stop="20261019104500 +0900" channel="ムービープラス_jp">
     <title lang="ja">宇宙戦争　ザ・ラスト・デイ</title>
     <desc lang="ja">３つの災厄をもたらす伝説の最終兵器。はたして人類は滅亡を防げるのか？人類ｖｓ異星人の総力決戦を描いたＳＦバトル・アクション。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634077/image/5a756802207e6d2b695aa5675bd436c9.jpg" />
   </programme>
   <programme start="20261019104500 +0900" stop="20261019111500 +0900" channel="ムービープラス_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja"> </desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634078/image/64d83c3a6fa13329dd00a4d0b7c04901.jpg" />
   </programme>
   <programme start="20261019111500 +0900" stop="20261019133000 +0900" channel="ムービープラス_jp">
     <title lang="ja">ハムナプトラ　失われた砂漠の都【日本語吹替版】</title>
@@ -28555,12 +28385,10 @@ https://otn.fujitv.co.jp</desc>
   <programme start="20261019091500 +0900" stop="20261019095500 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">【韓】愛よ、お願い 一挙放送 #69</title>
     <desc lang="ja">信じていた夫と友人の裏切り。愛、欲望、癒やし…懸命に生きるヒロインが魅せる王道愛憎劇！！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18658106/image/ed2d3c2cc3b5f794b48be8ef5e834f41.jpg" />
   </programme>
   <programme start="20261019095500 +0900" stop="20261019103500 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">【韓】愛よ、お願い 一挙放送 #70</title>
     <desc lang="ja">信じていた夫と友人の裏切り。愛、欲望、癒やし…懸命に生きるヒロインが魅せる王道愛憎劇！！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18658107/image/3ac8f411b42eaa83831bf8c13280f7e2.jpg" />
   </programme>
   <programme start="20261019103500 +0900" stop="20261019110500 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">インフォメーション</title>
@@ -28569,12 +28397,10 @@ https://otn.fujitv.co.jp</desc>
   <programme start="20261019110500 +0900" stop="20261019113000 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">コリスタ☆ユン・ゲサン＜６＞ 前後編</title>
     <desc lang="ja">韓国で行われる、記者会見・舞台挨拶・ファンミーティングなどの映像を余すことなくお見せする「コリスタ☆」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18658109/image/61c9a235175f6fb8bcb83426f904301e.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019121000 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">【中】偽りのプリンセスは救世主〜傀儡皇帝を守る運命の王妃〜 #19</title>
     <desc lang="ja">最高に笑って泣けるラブコメ時代劇の決定版！身代わりで皇帝に嫁いだ医者のヒロインと「傀儡の皇帝」と言われた孤独な皇帝。皇位争いに立ち向かう二人の物語。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18658110/image/5ff34abcb33e0b1628e2f1a8b5ab2fac.jpg" />
   </programme>
   <programme start="20261019121000 +0900" stop="20261019124000 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">インフォメーション</title>
@@ -28583,7 +28409,6 @@ https://otn.fujitv.co.jp</desc>
   <programme start="20261019124000 +0900" stop="20261019130000 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">コリスタ☆イ・ジョンジェ＜３＞ 前編</title>
     <desc lang="ja">韓国で行われる、記者会見・舞台挨拶・ファンミーティングなどの映像を余すことなくお見せする「コリスタ☆」</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18658112/image/485a8ba30d1e772a66d68edda3fecaf5.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019134000 +0900" channel="メ～テレNEXT_jp">
     <title lang="ja">【韓】九尾狐伝〜不滅の愛〜 #41</title>
@@ -28908,7 +28733,6 @@ https://otn.fujitv.co.jp</desc>
     <desc lang="ja">準決勝　藤沢里菜五段 vs 上野愛咲美四段、謝　依旻七段 vs 盧ユ樺四段（中華台北）
 解　説：鶴山淳志八段
 聞き手：金子二段</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18674758/image/693f97f5949a474383c4148ef60cc475.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019120000 +0900" channel="囲碁・将棋チャンネル_jp">
     <title lang="ja">囲碁）第28期 ドコモ杯女流棋聖戦</title>
@@ -28916,19 +28740,16 @@ https://otn.fujitv.co.jp</desc>
 上野愛咲美女流立葵杯 vs 向井千瑛六段
 解　説：張　栩九段
 聞き手：下坂美織三段</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18674759/image/2d223c6d1dd3fdda2972e8357fbccbf8.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019123000 +0900" channel="囲碁・将棋チャンネル_jp">
     <title lang="ja">生活お役立ち情報</title>
     <desc lang="ja">この時間は生活に役立つお得なテレビショッピングをお届けします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18674760/image/fbb29c986711486b1437290f1cc73171.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019130000 +0900" channel="囲碁・将棋チャンネル_jp">
     <title lang="ja">将棋）戸辺　誠の将棋講座 第7〜9回</title>
     <desc lang="ja">「フリフリ振り飛車」
 ・角交換四間飛車 対 バランス型(1) ほか
 講　師：戸辺　誠七段</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18674761/image/e9f9b9b0bf5c4dd3bba0d72c7b3835a4.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019143800 +0900" channel="囲碁・将棋チャンネル_jp">
     <title lang="ja">将棋）[解説者・佐藤康光特集]第27期 銀河戦</title>
@@ -29325,47 +29146,38 @@ https://otn.fujitv.co.jp</desc>
   <programme start="20261019083000 +0900" stop="20261019090000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">旅してHappy #26</title>
     <desc lang="ja">世界を旅して”ハッピー”を見つけよう！世界の人々と触れあいながらグルメ、自然、文化、ホテルなどを紹介します！第26話 オーストラリア ゴールドコースト＜2＞</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633064/image/a3afaac65f325c8c1b452d1fcf093cd3.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">通販番組をお届けする30分</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633065/image/4948e73149df979d1971c31cf1f1667e.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">離島酒場 #39</title>
     <desc lang="ja">離島の酒場で飲み歩く番組。島の酒肴を求めて松尾貴史が離島を巡ります。第３９話「屋久島」２０２２年制作</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633066/image/2260b9155f7125b4747142d05f6f8fd8.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019103000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">帯広へ行こう〜冬の大自然編〜</title>
     <desc lang="ja">タレント小林麗奈が大好きな、とかち・帯広エリアを一人旅！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633067/image/e44403d57ccf55a120ad3209fa9da232.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019110000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">まるごと！北海道 #37</title>
     <desc lang="ja">北海道の自然、食、温泉、人々等の訪れてみたくなるポイントをご紹介する番組。イラストレーター＆ライターの手塚越子さんがご案内。第３７話「札幌」２０１９年制作</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633068/image/360d548683a4cd2854a2816cb3e371ee.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">通販番組をお届けする30分</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633069/image/b33b747d669901a41342d39721ad5dc0.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">ハワイに恋して！  #25</title>
     <desc lang="ja">リアルなハワイをナビゲート！アナタもきっとハワイに恋するハズ！！第25話 ロコも仰天！美食家ショーンpresentsツギクル ハワイグルメ特集</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633070/image/34bf60132f20257aa5c53af77ee7a8ea.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019123000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">林家正蔵の今日も四時から飲み #40</title>
     <desc lang="ja">落語家、林家正蔵。高座を終え向かうのは、ひとり飲み。時間はまだ日も高い午後四時。この番組では「四時から飲み」おすすめのお店をご紹介します。２０１９年制作</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633071/image/983d5b90717592ebea9d89947ed06483.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019130000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">通販番組をお届けする30分</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633072/image/6e68dc531d9743405f0eb461700b2668.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019133000 +0900" channel="旅チャンネル_jp">
     <title lang="ja">離島酒場 #23</title>
@@ -29726,7 +29538,6 @@ Episode 10 七面鳥料理</desc>
   <programme start="20261019040000 +0900" stop="20261019120000 +0900" channel="日テレNEWS24_jp">
     <title lang="ja">日テレNEWS24</title>
     <desc lang="ja">24時間発信するニュース＆スポーツチャンネル「日テレNEWS24」▽放送中でもブレーキング(速報)で情報をアップデート</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261018/18632916/image/c2229f70aae04d6fec5b3c8bf6dac870.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019200000 +0900" channel="日テレNEWS24_jp">
     <title lang="ja">日テレNEWS24</title>
@@ -29800,7 +29611,6 @@ Episode 10 七面鳥料理</desc>
 栄光と葛藤の系譜…
 巨人軍 伝統の背番号トーク！
 現役とOBの受け継がれる物語</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633477/image/1f3ad69a30639594eb8eb80f72752e41.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019091500 +0900" channel="日テレジータス_jp">
     <title lang="ja">巨人のみかた 2</title>
@@ -30034,25 +29844,21 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
     <title lang="ja">ダメマネ！ ―ダメなタレント、マネジメントします― #5</title>
     <desc lang="ja">出演：川栄李奈、安田顕、山田涼介 ほか
 地上波放送日：2025年4月20日〜6月22日</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633736/image/298eb4c7d958a400b20aea3fa7142ac4.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="日テレプラス_jp">
     <title lang="ja">セーラー服反逆同盟 #19</title>
     <desc lang="ja">出演：中山美穂、仙道敦子
 地上波放送日：1986年10月13日〜1987年3月23日</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633737/image/5aeb794ef66958d512e5dca1a650913c.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019100000 +0900" channel="日テレプラス_jp">
     <title lang="ja">セーラー服反逆同盟 #20</title>
     <desc lang="ja">出演：中山美穂、仙道敦子
 地上波放送日：1986年10月13日〜1987年3月23日</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633738/image/d811b0b7f987eeef3f02afbce178de7a.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="日テレプラス_jp">
     <title lang="ja">【日テレ青春ドラマアワー】俺たちの旅 #10</title>
     <desc lang="ja">出演：中村雅俊、秋野太作、田中健　ほか
 地上波放送日：1975年10月5日〜1976年10月10日</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633739/image/40ae8c920d5a4c5af5f1e5683e1bbfac.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="日テレプラス_jp">
     <title lang="ja">プラス!ショッピング</title>
@@ -30062,7 +29868,6 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
     <title lang="ja">ESCAPE それは誘拐のはずだった #5</title>
     <desc lang="ja">出演：桜田ひより、佐野勇斗、ファーストサマーウイカ／志田未来／松尾諭、山口馬木也、富田靖子、北村一輝　ほか
 地上波放送日：2025年10月8日〜12月10日</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633741/image/1e5730ca4a27d0d7774d226a5938a428.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019135000 +0900" channel="日テレプラス_jp">
     <title lang="ja">【字】韓国バラエティ「みんなのキッチン」 #5</title>
@@ -30436,12 +30241,12 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
     <desc lang="ja">ピンポンなったら降りる旅！紅葉間近の箱根を舞台に路線バスで新名物探し!▼CMでおなじみ西村社長の総工費30億円豪邸にコットンが潜入！どんなお宝が??</desc>
   </programme>
   <programme start="20261019135500 +0900" stop="20261019155000 +0900" channel="日本テレビ_jp">
-    <title lang="ja">ニュースto[字]</title>
-    <desc lang="ja">【メインMC黒木千晶・金曜MC村上信五】ミヤネ屋の後枠▽昼の報道情報番組!!ニュースをもっと身近に。ニュースと“あなた”の暮らしをつなぐ。様々な世代とホンネ議論。</desc>
+    <title lang="ja">ニュースto【密着!年金生活者の厳しい現実▽“サル被害”全国各地で相次ぐ】[字]</title>
+    <desc lang="ja">【メインMC黒木千晶・金曜MC村上信五】ミヤネ屋の後枠▽密着！年金生活者の厳しい現実「パートナーとの別れ」「“盲目”漫画家」も…▽“サル被害”全国各地で相次ぐ</desc>
   </programme>
   <programme start="20261019155000 +0900" stop="20261019190000 +0900" channel="日本テレビ_jp">
-    <title lang="ja">every.[字] フランス大規模デモで暴動も▽中国でハンバーグ人気のワケ</title>
-    <desc lang="ja">▽愛子さま鳥取初訪問▽箱根予選会のウラ側▽火付け役は日本企業中国でハンバーグ人気▽いま日記売れるワケ</desc>
+    <title lang="ja">every.[字] 熱中症も…１０月季節外れの暑さ▽フランス大規模デモ影響は</title>
+    <desc lang="ja">フランスでデモ隊一部暴徒化破壊行動も…市庁舎火の海に▽中国でハンバーグ人気火付け役は日本企業？▽愛子さま鳥取初訪問▽日記でストレス発散</desc>
   </programme>
   <programme start="20261019190000 +0900" stop="20261019200000 +0900" channel="日本テレビ_jp">
     <title lang="ja">有吉ゼミ▼グルメすぎる玉ノ井部屋と田子ノ浦部屋の超豪華！爆食決起集会に密着SP[字]</title>
@@ -30644,17 +30449,14 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
   <programme start="20261019084000 +0900" stop="20261019103000 +0900" channel="日本映画専門チャンネル_jp">
     <title lang="ja">難波金融伝　ミナミの帝王-特別編-　密約</title>
     <desc lang="ja">竹内力／柳沢慎吾／竹井みどり　おなじみシリーズの特別編。非合理かつ膨大な金銭が飛び交う腐敗した選挙の裏側へと深く踏み込んでいく。（1996年・本編94分）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634124/image/30a70bdebde4272fb5c8143d50a687f9.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019110000 +0900" channel="日本映画専門チャンネル_jp">
     <title lang="ja">生活情報の時間</title>
     <desc lang="ja">この時間は、ショッピング情報をお送りしております。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634125/image/c64a356b40bb80543999d4c6502e47f8.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019130000 +0900" channel="日本映画専門チャンネル_jp">
     <title lang="ja">警部補・古畑任三郎（第１シリーズ）＜デジタルリマスター版＞ #1-#2</title>
     <desc lang="ja">出演：田村正和／西村まさ彦／中森明菜／堺正章　※放送時間の詳細は日本映画専門チャンネルＨＰへ　「日本映画」で検索！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18634126/image/c4223372ed8d36c9953f6650b0c5bb0b.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019150000 +0900" channel="日本映画専門チャンネル_jp">
     <title lang="ja">法医学教室の事件ファイル　疑惑の美人ナース【おとなのサスペンス劇場】</title>
@@ -30823,17 +30625,14 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
   <programme start="20261019075500 +0900" stop="20261019100000 +0900" channel="映画・チャンネルNECO_jp">
     <title lang="ja">種まく旅人〜華蓮のかがやき〜【栗山千明出演】</title>
     <desc lang="ja">日本の食を支える人々にスポットを当てたヒューマン・ドラマ「種まく旅人」シリーズの第4弾。出演：栗山千明　平岡祐太　大久保麻梨子　木村祐一(20年・111分）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633273/image/535ac673189c54d4f44e540d8399e9e5.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019120000 +0900" channel="映画・チャンネルNECO_jp">
     <title lang="ja">密会の宿２　女と指輪の殺人【岡江久美子主演　２時間サスペンス】</title>
     <desc lang="ja">岡江久美子扮する美人女将が難事件を解決するサスペンス・ドラマ。共演：西岡徳馬　東幹久　国生さゆり(04年・120分)</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633274/image/20aa78dd53a8d92940307d2cb481ab5c.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019123000 +0900" channel="映画・チャンネルNECO_jp">
     <title lang="ja">インフォメーション</title>
     <desc lang="ja">各種インフォメーションをお届け</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633275/image/e51a43a46f03604a9144517a5ce5ca3b.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019143000 +0900" channel="映画・チャンネルNECO_jp">
     <title lang="ja">捜査検事 近松茂道10　桐生織伝説殺人事件【２時間サスペンス】</title>
@@ -31040,12 +30839,10 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
   <programme start="20261019080000 +0900" stop="20261019090000 +0900" channel="時代劇専門チャンネル_jp">
     <title lang="ja">新選組血風録 #14</title>
     <desc lang="ja">「狂った盃」出演：栗塚旭／舟橋元／島田順司　ゲスト：宇梶由利子　原作：司馬遼太郎　新選組の栄光と没落を描く。（1965〜66年・全26話）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633396/image/b801764e6bf46bcb502a485b411fa123.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="時代劇専門チャンネル_jp">
     <title lang="ja">新・座頭市I #20</title>
     <desc lang="ja">「いのち駒」出演：勝新太郎　ゲスト：石橋蓮司　監督：南野梅雄　原作：子母沢寛　『座頭市』のテレビシリーズ第2弾。（1976年・全29話）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633397/image/57ceb6fdb120d1d9c633b792aff0048e.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="時代劇専門チャンネル_jp">
     <title lang="ja">暴れん坊将軍III #86　◆松平健／沢竜二</title>
@@ -31053,23 +30850,19 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
 -1988年・ＴＶシリーズ・全123話-
 出演：松平健／北島三郎／横内正　他
 ゲスト：沢竜二</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633398/image/28453aa52caf4e22d9c07ab64207ac37.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019120000 +0900" channel="時代劇専門チャンネル_jp">
     <title lang="ja">剣客商売'73　#18</title>
     <desc lang="ja">「ある剣客の死」　出演：加藤剛／山形勲／音無美紀子　ゲスト：今井健二　原作：池波正太郎　『剣客商売』初のテレビシリーズ。(1973年・全22話）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633399/image/4e3900f20558ab60400234799f8da66c.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019130000 +0900" channel="時代劇専門チャンネル_jp">
     <title lang="ja">荒木又右衛門　伊賀の決闘(主演：里見浩太朗)【お昼のスペシャルアワー】</title>
     <desc lang="ja">出演：里見浩太朗／三浦浩一／夏八木勲　脚本：田村恵　有名な「鍵屋の辻の決闘」を1時間に凝縮。短編だが密度の高い構成。（1997年）</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633400/image/5f0696ee6e368a43469d02c96ac27981.jpg" />
   </programme>
   <programme start="20261019130000 +0900" stop="20261019131500 +0900" channel="時代劇専門チャンネル_jp">
     <title lang="ja">生活情報の時間</title>
     <desc lang="ja">-2026年・オリジナル番組-
 この時間は、ショッピング情報をお送りします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633401/image/8b05f630349fd392e0bdc2cfab4d3463.jpg" />
   </programme>
   <programme start="20261019131500 +0900" stop="20261019133000 +0900" channel="時代劇専門チャンネル_jp">
     <title lang="ja">日本映画専門チャンネル「東映ヤクザ映画 疵の美学」の作品紹介</title>
@@ -31643,29 +31436,24 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
   <programme start="20261019070000 +0900" stop="20261019090000 +0900" channel="歌謡ポップスチャンネル_jp">
     <title lang="ja">定番！演歌名曲選◆歌謡決定版＃8　天童よしみ、坂本冬美、福田こうへい他</title>
     <desc lang="ja">定番の演歌を集めました。口ずさみたくなる名曲の数々をミュージックビデオでお届けします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18636858/image/61e9c1119bee49599b0c90ae1072d22c.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019093000 +0900" channel="歌謡ポップスチャンネル_jp">
     <title lang="ja">くらしの情報</title>
     <desc lang="ja">この時間は、ショッピング情報をお送りしております。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18636859/image/27bab198794998cb6c876a9223c01034.jpg" />
   </programme>
   <programme start="20261019093000 +0900" stop="20261019103000 +0900" channel="歌謡ポップスチャンネル_jp">
     <title lang="ja">西城秀樹、にしきのあきら他「NHK歌謡コンサート＃155」</title>
     <desc lang="ja">今回のテーマは「恋のバカンス」「空に太陽があるかぎり」「あずさ２号」などの名曲を豪華出演者が披露します。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18636860/image/065b7a0c07224f0fc1b8fa8b51f6cb7c.jpg" />
   </programme>
   <programme start="20261019103000 +0900" stop="20261019113000 +0900" channel="歌謡ポップスチャンネル_jp">
     <title lang="ja">リクエスト特集◇歌謡決定版＃106　真田ナオキ、丘みどり、原田波人</title>
     <desc lang="ja">リクエストを元にお届けする、演歌・歌謡曲のミュージックビデオ特集。
 
 リクエストは、歌謡ポップスチャンネルホームページ「ご意見／リクエスト」からご応募頂けます。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18636861/image/e9948218cb8543344ddb9779a8468aa1.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019120000 +0900" channel="歌謡ポップスチャンネル_jp">
     <title lang="ja">くらしの情報</title>
     <desc lang="ja">この時間は、ショッピング情報をお送りしております。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18636862/image/5aea77050265ded4f78f22e9385b3099.jpg" />
   </programme>
   <programme start="20261019120000 +0900" stop="20261019133000 +0900" channel="歌謡ポップスチャンネル_jp">
     <title lang="ja">吉幾三、丘みどり、香西かおり ほか ドラマティック演歌「未練」編◆歌謡決定版</title>
@@ -31905,12 +31693,12 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
     <desc lang="ja">最新のニュース、天気情報をお届けします。</desc>
   </programme>
   <programme start="20261019115500 +0900" stop="20261019135500 +0900" channel="毎日テレビ_jp">
-    <title lang="ja">ひるおび[字]【台風30号 最新進路▽消費減税法案どうなる▽仏全土で大規模デモなぜ】</title>
-    <desc lang="ja">▽台風30号最新進路 列島への影響は?▽各地でクマ出没▽簗大臣辞任の影響は?消費税減税法案どうなる…プレミアム商品券も!?▽フランス全土で55万人規模デモ なぜ</desc>
+    <title lang="ja">ひるおび[字]【台風３０号 最新進路▽消費減税法案どうなる▽仏全土で大規模デモなぜ】</title>
+    <desc lang="ja">▽台風３０号最新進路 列島への影響は？▽各地でクマ出没▽簗大臣辞任の影響は？消費税減税法案どうなる…プレミアム商品券も！？▽フランス全土で５５万人規模デモ なぜ</desc>
   </programme>
   <programme start="20261019135500 +0900" stop="20261019154000 +0900" channel="毎日テレビ_jp">
-    <title lang="ja">ゴゴスマ</title>
-    <desc lang="ja">様々な事が起こる平日の午後、あらゆるジャンルの関心事を「生」にこだわって、ＭＣ石井亮次がわかりやすく、「見て、わかった 見て、よかった」となるようにお届け!</desc>
+    <title lang="ja">ゴゴスマ【台風３０号 列島への影響は▼なぜ？荷下ろし中 車にはねられ両足切断】</title>
+    <desc lang="ja">台風３０号 「猛烈な」勢力に成長へ▼“１．４億件超え”情報漏洩はなぜ止まらない？▼残り２週！リアルタイムで見て当てよう!5万円分QUOカード (他)</desc>
   </programme>
   <programme start="20261019154000 +0900" stop="20261019175000 +0900" channel="毎日テレビ_jp">
     <title lang="ja">よんチャンTV[字]台風30号進路解説▼新大臣いきなり難題▼京都〜伊勢ランニングマン</title>
@@ -31957,16 +31745,16 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
     <desc lang="ja">琵琶湖の南西部・湖西エリアでいま南国化計画が進んでいる！ハワイのライフスタイルを琵琶湖に取り入れて人口増加を促すためカフェオーナーが仕掛ける新しい挑戦とは?</desc>
   </programme>
   <programme start="20261020013400 +0900" stop="20261020020400 +0900" channel="毎日テレビ_jp">
-    <title lang="ja">よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜[字]</title>
-    <desc lang="ja">バラエティー番組などでも活躍する座員を育成すべく、吉本新喜劇の若手座員が様々な企画に挑戦！ＭＣ・小籔千豊が、とにかくダメ出ししまくる“説教バラエティー番組”です</desc>
+    <title lang="ja">よしもと新喜劇NEXT〜小籔千豊には怒られたくない★大声バトル完結![字]</title>
+    <desc lang="ja">大声バトル完結！最後まで予測不能な展開!?</desc>
   </programme>
   <programme start="20261020020400 +0900" stop="20261020021900 +0900" channel="毎日テレビ_jp">
     <title lang="ja">ガンバＴＶ〜青と黒〜【快勝!ACL◆今季への思い福岡将太】</title>
     <desc lang="ja">▽ガンバ大阪をまるごと応援！▽選手インタビューなどファンのためのガンバ情報をたっぷりお届けします!【MC】小嶋花梨 ドーナツ・ピーナツ</desc>
   </programme>
   <programme start="20261020021900 +0900" stop="20261020025000 +0900" channel="毎日テレビ_jp">
-    <title lang="ja">ミキBASE〜いいね!で応援〜</title>
-    <desc lang="ja">▽1億総SNS時代は「いいね」１つで人生が変わる時代！☆まだ注目されていない未来のスター候補生たちに「いいね」を押し、スポットライトを当て、応援する番組なのです</desc>
+    <title lang="ja">ミキBASE〜いいね!で応援〜【『飲み会大好き芸人』が秘密を暴露！？】</title>
+    <desc lang="ja">ミキも絶対来たくなる！最高の飲み会を考えよう！★登場するのは、大西進、はじり、まもる。、ドーナツ、こんちゃん!!飲み会大好き芸人たちが、お酒の席での秘密を大暴露!?</desc>
   </programme>
   <programme start="20261020025000 +0900" stop="20261020032000 +0900" channel="毎日テレビ_jp">
     <title lang="ja">年下童貞くんに翻弄されてます 第3話[再][字]【森香澄×柏木悠(超特急)W主演】</title>
@@ -32081,7 +31869,7 @@ G党に贈る巨人名場面、名勝負をお届け</desc>
     <desc lang="ja">▽あらゆる推しコンテンツから毎回１つテーマを選び“推し活“で人生が変わった人物が、“推し愛”を存分に語っていきます!</desc>
   </programme>
   <programme start="20261021020400 +0900" stop="20261021023500 +0900" channel="毎日テレビ_jp">
-    <title lang="ja">アキナのギャルしか勝たん〜ギャルの力で世界を変えよう〜</title>
+    <title lang="ja">アキナのギャルしか勝たん〜ギャルの力で世界を変えよう★ついに感動のフィナーレへ!</title>
     <desc lang="ja">元気がない世界を動かすのは底知れぬパワーのギャル！ギャルの斬新な発想であらゆる物事をポジティブに変換する!</desc>
   </programme>
   <programme start="20261021023500 +0900" stop="20261021030500 +0900" channel="毎日テレビ_jp">
@@ -32467,24 +32255,24 @@ NHK総合で放送されたお昼のバラエティー番組「ひるのプレ�
     <desc lang="ja">ブロッコリーは先にやわらかく蒸して甘みを出し、炒めた豚肉と合わせます。炒り卵、チーズなどの味が引き立つシンプルな塩味がおいしい。</desc>
   </programme>
   <programme start="20261019115500 +0900" stop="20261019135500 +0900" channel="読売テレビ_jp">
-    <title lang="ja">ヒルナンデス![デ]</title>
-    <desc lang="ja">日本のお昼はヒルナンデス！「ニッポンの今が見える」旬な情報・出来事を芸能人が体感！「今日より明日がもっと楽しくなる」最新情報を「笑いと感動」と共にお届けします。</desc>
+    <title lang="ja">ヒルナンデス!小峠&amp;TAKAHIROが箱根で路線バス▽超VIPの家宝を調査![デ]</title>
+    <desc lang="ja">ピンポンなったら降りる旅！紅葉間近の箱根を舞台に路線バスで新名物探し!▽CMでおなじみ西村社長の総工費30億円豪邸にコットンが潜入！どんなお宝が??</desc>
   </programme>
   <programme start="20261019135500 +0900" stop="20261019155000 +0900" channel="読売テレビ_jp">
-    <title lang="ja">ニュースto[字]</title>
-    <desc lang="ja">【メインMC黒木千晶・金曜MC村上信五】ミヤネ屋の後枠▽昼の報道情報番組!!ニュースをもっと身近に。ニュースと“あなた”の暮らしをつなぐ。様々な世代とホンネ議論。</desc>
+    <title lang="ja">ニュースto【密着!年金生活者の厳しい現実▽“サル被害”全国各地で相次ぐ】[字]</title>
+    <desc lang="ja">【メインMC黒木千晶・金曜MC村上信五】ミヤネ屋の後枠▽密着！年金生活者の厳しい現実「パートナーとの別れ」「“盲目”漫画家」も…▽“サル被害”全国各地で相次ぐ</desc>
   </programme>
   <programme start="20261019155000 +0900" stop="20261019175300 +0900" channel="読売テレビ_jp">
-    <title lang="ja">かんさい情報ネット ten.[字]</title>
-    <desc lang="ja">月曜は中谷しのぶキャスターと高岡達之解説委員が関西から世界まで幅広いニュースに独自目線で切りこむ！▽「ノゾキミ」様々な人間模様＆裏側密着▽蓬莱さんの天気予報</desc>
+    <title lang="ja">ten.【タカオカ目線】フランスデモ一部が暴徒化＆世界は“スパイ”警戒[字]</title>
+    <desc lang="ja">▽フランス大規模デモ一部が暴徒化▽密着！百貨店の買い取り店人間模様▽タカオカ目線北海道新聞記者スパイ容疑で拘束▽ノゾキミ40代の母親がダンスに挑戦▽蓬莱天気</desc>
   </programme>
   <programme start="20261019175300 +0900" stop="20261019181500 +0900" channel="読売テレビ_jp">
     <title lang="ja">every. 鈴江奈々&amp;森圭介がきょうを分かりやすく[字]</title>
     <desc lang="ja">鈴江奈々、森圭介が“今”を伝えます！ニュースを分かりやすく、いち早く…ネットの話題＆流行＆スポーツ＆芸能＆グルメからお得な生活情報まで満載!!</desc>
   </programme>
   <programme start="20261019181500 +0900" stop="20261019190000 +0900" channel="読売テレビ_jp">
-    <title lang="ja">かんさい情報ネット ten.[字]</title>
-    <desc lang="ja">関西の最新ニュース＆地域密着情報が満載！▽月曜コーナー「教えて！気になるアレ、どうなっten!?」キニナル話題を専門家が徹底解説！▽蓬莱さんの天気予報▽めばえ</desc>
+    <title lang="ja">ten.【教えて!】 「秋の健康SP」医師生出演でギモン解消![字]</title>
+    <desc lang="ja">秋は免疫力低下に注意！医師が実践している健康法▽「グレーゾーン高血圧」分岐点は？▽キニナル食材と運動の効果的な取り入れ方▽蓬莱天気▽めばえ</desc>
   </programme>
   <programme start="20261019190000 +0900" stop="20261019200000 +0900" channel="読売テレビ_jp">
     <title lang="ja">有吉ゼミ▽グルメすぎる玉ノ井部屋と田子ノ浦部屋の超豪華！爆食決起集会に密着SP[字]</title>
@@ -32503,8 +32291,8 @@ NHK総合で放送されたお昼のバラエティー番組「ひるのプレ�
     <desc lang="ja">ぼくが大活躍のアニメ『ピノ＆シノビー』は、毎週金曜11時19分〜放送だよ⊂((・x・))⊃</desc>
   </programme>
   <programme start="20261019230000 +0900" stop="20261019235900 +0900" channel="読売テレビ_jp">
-    <title lang="ja">news zero[字]</title>
-    <desc lang="ja">藤井貴彦＆櫻井翔が、大切なニュースを「長く、深く」。今起きているニュースを「速報とライブ映像」で届けます。夜11時、明日を迎えるきっかけに…</desc>
+    <title lang="ja">news zero[字]【櫻井取材】台風の爪痕残る千葉へ</title>
+    <desc lang="ja">台風30号の最新進路・列島に影響は？▽サイバー攻撃の余波▽体操岡慎之助×櫻井…世界体操金へ大技解禁</desc>
   </programme>
   <programme start="20261019235900 +0900" stop="20261020005400 +0900" channel="読売テレビ_jp">
     <title lang="ja">プラチナイト「大悟の芸人領収書」＆ドラマDEEP「十六夜膳房」#2[字]</title>
@@ -32600,7 +32388,6 @@ NHK総合で放送されたお昼のバラエティー番組「ひるのプレ�
   <programme start="20261020210000 +0900" stop="20261020215400 +0900" channel="読売テレビ_jp">
     <title lang="ja">仰天ニュース…次々患者が亡くなる…横浜の病院で起きた連続殺人の真実[字]</title>
     <desc lang="ja">呪われた4階は本当なのか？元気だった患者に次々異変が！謎の血尿で容体急変…怪しい女性看護師が謎の行動！なぜ彼女は殺人を犯したのか？まさかの身勝手理由とは?</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/477555/image/b91a7a128ad555910df6750c2727c994.jpg" />
   </programme>
   <programme start="20261020215400 +0900" stop="20261020220000 +0900" channel="読売テレビ_jp">
     <title lang="ja">シノビーといっしょ</title>
@@ -32696,27 +32483,22 @@ NHK総合で放送されたお昼のバラエティー番組「ひるのプレ�
   <programme start="20261019083000 +0900" stop="20261019090000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">ブレイクタイム</title>
     <desc lang="ja">季節に合わせた様々な内容をお届けします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633123/image/37a7b2d6e06ae0a3fa0ddc0d1e0ff787.jpg" />
   </programme>
   <programme start="20261019090000 +0900" stop="20261019100000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">[解]アジングへ行こう！ 56 夏の佐渡島</title>
     <desc lang="ja">今回の『アジングへ行こう！』は新潟県佐渡島が舞台。普段のアジングはナイトゲームを中心に楽しむ“ぽけいさ”コンビが、初挑戦となるデイアジングで、攻略の糸口を探る。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633124/image/8d83732dd8e0c412e3e0bd2736c5f1f1.jpg" />
   </programme>
   <programme start="20261019100000 +0900" stop="20261019110000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">Standing Hunts 3 与那国島トカキン</title>
     <desc lang="ja">手巻きのスタンディングファイトで巨大魚とぶつかり合う『Standing Hunts』。今回は与那国島を舞台に、現地で“トカキン”と呼ばれるイソマグロをハントする！</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633125/image/c684a33ca9c35c213bb1ac3c1e81ed3a.jpg" />
   </programme>
   <programme start="20261019110000 +0900" stop="20261019113000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">ブレイクタイム</title>
     <desc lang="ja">季節に合わせた様々な内容をお届けします。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633126/image/e2db59a7c3ae15a89ffdc1e7aaedd942.jpg" />
   </programme>
   <programme start="20261019113000 +0900" stop="20261019123000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">シーバス無双 8 長崎県＆熊本県 有明海</title>
     <desc lang="ja">今回は熊本県と長崎県に面する有明海が舞台。アングラーは、メーターオーバーキャッチの実績を持ちながら、数々の動画出演を拒んできたスーパーエキスパート・宮崎幸周。</desc>
-    <icon src="https://tvguide.myjcom.jp/monomedia/si/2026/20261019/18633127/image/c8fc5e3dc5239fcb4c73994b836f5405.jpg" />
   </programme>
   <programme start="20261019123000 +0900" stop="20261019133000 +0900" channel="釣りビジョン_jp">
     <title lang="ja">沖釣りノトビラ 7 福島県相馬沖のモンスターヒラメ</title>
@@ -33003,12 +32785,12 @@ NHK総合で放送されたお昼のバラエティー番組「ひるのプレ�
     <desc lang="ja">気になるニュースを早く、わかりやすく!全国そして関西の最新ニュースをお届けします</desc>
   </programme>
   <programme start="20261019114700 +0900" stop="20261019135000 +0900" channel="関西テレビ_jp">
-    <title lang="ja">ぽかぽか◆高橋文哉&amp;久保史緒里が月10ドラマ撮影裏話をぶっちゃけ&amp;雑学クイズ[字]</title>
+    <title lang="ja">ぽかぽか[字]◆高橋文哉&amp;久保史緒里が月10ドラマ撮影裏話をぶっちゃけ&amp;雑学クイズ</title>
     <desc lang="ja">月10ドラマ『南田南弁護士は天才肌』出演の高橋文哉&amp;久保史緒里が撮影裏話▼調理師免許所有の高橋が簡単おすすめレシピを伝授▼リアクションダウト演技力対決</desc>
   </programme>
   <programme start="20261019135000 +0900" stop="20261019154500 +0900" channel="関西テレビ_jp">
-    <title lang="ja">とれたてっ![字][デ]</title>
-    <desc lang="ja">全国各地の「いま起きていること」を伝えるニュース・情報番組。MC青木源太と歯に衣着せないパネラーたちがズバッと切り込みます!</desc>
+    <title lang="ja">とれたてっ![字][デ]　台風30号最新▼季節外れの桜が開花?▼高速道路を守る隊員に密着</title>
+    <desc lang="ja">台風30号最新進路▼季節外れの桜が開花?▼なぜ?シカが各地で大量発生▼高速道路を守る隊員に密着▼芦田愛菜を直撃</desc>
   </programme>
   <programme start="20261019154500 +0900" stop="20261019165000 +0900" channel="関西テレビ_jp">
     <title lang="ja">Live　News　イット![字]　▽13年ぶり…台風30号“危険ルート"予想も</title>
@@ -33054,7 +32836,7 @@ NHK総合で放送されたお昼のバラエティー番組「ひるのプレ�
     <desc lang="ja">絶対にあきらめない!茨城県水戸の高校生200名と現役Jリーガーが絆をつなぐ青春ドキュメント完結編!トラジャも挑戦!一度もボールを落とさずゴールを目指せ</desc>
   </programme>
   <programme start="20261019234500 +0900" stop="20261020003000 +0900" channel="関西テレビ_jp">
-    <title lang="ja">FNN　Live　News　α[字]</title>
+    <title lang="ja">FNN　Live　News　α[字]【人気集める超狭小住宅▼注目!バスケBリーグ】</title>
     <desc lang="ja">中国で続く不動産不況人気集める超狭小住宅▽注目バスケBリーグアジア初の施策とは?</desc>
   </programme>
   <programme start="20261020003000 +0900" stop="20261020013000 +0900" channel="関西テレビ_jp">
@@ -33165,6 +32947,7 @@ NHK総合で放送されたお昼のバラエティー番組「ひるのプレ�
   <programme start="20261020220000 +0900" stop="20261020225400 +0900" channel="関西テレビ_jp">
     <title lang="ja">華大さんと千鳥くん[字][デ]　Aぇ!group末澤誠也&amp;千原ジュニアがスパイ初参戦!</title>
     <desc lang="ja">Aぇ!group末澤誠也&amp;千原ジュニアがスパイ初参戦▼新・川柳伝達ゲームでは末澤のアイドルらしからぬ衝撃回答にスタジオ騒然▼運動音痴すぎるジュニアにスパイ疑惑!</desc>
+    <icon src="https://tvguide.myjcom.jp/monomedia/sirc/470000/476317/image/d3e6421a778e63ea5bb492ba3e8c703d.jpg" />
   </programme>
   <programme start="20261020225400 +0900" stop="20261020230000 +0900" channel="関西テレビ_jp">
     <title lang="ja">天気予報　明日の天気は?カンテレ天気予報でチェック!</title>
