@@ -4,48 +4,60 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261020052000 +0900" stop="20261020083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">大脱走［4Kレストア版］[吹]</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-25627.jpg" />
+  <programme start="20261021040000 +0900" stop="20261021045000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ＳＵＩＴＳ／スーツ　シーズン７　＃１４［吹］</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-33905.jpg" />
   </programme>
-  <programme start="20261020083000 +0900" stop="20261020093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">サンダーバード［吹］［ＨＤ完全版］　第１２話「原子力機ファイアーフラッシュ号の危</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-30176.jpg" />
+  <programme start="20261021045000 +0900" stop="20261021063000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">怪盗グルーのミニオン超変身</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34376.jpg" />
   </programme>
-  <programme start="20261020093000 +0900" stop="20261020114000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ユー・ガット・メール［吹］</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-13005.jpg" />
+  <programme start="20261021063000 +0900" stop="20261021083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">暗くなるまで待って</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-2994.jpg" />
   </programme>
-  <programme start="20261020114000 +0900" stop="20261020134500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">Hiromi Iwasaki Concert PRESENT for you for me Digest</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34300.jpg" />
+  <programme start="20261021083000 +0900" stop="20261021093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">サンダーバード［吹］［ＨＤ完全版］　第１３話「死の大金庫」</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-30178.jpg" />
   </programme>
-  <programme start="20261020134500 +0900" stop="20261020161500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">マネーボール</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-20930.jpg" />
+  <programme start="20261021093000 +0900" stop="20261021115000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">愛と誠（２０１２）</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-42111.jpg" />
   </programme>
-  <programme start="20261020161500 +0900" stop="20261020190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">クライマーズ・ハイ</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34494.jpg" />
+  <programme start="20261021115000 +0900" stop="20261021132000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">岩崎宏美　アコースティックツアー２０２５　ｉｎ　長崎</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34142.jpg" />
   </programme>
-  <programme start="20261020190000 +0900" stop="20261020200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事　第１０話</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-43059.jpg" />
+  <programme start="20261021132000 +0900" stop="20261021160000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">スーパーマン リターンズ[吹]</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-22488.jpg" />
   </programme>
-  <programme start="20261020200000 +0900" stop="20261020221000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ダーティハリー２</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-1378.jpg" />
+  <programme start="20261021160000 +0900" stop="20261021190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ミッション：インポッシブル／ファイナル・レコニング</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34387.jpg" />
   </programme>
-  <programme start="20261020221000 +0900" stop="20261021001000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">スキマスイッチ TOUR 2019-2020 “POPMAN’S CARNIVAL vol.2”</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/08/pr-43075.jpg" />
+  <programme start="20261021190000 +0900" stop="20261021200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事　第１１話</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/09/pr-43060.jpg" />
   </programme>
-  <programme start="20261021001000 +0900" stop="20261021023000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">死霊館　エンフィールド事件［吹］</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-25715.jpg" />
+  <programme start="20261021200000 +0900" stop="20261021220000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ダーティハリー３</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-15118.jpg" />
   </programme>
-  <programme start="20261021023000 +0900" stop="20261021035500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">キャロル・キング＆ジェイムス・テイラー：トルバドール・リユニオン</title>
-    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-34207.jpg" />
+  <programme start="20261021220000 +0900" stop="20261022000000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">RED WARRIORS『FINAL LIVE Vol.I &amp; Vol.II』</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/08/pr-43076.jpg" />
+  </programme>
+  <programme start="20261022000000 +0900" stop="20261022020000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">死霊館 悪魔のせいなら、無罪。［吹］</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-42377.jpg" />
+  </programme>
+  <programme start="20261022020000 +0900" stop="20261022030000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ビヨンセ：Ｓｏｕｎｄ　ｏｆ　Ｃｈａｎｇｅ</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-41595.jpg" />
+  </programme>
+  <programme start="20261022030000 +0900" stop="20261022035000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ＳＵＩＴＳ／スーツ　シーズン７　＃１５［吹］</title>
+    <icon src="https://www.bs10.jp/premium/wp-content/uploads/2026/07/pr-33906.jpg" />
   </programme>
 </tv>
