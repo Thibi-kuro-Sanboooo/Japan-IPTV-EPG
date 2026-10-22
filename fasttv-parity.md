@@ -4,34 +4,34 @@
 - missing channel IDs: 0
 - extra channel IDs: 0
 - metadata mismatches: 0
-- candidate programmes: 1866
-- reference programmes in candidate window: 1921
-- exact channel/start/stop/title matches: 1832
-- candidate match rate: 98.18%
-- reference coverage rate: 95.37%
-- matching descriptions among exact matches: 304
+- candidate programmes: 1943
+- reference programmes in candidate window: 2017
+- exact channel/start/stop/title matches: 1899
+- candidate match rate: 97.74%
+- reference coverage rate: 94.15%
+- matching descriptions among exact matches: 315
 - description match rate: 16.59%
 
 ## Per-channel parity
 
 | Channel | Candidate | Reference | Exact | Candidate match | Reference coverage |
 |---|---:|---:|---:|---:|---:|
-| FastTV_17live | 90 | 94 | 77 | 85.56% | 81.91% |
-| FastTV_samri | 72 | 74 | 72 | 100.00% | 97.30% |
-| FastTV_camng | 97 | 100 | 97 | 100.00% | 97.00% |
-| FastTV_bgolf | 101 | 104 | 101 | 100.00% | 97.12% |
-| FastTV_jpthp | 111 | 113 | 111 | 100.00% | 98.23% |
-| FastTV_recip | 75 | 78 | 75 | 100.00% | 96.15% |
-| FastTV_goshogi | 27 | 29 | 24 | 88.89% | 82.76% |
-| FastTV_hokkaido | 115 | 119 | 115 | 100.00% | 96.64% |
-| FastTV_krdrm | 38 | 40 | 38 | 100.00% | 95.00% |
-| FastTV_comdy | 143 | 146 | 139 | 97.20% | 95.21% |
-| FastTV_entns | 102 | 105 | 95 | 93.14% | 90.48% |
-| FastTV_pett1 | 229 | 234 | 229 | 100.00% | 97.86% |
-| FastTV_tokai | 92 | 95 | 87 | 94.57% | 91.58% |
-| FastTV_snyon | 121 | 123 | 120 | 99.17% | 97.56% |
-| FastTV_busns | 79 | 81 | 79 | 100.00% | 97.53% |
-| FastTV_asdrm | 63 | 65 | 63 | 100.00% | 96.92% |
-| FastTV_travl | 97 | 101 | 96 | 98.97% | 95.05% |
-| FastTV_kids | 98 | 101 | 98 | 100.00% | 97.03% |
-| FastTV_news1 | 116 | 119 | 116 | 100.00% | 97.48% |
+| FastTV_17live | 124 | 127 | 109 | 87.90% | 85.83% |
+| FastTV_samri | 70 | 72 | 70 | 100.00% | 97.22% |
+| FastTV_camng | 97 | 101 | 97 | 100.00% | 96.04% |
+| FastTV_bgolf | 104 | 108 | 104 | 100.00% | 96.30% |
+| FastTV_jpthp | 118 | 120 | 118 | 100.00% | 98.33% |
+| FastTV_recip | 69 | 73 | 69 | 100.00% | 94.52% |
+| FastTV_goshogi | 32 | 35 | 22 | 68.75% | 62.86% |
+| FastTV_hokkaido | 128 | 133 | 128 | 100.00% | 96.24% |
+| FastTV_krdrm | 46 | 48 | 46 | 100.00% | 95.83% |
+| FastTV_comdy | 142 | 147 | 142 | 100.00% | 96.60% |
+| FastTV_entns | 103 | 107 | 96 | 93.20% | 89.72% |
+| FastTV_pett1 | 237 | 244 | 237 | 100.00% | 97.13% |
+| FastTV_tokai | 92 | 96 | 87 | 94.57% | 90.62% |
+| FastTV_snyon | 124 | 129 | 123 | 99.19% | 95.35% |
+| FastTV_busns | 83 | 88 | 83 | 100.00% | 94.32% |
+| FastTV_asdrm | 60 | 63 | 59 | 98.33% | 93.65% |
+| FastTV_travl | 107 | 110 | 103 | 96.26% | 93.64% |
+| FastTV_kids | 97 | 102 | 97 | 100.00% | 95.10% |
+| FastTV_news1 | 110 | 114 | 109 | 99.09% | 95.61% |
