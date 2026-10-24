@@ -5,14 +5,14 @@
 - missing channel IDs: 3
 - extra channel IDs: 1
 - metadata mismatches: 0
-- candidate programmes: 13030
-- reference programmes in candidate window: 13049
-- exact channel/start/stop/title matches: 11759
-- exact channel/start/stop matches: 12134
-- candidate exact-title match rate: 90.25%
-- candidate timing match rate: 93.12%
-- reference exact-title coverage: 90.11%
-- reference timing coverage: 92.99%
+- candidate programmes: 12966
+- reference programmes in candidate window: 12934
+- exact channel/start/stop/title matches: 11824
+- exact channel/start/stop matches: 12032
+- candidate exact-title match rate: 91.19%
+- candidate timing match rate: 92.80%
+- reference exact-title coverage: 91.42%
+- reference timing coverage: 93.03%
 
 ## Missing IDs
 - asia-drama-4
