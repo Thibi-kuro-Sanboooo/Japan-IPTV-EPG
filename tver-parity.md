@@ -4,10 +4,10 @@
 - missing channel IDs: 0
 - extra channel IDs: 0
 - metadata mismatches: 0
-- candidate programmes: 65
-- reference programmes in candidate window: 71
-- exact channel/start/stop/title matches: 61
-- exact channel/start/stop matches: 65
-- candidate title match rate: 93.85%
-- candidate time match rate: 100.00%
-- reference time coverage rate: 91.55%
+- candidate programmes: 60
+- reference programmes in candidate window: 35
+- exact channel/start/stop/title matches: 28
+- exact channel/start/stop matches: 29
+- candidate title match rate: 46.67%
+- candidate time match rate: 48.33%
+- reference time coverage rate: 82.86%
