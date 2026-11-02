@@ -4,21 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261102042000 +0900" stop="20261102053000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン８ ＃１０[吹]</title>
-  </programme>
-  <programme start="20261102053000 +0900" stop="20261102060000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★ＢＳ１０プレミアム番組紹介</title>
-  </programme>
-  <programme start="20261102060000 +0900" stop="20261102083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]４２ ～世界を変えた男～</title>
-  </programme>
-  <programme start="20261102083000 +0900" stop="20261102093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第２１話「公爵夫人の危機」【あさドラマ】</title>
-  </programme>
-  <programme start="20261102093000 +0900" stop="20261102112000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]ダーティハリー[吹]日曜洋画劇場 追録ノーカット版【シリーズ一挙放送】</title>
-  </programme>
   <programme start="20261102112000 +0900" stop="20261102131000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">加藤登紀子６０周年海外特別編～中国ハルビン＆バルト三国ラトビア公演～</title>
   </programme>
@@ -45,9 +30,6 @@
   </programme>
   <programme start="20261103015000 +0900" stop="20261103035000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映]バッテリー</title>
-  </programme>
-  <programme start="20261103023000 +0900" stop="20261103042000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">杏子 「Just Today Vol.3」～KYOKO EXPO～</title>
   </programme>
   <programme start="20261103035000 +0900" stop="20261103045000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン８ ＃１１[吹]</title>
