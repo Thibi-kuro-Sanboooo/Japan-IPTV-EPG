@@ -2,22 +2,23 @@
 
 - reference channels: 246
 - candidate channels: 244
-- missing channel IDs: 9
-- extra channel IDs: 7
+- missing channel IDs: 10
+- extra channel IDs: 8
 - metadata mismatches: 1
-- candidate programmes: 12566
-- reference programmes in candidate window: 12517
-- exact channel/start/stop/title matches: 11296
-- exact channel/start/stop matches: 11552
-- candidate exact-title match rate: 89.89%
-- candidate timing match rate: 91.93%
-- reference exact-title coverage: 90.25%
-- reference timing coverage: 92.29%
+- candidate programmes: 12829
+- reference programmes in candidate window: 12820
+- exact channel/start/stop/title matches: 11576
+- exact channel/start/stop matches: 11856
+- candidate exact-title match rate: 90.23%
+- candidate timing match rate: 92.42%
+- reference exact-title coverage: 90.30%
+- reference timing coverage: 92.48%
 
 ## Missing IDs
 - asia-drama-4
 - fishing
 - mahoyo-special
+- motor-sport
 - rch_128
 - rch_129
 - rch_130
@@ -26,6 +27,7 @@
 - rch_133
 
 ## Extra IDs
+- boatrace
 - eyeshield
 - rch_100
 - rch_37

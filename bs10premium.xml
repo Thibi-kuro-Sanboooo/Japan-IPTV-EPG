@@ -4,48 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261102112000 +0900" stop="20261102131000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">加藤登紀子６０周年海外特別編～中国ハルビン＆バルト三国ラトビア公演～</title>
-  </programme>
-  <programme start="20261102131000 +0900" stop="20261102151500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][字]ユー・ガット・メール[吹]</title>
-  </programme>
-  <programme start="20261102151500 +0900" stop="20261102170000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ブリーダー（１９９９）</title>
-  </programme>
-  <programme start="20261102170000 +0900" stop="20261102190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★マライア・キャリー：ライヴ・アット・東京ドーム １９９６</title>
-  </programme>
-  <programme start="20261102190000 +0900" stop="20261102200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第１７話</title>
-  </programme>
-  <programme start="20261102200000 +0900" stop="20261102220000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]００７／ドクター・ノオ【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261102220000 +0900" stop="20261102233000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">真心ブラザーズ ROMANCE DANCE #2</title>
-  </programme>
-  <programme start="20261102233000 +0900" stop="20261103015000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]マトリックス【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261103015000 +0900" stop="20261103035000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]バッテリー</title>
-  </programme>
-  <programme start="20261103035000 +0900" stop="20261103045000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン８ ＃１１[吹]</title>
-  </programme>
-  <programme start="20261103045000 +0900" stop="20261103063000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]怪盗グルーのミニオン超変身[吹]</title>
-  </programme>
-  <programme start="20261103063000 +0900" stop="20261103083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ラン・オールナイト</title>
-  </programme>
-  <programme start="20261103083000 +0900" stop="20261103093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第２２話「恐怖のモノレール」</title>
-  </programme>
-  <programme start="20261103093000 +0900" stop="20261103120000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]ダーティハリー２[吹]日曜洋画劇場 追録ノーカット版</title>
-  </programme>
   <programme start="20261103120000 +0900" stop="20261103141500 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[無]★無料★心をこめて・・・25年 川中美幸 人・うた・心</title>
   </programme>
@@ -66,5 +24,44 @@
   </programme>
   <programme start="20261103220000 +0900" stop="20261104000000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">夏川りみ コンサートツアー“たびぐくる” 2026</title>
+  </programme>
+  <programme start="20261104000000 +0900" stop="20261104023000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]マトリックス リローデッド【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261104023000 +0900" stop="20261104033000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン８ ＃１２[吹]</title>
+  </programme>
+  <programme start="20261104033000 +0900" stop="20261104060000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]クライマーズ・ハイ</title>
+  </programme>
+  <programme start="20261104060000 +0900" stop="20261104083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]それでもボクはやってない</title>
+  </programme>
+  <programme start="20261104083000 +0900" stop="20261104093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第２３話「大ワニの襲撃」【あさドラマ】</title>
+  </programme>
+  <programme start="20261104093000 +0900" stop="20261104111000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]ダーティハリー３[吹]日曜洋画劇場 追録ノーカット版</title>
+  </programme>
+  <programme start="20261104111000 +0900" stop="20261104130000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]シコふんじゃった。【報知映画賞受賞作特集～編成部が本気で選んだ傑作選～】</title>
+  </programme>
+  <programme start="20261104130000 +0900" stop="20261104141500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★ＳＴＯＲＩＥＳ～歌に刻まれし物語～Ｇｏｄｉｅｇｏ 前編</title>
+  </programme>
+  <programme start="20261104141500 +0900" stop="20261104164000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]Ｓｈａｌｌ ｗｅ ダンス？</title>
+  </programme>
+  <programme start="20261104164000 +0900" stop="20261104190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]スパイダーマンＴＭ２［エクステンデッド版］【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261104190000 +0900" stop="20261104200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第１９話</title>
+  </programme>
+  <programme start="20261104200000 +0900" stop="20261104220000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]００７／ゴールドフィンガー【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261104220000 +0900" stop="20261105001000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">元ちとせ ２０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｓｐｅｃｉａｌ Ｌｉｖｅ</title>
   </programme>
 </tv>
