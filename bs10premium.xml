@@ -4,45 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261103120000 +0900" stop="20261103141500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★心をこめて・・・25年 川中美幸 人・うた・心</title>
-  </programme>
-  <programme start="20261103141500 +0900" stop="20261103151500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">中森明菜 Live in '88・Femme Fatale</title>
-  </programme>
-  <programme start="20261103151500 +0900" stop="20261103165000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">中森明菜 AKINA NAKAMORI LIVE TOUR 2006 The Last Destination</title>
-  </programme>
-  <programme start="20261103165000 +0900" stop="20261103190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]スパイダーマンＴＭ（２００２）【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261103190000 +0900" stop="20261103200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第１８話</title>
-  </programme>
-  <programme start="20261103200000 +0900" stop="20261103220000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]００７／ロシアより愛をこめて【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261103220000 +0900" stop="20261104000000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">夏川りみ コンサートツアー“たびぐくる” 2026</title>
-  </programme>
-  <programme start="20261104000000 +0900" stop="20261104023000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]マトリックス リローデッド【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261104023000 +0900" stop="20261104033000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン８ ＃１２[吹]</title>
-  </programme>
-  <programme start="20261104033000 +0900" stop="20261104060000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]クライマーズ・ハイ</title>
-  </programme>
-  <programme start="20261104060000 +0900" stop="20261104083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]それでもボクはやってない</title>
-  </programme>
-  <programme start="20261104083000 +0900" stop="20261104093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第２３話「大ワニの襲撃」【あさドラマ】</title>
-  </programme>
-  <programme start="20261104093000 +0900" stop="20261104111000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]ダーティハリー３[吹]日曜洋画劇場 追録ノーカット版</title>
-  </programme>
   <programme start="20261104111000 +0900" stop="20261104130000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映]シコふんじゃった。【報知映画賞受賞作特集～編成部が本気で選んだ傑作選～】</title>
   </programme>
@@ -63,5 +24,44 @@
   </programme>
   <programme start="20261104220000 +0900" stop="20261105001000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">元ちとせ ２０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｓｐｅｃｉａｌ Ｌｉｖｅ</title>
+  </programme>
+  <programme start="20261105001000 +0900" stop="20261105023000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]マトリックス レボリューションズ【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261105023000 +0900" stop="20261105033000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン８ ＃１３[吹]</title>
+  </programme>
+  <programme start="20261105033000 +0900" stop="20261105060000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]嵐が丘（２０２６）</title>
+  </programme>
+  <programme start="20261105060000 +0900" stop="20261105083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]楽園（２０１９）</title>
+  </programme>
+  <programme start="20261105083000 +0900" stop="20261105093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第２４話「火星人の来襲」【あさドラマ】</title>
+  </programme>
+  <programme start="20261105093000 +0900" stop="20261105113000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]ダーティハリー４[吹]月曜ロードショー 追録ノーカット版</title>
+  </programme>
+  <programme start="20261105113000 +0900" stop="20261105130000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][字]コブラ[吹]</title>
+  </programme>
+  <programme start="20261105130000 +0900" stop="20261105141500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★ＳＴＯＲＩＥＳ～歌に刻まれし物語～Ｇｏｄｉｅｇｏ 後編</title>
+  </programme>
+  <programme start="20261105141500 +0900" stop="20261105163000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ルーキー【6ヵ月連続 ザ・レジェンド：クリント・イーストウッドPART4】</title>
+  </programme>
+  <programme start="20261105163000 +0900" stop="20261105190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]スパイダーマンＴＭ３【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261105190000 +0900" stop="20261105200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２０話</title>
+  </programme>
+  <programme start="20261105200000 +0900" stop="20261105221500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]００７／サンダーボール作戦【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261105221500 +0900" stop="20261106004500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ジャーニー ライブ・イン・ジャパン 2017【厳選プレミアムライブ－洋楽－】</title>
   </programme>
 </tv>
