@@ -4,11 +4,11 @@
 - missing channel IDs: 0
 - extra channel IDs: 0
 - metadata mismatches: 0
-- candidate programmes: 20
-- reference programmes in candidate window: 20
-- exact channel/start/stop/title matches: 0
-- exact channel/start/stop matches: 20
+- candidate programmes: 22
+- reference programmes in candidate window: 22
+- exact channel/start/stop/title matches: 2
+- exact channel/start/stop matches: 22
 - schedule timing match rate: 100.00%
-- candidate title-exact match rate: 0.00%
-- reference title-exact coverage rate: 0.00%
+- candidate title-exact match rate: 9.09%
+- reference title-exact coverage rate: 9.09%
 - note: BS10 official titles omit some HikariTV-style markers used by the reference.
