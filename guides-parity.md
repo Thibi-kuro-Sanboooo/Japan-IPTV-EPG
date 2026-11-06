@@ -1,18 +1,18 @@
 # Combined guides.xml parity report
 
-- reference channels: 248
+- reference channels: 249
 - candidate channels: 244
 - missing channel IDs: 12
-- extra channel IDs: 8
+- extra channel IDs: 7
 - metadata mismatches: 2
-- candidate programmes: 12706
-- reference programmes in candidate window: 12571
-- exact channel/start/stop/title matches: 11346
-- exact channel/start/stop matches: 11608
-- candidate exact-title match rate: 89.30%
-- candidate timing match rate: 91.36%
-- reference exact-title coverage: 90.26%
-- reference timing coverage: 92.34%
+- candidate programmes: 12410
+- reference programmes in candidate window: 12436
+- exact channel/start/stop/title matches: 11260
+- exact channel/start/stop matches: 11517
+- candidate exact-title match rate: 90.73%
+- candidate timing match rate: 92.80%
+- reference exact-title coverage: 90.54%
+- reference timing coverage: 92.61%
 
 ## Missing IDs
 - NHK山形・総合_jp
@@ -29,7 +29,6 @@
 - 千葉テレビ_jp
 
 ## Extra IDs
-- boatrace
 - eyeshield
 - rch_100
 - rch_37
