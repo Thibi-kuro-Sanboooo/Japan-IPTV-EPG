@@ -4,54 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261106121500 +0900" stop="20261106133000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">タケカワユキヒデ ｗｉｔｈ Ａｒｒｏｗ Ｊａｚｚ Ｏｒｃｈｅｓｔｒａ</title>
-  </programme>
-  <programme start="20261106133000 +0900" stop="20261106154000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]目撃【6ヵ月連続 ザ・レジェンド：クリント・イーストウッドPART4】</title>
-  </programme>
-  <programme start="20261106154000 +0900" stop="20261106180000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ザ・ブライド！</title>
-  </programme>
-  <programme start="20261106180000 +0900" stop="20261106200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]シティ・オブ・エンジェル</title>
-  </programme>
-  <programme start="20261106200000 +0900" stop="20261106210000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">中山秀征の有楽町で逢いまSHOW♪＃１０</title>
-  </programme>
-  <programme start="20261106210000 +0900" stop="20261106223000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">麻倉未稀 45th Anniversary Live「My Soul」</title>
-  </programme>
-  <programme start="20261106223000 +0900" stop="20261106234500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">南佳孝＆杉山清貴 Ｈａｌｆ＆Ｈａｌｆ Ｘ’ｍａｓ ＬＩＶＥ ２０２５</title>
-  </programme>
-  <programme start="20261106234500 +0900" stop="20261107004000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃１</title>
-  </programme>
-  <programme start="20261107004000 +0900" stop="20261107025000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]湯を沸かすほどの熱い愛</title>
-  </programme>
-  <programme start="20261107025000 +0900" stop="20261107034000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン８ ＃１５[吹]</title>
-  </programme>
-  <programme start="20261107034000 +0900" stop="20261107054000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]バトル・ロワイアル【報知映画賞受賞作特集～編成部が本気で選んだ傑作選～】</title>
-  </programme>
-  <programme start="20261107054000 +0900" stop="20261107080000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]荒野の七人［１９７３年録音・吹替版］[吹]</title>
-  </programme>
-  <programme start="20261107080000 +0900" stop="20261107085000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第１７話</title>
-  </programme>
-  <programme start="20261107085000 +0900" stop="20261107100000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第１８話</title>
-  </programme>
-  <programme start="20261107100000 +0900" stop="20261107113000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">岩崎宏美 アコースティックツアー2026</title>
-  </programme>
-  <programme start="20261107113000 +0900" stop="20261107120000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★ＢＳ１０プレミアム番組紹介</title>
-  </programme>
   <programme start="20261107120000 +0900" stop="20261107135000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映]幸福の黄色いハンカチ デジタルリマスター版</title>
   </programme>
@@ -69,5 +21,44 @@
   </programme>
   <programme start="20261107223000 +0900" stop="20261108003000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映][SS]Ｌｏｖｅ Ｌｅｔｔｅｒ［４Ｋリマスター］</title>
+  </programme>
+  <programme start="20261108003000 +0900" stop="20261108024500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">RED WARRIORS『FINAL LIVE Vol.I &amp; Vol.II』【厳選プレミアムライブ－邦楽－】</title>
+  </programme>
+  <programme start="20261108024500 +0900" stop="20261108035000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン８ ＃１６[吹]［最終話］</title>
+  </programme>
+  <programme start="20261108035000 +0900" stop="20261108061500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS][字]４２ ～世界を変えた男～[吹]</title>
+  </programme>
+  <programme start="20261108061500 +0900" stop="20261108080000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ＬＥ ＶＥＬＶＥＴＳ 「Ｔｈｅ Ｒｉｓｉｎｇ Ｖｏｉｃｅｓ」２０２５</title>
+  </programme>
+  <programme start="20261108080000 +0900" stop="20261108085000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第１９話</title>
+  </programme>
+  <programme start="20261108085000 +0900" stop="20261108100000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２０話</title>
+  </programme>
+  <programme start="20261108100000 +0900" stop="20261108120000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★愛ある限り私は歌う ’82美空ひばりリサイタル</title>
+  </programme>
+  <programme start="20261108120000 +0900" stop="20261108143000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]南極物語（１９８３）</title>
+  </programme>
+  <programme start="20261108143000 +0900" stop="20261108171500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]君よ憤怒の河を渉れ【2ヵ月連続 ザ・レジェンド：高倉健PART1】</title>
+  </programme>
+  <programme start="20261108171500 +0900" stop="20261108200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">THE ALFEE『FINAL Count Down A.D.1999 Live at BUDOKAN Dec.24』</title>
+  </programme>
+  <programme start="20261108200000 +0900" stop="20261108214000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事フォーエヴァー ＴＶスペシャル’９８【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261108214000 +0900" stop="20261108232000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ゼイ・ウィル・キル・ユー</title>
+  </programme>
+  <programme start="20261108232000 +0900" stop="20261109014000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">RED ROCKS RED WARRIORS FESTIVAL -RED WARRIORS-</title>
   </programme>
 </tv>
