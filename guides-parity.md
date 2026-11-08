@@ -1,43 +1,249 @@
 # Combined guides.xml parity report
 
-- reference channels: 250
+- reference channels: 18
 - candidate channels: 244
-- missing channel IDs: 13
-- extra channel IDs: 7
-- metadata mismatches: 2
-- candidate programmes: 12469
-- reference programmes in candidate window: 12498
-- exact channel/start/stop/title matches: 11330
-- exact channel/start/stop matches: 11538
-- candidate exact-title match rate: 90.87%
-- candidate timing match rate: 92.53%
-- reference exact-title coverage: 90.65%
-- reference timing coverage: 92.32%
+- missing channel IDs: 2
+- extra channel IDs: 228
+- metadata mismatches: 0
+- candidate programmes: 12565
+- reference programmes in candidate window: 1457
+- exact channel/start/stop/title matches: 1351
+- exact channel/start/stop matches: 1412
+- candidate exact-title match rate: 10.75%
+- candidate timing match rate: 11.24%
+- reference exact-title coverage: 92.72%
+- reference timing coverage: 96.91%
 
 ## Missing IDs
 - NHK山形・総合_jp
-- asia-drama-4
-- fishing
-- mahoyo-special
-- motor-sport
-- rch_128
-- rch_129
-- rch_130
-- rch_131
-- rch_132
-- rch_133
-- sumo
 - 千葉テレビ_jp
 
 ## Extra IDs
+- 00s-anime-1
+- 80s-anime-1
+- 90s-anime-1
+- ABCテレビ_jp
+- BBCニュース_jp
+- BS-TBS-4K_jp
+- BS-TBS_jp
+- BS10_jp
+- BS10プレミアム_jp
+- BS11-イレブン_jp
+- BS12トゥエルビ_jp
+- BSよしもと_jp
+- BSテレ東-4K_jp
+- BSテレ東_jp
+- BSフジ-4K_jp
+- BSフジ_jp
+- BS日テレ-4K_jp
+- BS日テレ_jp
+- BS朝日-4K_jp
+- BS朝日_jp
+- CNNj_jp
+- Dlife(ディーライフ)_jp
+- FIGHTING-TV-サムライ_jp
+- FastTV_17live
+- FastTV_asdrm
+- FastTV_bgolf
+- FastTV_busns
+- FastTV_camng
+- FastTV_comdy
+- FastTV_entns
+- FastTV_goshogi
+- FastTV_hokkaido
+- FastTV_jpthp
+- FastTV_kids
+- FastTV_krdrm
+- FastTV_news1
+- FastTV_pett1
+- FastTV_recip
+- FastTV_samri
+- FastTV_snyon
+- FastTV_tokai
+- FastTV_travl
+- GAORA-SPORTS_jp
+- J-COM-BS_jp
+- J-SPORTS-1_jp
+- J-SPORTS-2_jp
+- J-SPORTS-3_jp
+- J-SPORTS-4_jp
+- KBS-WORLD_jp
+- KBS京都_jp
+- LaLa-TV_jp
+- MONDOTV_jp
+- MTV_jp
+- MUSIC-ON!-TV(エムオン!)_jp
+- Mnet_jp
+- NHK-WORLD-PREMIUM_jp
+- NHKワールド-JAPAN_jp
+- NHKワールド-PREMIUM_jp
+- NHK・BS2_jp
+- NHK・BSP_jp
+- NHK・BS_jp
+- Pigoo_jp
+- QVC_jp
+- TBS-NEWS_jp
+- TBSチャンネル1_jp
+- TBSチャンネル2_jp
+- V-パラダイス_jp
+- WOWOWシネマ_jp
+- WOWOWプライム_jp
+- WOWOWプラス_jp
+- WOWOWライブ_jp
+- abema-anime
+- abema-anime-2
+- abema-anime-3
+- abema-news
+- abema-special
+- anime-live
+- anime-live2
+- anime-live3
+- anime-special-2
+- anime-special-3
+- anime-special-4
+- asia-drama
+- asia-drama-2
+- asia-historical
+- asia-love-comedy
+- asia-loveromance
+- atashinchi
+- boatrace
+- chibimaruko
+- chinese-drama
+- commercial
+- conan
+- dailylife-anime
+- disney
+- drama
+- drama-2
+- drama-3
+- drama-4
 - eyeshield
+- family-anime-1
+- family-anime-2
+- family-anime-3
+- fighting-sports
+- hiphop
+- isekai-anime
+- isekai-anime-2
+- isekai-anime-3
+- isekai-anime-4
+- isekai-anime-5
+- k-world
+- keirin-auto
+- late-night-anime
+- lovecomedy-anime
+- mahjong
+- news-plus
+- onepiece
+- pokemon-1
+- pokemon-2
 - rch_100
+- rch_101
+- rch_102
+- rch_103
+- rch_104
+- rch_105
+- rch_106
+- rch_107
+- rch_108
+- rch_112
+- rch_113
+- rch_114
+- rch_115
+- rch_120
+- rch_121
+- rch_122
+- rch_123
+- rch_124
+- rch_125
+- rch_126
+- rch_127
+- rch_30
+- rch_34
+- rch_35
+- rch_36
 - rch_37
 - rch_43
+- rch_45
+- rch_46
+- rch_47
 - rch_49
 - rch_51
+- rch_54
+- rch_56
+- rch_64
 - rch_65
-
-## Metadata mismatches
-- FastTV_goshogi
-- rch_127
+- rch_70
+- rch_73
+- rch_74
+- rch_75
+- rch_85
+- rch_86
+- rch_89
+- rch_90
+- rch_92
+- rch_94
+- rch_97
+- shogi
+- special-plus
+- special-plus-7
+- tver_cx
+- tver_ex
+- tver_ntv
+- tver_tbs
+- tver_tx
+- world-sports
+- アクションチャンネル_jp
+- アニマックス_jp
+- アニマルプラネット_jp
+- アニメシアター(AT-X)_jp
+- カートゥーン-ネットワーク_jp
+- キッズステーション_jp
+- グリーンチャンネル_jp
+- ゴルフネットワーク_jp
+- ザ・シネマ_jp
+- ショップチャンネル_jp
+- ジュエリー☆GSTV_jp
+- スカイA_jp
+- スカチャン-1_jp
+- スペースシャワーTV_jp
+- スポーツライブ+_jp
+- スーパー!ドラマTV_jp
+- タカラヅカ・スカイ・ステージ_jp
+- チャンネル銀河_jp
+- テレビ大阪_jp
+- テレ朝チャンネル1_jp
+- テレ朝チャンネル2_jp
+- ディスカバリーチャンネル_jp
+- ディズニージュニア_jp
+- ディズニー・チャンネル_jp
+- ナショナル-ジオグラフィック_jp
+- ヌーヴェルパラダイス_jp
+- ヒストリーチャンネル_jp
+- ファミリー劇場_jp
+- フジテレビNEXT_jp
+- フジテレビONE_jp
+- フジテレビTWO_jp
+- ホームドラマチャンネル_jp
+- ミステリーチャンネル_jp
+- ミュージック・エア_jp
+- ミュージック・ジャパンTV_jp
+- ムービープラス_jp
+- メ～テレNEXT_jp
+- 囲碁・将棋チャンネル_jp
+- 旅チャンネル_jp
+- 日テレNEWS24_jp
+- 日テレジータス_jp
+- 日テレプラス_jp
+- 日本映画専門チャンネル_jp
+- 映画・チャンネルNECO_jp
+- 時代劇専門チャンネル_jp
+- 東映チャンネル_jp
+- 歌謡ポップスチャンネル_jp
+- 毎日テレビ_jp
+- 衛星劇場_jp
+- 読売テレビ_jp
+- 釣りビジョン_jp
+- 鉄道チャンネル_jp
+- 関西テレビ_jp
