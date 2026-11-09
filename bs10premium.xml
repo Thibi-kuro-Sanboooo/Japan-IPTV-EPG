@@ -4,39 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261108143000 +0900" stop="20261108171500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]君よ憤怒の河を渉れ【2ヵ月連続 ザ・レジェンド：高倉健PART1】</title>
-  </programme>
-  <programme start="20261108171500 +0900" stop="20261108200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">THE ALFEE『FINAL Count Down A.D.1999 Live at BUDOKAN Dec.24』</title>
-  </programme>
-  <programme start="20261108200000 +0900" stop="20261108214000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事フォーエヴァー ＴＶスペシャル’９８【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261108214000 +0900" stop="20261108232000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ゼイ・ウィル・キル・ユー</title>
-  </programme>
-  <programme start="20261108232000 +0900" stop="20261109014000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">RED ROCKS RED WARRIORS FESTIVAL -RED WARRIORS-</title>
-  </programme>
-  <programme start="20261109014000 +0900" stop="20261109033000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ダンケルク（２０１７）</title>
-  </programme>
-  <programme start="20261109033000 +0900" stop="20261109042000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃１[吹]</title>
-  </programme>
-  <programme start="20261109042000 +0900" stop="20261109064000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]昼下りの情事[吹]</title>
-  </programme>
-  <programme start="20261109064000 +0900" stop="20261109083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">二見颯一＆原田波人 ｉｎ ＪＺ Ｂｒａｔ【BS10プレミアム独占ライブ】</title>
-  </programme>
-  <programme start="20261109083000 +0900" stop="20261109093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第２６話「秘密作戦命令」【あさドラマ】</title>
-  </programme>
-  <programme start="20261109093000 +0900" stop="20261109114000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]ロッキー[吹]【シリーズ一挙放送】</title>
-  </programme>
   <programme start="20261109114000 +0900" stop="20261109124000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">'８３ 歌声はひばりと共に（１９８３年新宿コマ劇場）</title>
   </programme>
@@ -57,5 +24,41 @@
   </programme>
   <programme start="20261109220000 +0900" stop="20261110001500 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">マドンナ：Ｃｏｎｆｅｓｓｉｏｎｓ Ｔｏｕｒ【厳選プレミアムライブ－洋楽－】</title>
+  </programme>
+  <programme start="20261110001500 +0900" stop="20261110035000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ライトスタッフ［完全版］</title>
+  </programme>
+  <programme start="20261110035000 +0900" stop="20261110045000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃２[吹]</title>
+  </programme>
+  <programme start="20261110045000 +0900" stop="20261110065000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]俺たちに明日はない</title>
+  </programme>
+  <programme start="20261110065000 +0900" stop="20261110083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">３人の歌仲間スペシャル 松尾雄史・三丘翔太・二見颯一・青山新</title>
+  </programme>
+  <programme start="20261110083000 +0900" stop="20261110093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第２７話「海上ステーションの危機」</title>
+  </programme>
+  <programme start="20261110093000 +0900" stop="20261110114500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]ロッキー２[吹]【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261110114500 +0900" stop="20261110140000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ザ・ゴールデンステージ第４弾 堀内孝雄・川中美幸【BS10プレミアム独占ライブ】</title>
+  </programme>
+  <programme start="20261110140000 +0900" stop="20261110163000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]嵐が丘（２０２６）</title>
+  </programme>
+  <programme start="20261110163000 +0900" stop="20261110190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]スーパーマン II 冒険編[吹]【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261110190000 +0900" stop="20261110200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２２話</title>
+  </programme>
+  <programme start="20261110200000 +0900" stop="20261110223000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]女王陛下の００７【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261110223000 +0900" stop="20261111004500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">マドンナ：Ｓｔｉｃｋｙ ａｎｄ Ｓｗｅｅｔ Ｔｏｕｒ</title>
   </programme>
 </tv>
