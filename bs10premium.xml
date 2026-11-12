@@ -4,61 +4,64 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261110114500 +0900" stop="20261110140000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ザ・ゴールデンステージ第４弾 堀内孝雄・川中美幸【BS10プレミアム独占ライブ】</title>
+  <programme start="20261112123000 +0900" stop="20261112150000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]アメイジング・スパイダーマンＴＭ</title>
   </programme>
-  <programme start="20261110140000 +0900" stop="20261110163000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]嵐が丘（２０２６）</title>
+  <programme start="20261112150000 +0900" stop="20261112172000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]湯を沸かすほどの熱い愛</title>
   </programme>
-  <programme start="20261110163000 +0900" stop="20261110190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]スーパーマン II 冒険編[吹]【シリーズ一挙放送】</title>
+  <programme start="20261112172000 +0900" stop="20261112190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]スーパーマン４／最強の敵[吹]【シリーズ一挙放送】</title>
   </programme>
-  <programme start="20261110190000 +0900" stop="20261110200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２２話</title>
+  <programme start="20261112190000 +0900" stop="20261112200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２４話</title>
   </programme>
-  <programme start="20261110200000 +0900" stop="20261110223000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]女王陛下の００７【プレミアムシアター８】</title>
+  <programme start="20261112200000 +0900" stop="20261112222000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ネバーセイ・ネバーアゲイン【プレミアムシアター８】</title>
   </programme>
-  <programme start="20261110223000 +0900" stop="20261111004500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">マドンナ：Ｓｔｉｃｋｙ ａｎｄ Ｓｗｅｅｔ Ｔｏｕｒ</title>
+  <programme start="20261112222000 +0900" stop="20261113011000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">TOTO：デビュー40周年記念ライヴ 40ツアーズ・アラウンド・ザ・サン</title>
   </programme>
-  <programme start="20261111004500 +0900" stop="20261111030000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]犯罪都市[吹]【シリーズ一挙放送】</title>
+  <programme start="20261113011000 +0900" stop="20261113030000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]犯罪都市 ＮＯ ＷＡＹ ＯＵＴ[吹]【シリーズ一挙放送】</title>
   </programme>
-  <programme start="20261111030000 +0900" stop="20261111040000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃３[吹]</title>
+  <programme start="20261113030000 +0900" stop="20261113035000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃５[吹]</title>
   </programme>
-  <programme start="20261111040000 +0900" stop="20261111065000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]尼僧物語</title>
+  <programme start="20261113035000 +0900" stop="20261113060000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ユー・ガット・メール</title>
   </programme>
-  <programme start="20261111065000 +0900" stop="20261111083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">二見颯一＆青山新 ライブハウスツアー2025 日本橋三井ホール</title>
+  <programme start="20261113060000 +0900" stop="20261113083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]朝が来る</title>
   </programme>
-  <programme start="20261111083000 +0900" stop="20261111093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第２８話「クラッブロガーの暴走」【あさドラマ】</title>
+  <programme start="20261113083000 +0900" stop="20261113093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第３０話「太陽反射鏡の恐怖」</title>
   </programme>
-  <programme start="20261111093000 +0900" stop="20261111113000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]ロッキー３[吹]【シリーズ一挙放送】</title>
+  <programme start="20261113093000 +0900" stop="20261113103000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃１[吹]</title>
   </programme>
-  <programme start="20261111113000 +0900" stop="20261111133000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ザ・ゴールデンステージ第５弾 美川憲一・コロッケ【BS10プレミアム独占ライブ】</title>
+  <programme start="20261113103000 +0900" stop="20261113123000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ザ・ゴールデンステージ第１１弾天童よしみ【BS10プレミアム独占ライブ】</title>
   </programme>
-  <programme start="20261111133000 +0900" stop="20261111163000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]大脱走［4Kレストア版］【シネマラウンジ別館 舘ひろしセレクション】</title>
+  <programme start="20261113123000 +0900" stop="20261113150000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]アメイジング・スパイダーマンＴＭ２</title>
   </programme>
-  <programme start="20261111163000 +0900" stop="20261111190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]スーパーマン III 電子の要塞[吹]【シリーズ一挙放送】</title>
+  <programme start="20261113150000 +0900" stop="20261113181500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]リップヴァンウィンクルの花嫁</title>
   </programme>
-  <programme start="20261111190000 +0900" stop="20261111200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２３話</title>
+  <programme start="20261113181500 +0900" stop="20261113200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]コブラ</title>
   </programme>
-  <programme start="20261111200000 +0900" stop="20261111221000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]００７／ダイヤモンドは永遠に【プレミアムシアター８】</title>
+  <programme start="20261113200000 +0900" stop="20261113210000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">中山秀征の有楽町で逢いまSHOW♪＃１１</title>
   </programme>
-  <programme start="20261111221000 +0900" stop="20261111233000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">荻野目洋子ＬＩＶＥ２０２５“Ｏｕｒ Ｓｔｏｒｙ Ｃｏｎｔｉｎｕｅｓ”</title>
+  <programme start="20261113210000 +0900" stop="20261113220000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★Billboard Live THE BEST vol.1</title>
   </programme>
-  <programme start="20261111233000 +0900" stop="20261112013000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]失楽園</title>
+  <programme start="20261113220000 +0900" stop="20261113233000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">小室哲哉 ビルボードライブ</title>
+  </programme>
+  <programme start="20261113233000 +0900" stop="20261114002000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃２</title>
   </programme>
 </tv>
