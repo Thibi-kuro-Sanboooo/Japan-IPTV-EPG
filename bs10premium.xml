@@ -4,45 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261112123000 +0900" stop="20261112150000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]アメイジング・スパイダーマンＴＭ</title>
-  </programme>
-  <programme start="20261112150000 +0900" stop="20261112172000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]湯を沸かすほどの熱い愛</title>
-  </programme>
-  <programme start="20261112172000 +0900" stop="20261112190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]スーパーマン４／最強の敵[吹]【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261112190000 +0900" stop="20261112200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２４話</title>
-  </programme>
-  <programme start="20261112200000 +0900" stop="20261112222000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ネバーセイ・ネバーアゲイン【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261112222000 +0900" stop="20261113011000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">TOTO：デビュー40周年記念ライヴ 40ツアーズ・アラウンド・ザ・サン</title>
-  </programme>
-  <programme start="20261113011000 +0900" stop="20261113030000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]犯罪都市 ＮＯ ＷＡＹ ＯＵＴ[吹]【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261113030000 +0900" stop="20261113035000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃５[吹]</title>
-  </programme>
-  <programme start="20261113035000 +0900" stop="20261113060000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ユー・ガット・メール</title>
-  </programme>
-  <programme start="20261113060000 +0900" stop="20261113083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]朝が来る</title>
-  </programme>
-  <programme start="20261113083000 +0900" stop="20261113093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第３０話「太陽反射鏡の恐怖」</title>
-  </programme>
-  <programme start="20261113093000 +0900" stop="20261113103000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃１[吹]</title>
-  </programme>
-  <programme start="20261113103000 +0900" stop="20261113123000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ザ・ゴールデンステージ第１１弾天童よしみ【BS10プレミアム独占ライブ】</title>
-  </programme>
   <programme start="20261113123000 +0900" stop="20261113150000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映][SS]アメイジング・スパイダーマンＴＭ２</title>
   </programme>
@@ -63,5 +24,44 @@
   </programme>
   <programme start="20261113233000 +0900" stop="20261114002000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃２</title>
+  </programme>
+  <programme start="20261114002000 +0900" stop="20261114021500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]犯罪都市 ＰＵＮＩＳＨＭＥＮＴ[吹]【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261114021500 +0900" stop="20261114041500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ラン・オールナイト</title>
+  </programme>
+  <programme start="20261114041500 +0900" stop="20261114051500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃６[吹]</title>
+  </programme>
+  <programme start="20261114051500 +0900" stop="20261114080000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]犬神家の一族（１９７６）【モーニングシアター】</title>
+  </programme>
+  <programme start="20261114080000 +0900" stop="20261114085000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２１話</title>
+  </programme>
+  <programme start="20261114085000 +0900" stop="20261114094500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２２話</title>
+  </programme>
+  <programme start="20261114094500 +0900" stop="20261114120000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">福田こうへいコンサート2021 10周年記念スペシャル</title>
+  </programme>
+  <programme start="20261114120000 +0900" stop="20261114142000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]Ｓｈａｌｌ ｗｅ ダンス？</title>
+  </programme>
+  <programme start="20261114142000 +0900" stop="20261114160000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ブリーダー（１９９９）</title>
+  </programme>
+  <programme start="20261114160000 +0900" stop="20261114174500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]残された者 －北の極地－</title>
+  </programme>
+  <programme start="20261114174500 +0900" stop="20261114200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">Miki Imai Monument TOUR 1997 "PRIDE"</title>
+  </programme>
+  <programme start="20261114200000 +0900" stop="20261114221000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]コンスタンティン（２００５）【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261114221000 +0900" stop="20261115004000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]それでもボクはやってない</title>
   </programme>
 </tv>

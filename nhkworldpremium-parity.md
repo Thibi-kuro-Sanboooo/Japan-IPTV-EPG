@@ -4,15 +4,15 @@
 - missing channel IDs: 0
 - extra channel IDs: 0
 - metadata mismatches: 0
-- candidate programmes: 256
-- reference programmes in candidate window: 254
-- exact channel/start/stop/title matches: 240
-- candidate match rate: 93.75%
-- reference coverage rate: 94.49%
+- candidate programmes: 252
+- reference programmes in candidate window: 250
+- exact channel/start/stop/title matches: 236
+- candidate match rate: 93.65%
+- reference coverage rate: 94.40%
 
 ## Per-channel parity
 
 | Channel | Candidate | Reference | Exact | Candidate match | Reference coverage |
 |---|---:|---:|---:|---:|---:|
-| NHKワールド-PREMIUM_jp | 128 | 127 | 127 | 99.22% | 100.00% |
-| NHK-WORLD-PREMIUM_jp | 128 | 127 | 113 | 88.28% | 88.98% |
+| NHKワールド-PREMIUM_jp | 126 | 125 | 125 | 99.21% | 100.00% |
+| NHK-WORLD-PREMIUM_jp | 126 | 125 | 111 | 88.10% | 88.80% |
