@@ -4,48 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261113123000 +0900" stop="20261113150000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]アメイジング・スパイダーマンＴＭ２</title>
-  </programme>
-  <programme start="20261113150000 +0900" stop="20261113181500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]リップヴァンウィンクルの花嫁</title>
-  </programme>
-  <programme start="20261113181500 +0900" stop="20261113200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]コブラ</title>
-  </programme>
-  <programme start="20261113200000 +0900" stop="20261113210000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">中山秀征の有楽町で逢いまSHOW♪＃１１</title>
-  </programme>
-  <programme start="20261113210000 +0900" stop="20261113220000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★Billboard Live THE BEST vol.1</title>
-  </programme>
-  <programme start="20261113220000 +0900" stop="20261113233000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">小室哲哉 ビルボードライブ</title>
-  </programme>
-  <programme start="20261113233000 +0900" stop="20261114002000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃２</title>
-  </programme>
-  <programme start="20261114002000 +0900" stop="20261114021500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]犯罪都市 ＰＵＮＩＳＨＭＥＮＴ[吹]【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261114021500 +0900" stop="20261114041500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ラン・オールナイト</title>
-  </programme>
-  <programme start="20261114041500 +0900" stop="20261114051500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃６[吹]</title>
-  </programme>
-  <programme start="20261114051500 +0900" stop="20261114080000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]犬神家の一族（１９７６）【モーニングシアター】</title>
-  </programme>
-  <programme start="20261114080000 +0900" stop="20261114085000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２１話</title>
-  </programme>
-  <programme start="20261114085000 +0900" stop="20261114094500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２２話</title>
-  </programme>
-  <programme start="20261114094500 +0900" stop="20261114120000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">福田こうへいコンサート2021 10周年記念スペシャル</title>
-  </programme>
   <programme start="20261114120000 +0900" stop="20261114142000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映]Ｓｈａｌｌ ｗｅ ダンス？</title>
   </programme>
@@ -63,5 +21,44 @@
   </programme>
   <programme start="20261114221000 +0900" stop="20261115004000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映][SS]それでもボクはやってない</title>
+  </programme>
+  <programme start="20261115004000 +0900" stop="20261115030000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">Original Love Tour 2025 “BRIDGE CROSSERS TOUR”【BS10プレミアム独占ライブ</title>
+  </programme>
+  <programme start="20261115030000 +0900" stop="20261115035000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃７[吹]</title>
+  </programme>
+  <programme start="20261115035000 +0900" stop="20261115061000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ディスクロージャー</title>
+  </programme>
+  <programme start="20261115061000 +0900" stop="20261115080000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS][字]ダンケルク（２０１７）[吹]</title>
+  </programme>
+  <programme start="20261115080000 +0900" stop="20261115085000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２３話</title>
+  </programme>
+  <programme start="20261115085000 +0900" stop="20261115100000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２４話</title>
+  </programme>
+  <programme start="20261115100000 +0900" stop="20261115123000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★『ＡＬＩＣＥ ＧＲＥＡＴ ５０ ＢＥＧＩＮＮＩＮＧ ２…</title>
+  </programme>
+  <programme start="20261115123000 +0900" stop="20261115131500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">アリス武道館ライヴ ’７８（栄光への脱出）［デジタル・リマスター版］</title>
+  </programme>
+  <programme start="20261115131500 +0900" stop="20261115153000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]おくりびと【報知映画賞受賞作特集～編成部が本気で選んだ傑作選～】</title>
+  </programme>
+  <programme start="20261115153000 +0900" stop="20261115174500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]ルーキー[吹]【6ヵ月連続 ザ・レジェンド：クリント・イーストウッドPART4】</title>
+  </programme>
+  <programme start="20261115174500 +0900" stop="20261115200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]目撃[吹]</title>
+  </programme>
+  <programme start="20261115200000 +0900" stop="20261115215000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]あぶない刑事フォーエヴァー ＴＨＥ ＭＯＶＩＥ【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261115215000 +0900" stop="20261116003000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ディパーテッド[吹]</title>
   </programme>
 </tv>
