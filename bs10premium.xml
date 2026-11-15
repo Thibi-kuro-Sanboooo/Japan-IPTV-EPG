@@ -4,42 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261114120000 +0900" stop="20261114142000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]Ｓｈａｌｌ ｗｅ ダンス？</title>
-  </programme>
-  <programme start="20261114142000 +0900" stop="20261114160000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ブリーダー（１９９９）</title>
-  </programme>
-  <programme start="20261114160000 +0900" stop="20261114174500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]残された者 －北の極地－</title>
-  </programme>
-  <programme start="20261114174500 +0900" stop="20261114200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">Miki Imai Monument TOUR 1997 "PRIDE"</title>
-  </programme>
-  <programme start="20261114200000 +0900" stop="20261114221000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]コンスタンティン（２００５）【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261114221000 +0900" stop="20261115004000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]それでもボクはやってない</title>
-  </programme>
-  <programme start="20261115004000 +0900" stop="20261115030000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">Original Love Tour 2025 “BRIDGE CROSSERS TOUR”【BS10プレミアム独占ライブ</title>
-  </programme>
-  <programme start="20261115030000 +0900" stop="20261115035000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃７[吹]</title>
-  </programme>
-  <programme start="20261115035000 +0900" stop="20261115061000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ディスクロージャー</title>
-  </programme>
-  <programme start="20261115061000 +0900" stop="20261115080000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS][字]ダンケルク（２０１７）[吹]</title>
-  </programme>
-  <programme start="20261115080000 +0900" stop="20261115085000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２３話</title>
-  </programme>
-  <programme start="20261115085000 +0900" stop="20261115100000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２４話</title>
-  </programme>
   <programme start="20261115100000 +0900" stop="20261115123000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[無]★無料★『ＡＬＩＣＥ ＧＲＥＡＴ ５０ ＢＥＧＩＮＮＩＮＧ ２…</title>
   </programme>
@@ -60,5 +24,44 @@
   </programme>
   <programme start="20261115215000 +0900" stop="20261116003000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映][SS]ディパーテッド[吹]</title>
+  </programme>
+  <programme start="20261116003000 +0900" stop="20261116030000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ジャーニー ライブ・イン・ジャパン 2017【厳選プレミアムライブ－洋楽－】</title>
+  </programme>
+  <programme start="20261116030000 +0900" stop="20261116035000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃８[吹]</title>
+  </programme>
+  <programme start="20261116035000 +0900" stop="20261116060000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ザ・ブライド！</title>
+  </programme>
+  <programme start="20261116060000 +0900" stop="20261116083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]罪人たち</title>
+  </programme>
+  <programme start="20261116083000 +0900" stop="20261116093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第３１話「宇宙放送局の危機」</title>
+  </programme>
+  <programme start="20261116093000 +0900" stop="20261116113000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]ロッキー５／最後のドラマ[吹]【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261116113000 +0900" stop="20261116134500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">夏川りみ コンサートツアー“たびぐくる” 2026</title>
+  </programme>
+  <programme start="20261116134500 +0900" stop="20261116171000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ライトスタッフ［完全版］</title>
+  </programme>
+  <programme start="20261116171000 +0900" stop="20261116190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ダーティハリー【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261116190000 +0900" stop="20261116200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２５話</title>
+  </programme>
+  <programme start="20261116200000 +0900" stop="20261116224000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]君よ憤怒の河を渉れ【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261116224000 +0900" stop="20261116234000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ビヨンセ：Ｓｏｕｎｄ ｏｆ Ｃｈａｎｇｅ【厳選プレミアムライブ－洋楽－】</title>
+  </programme>
+  <programme start="20261116234000 +0900" stop="20261117020000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]楽園（２０１９）</title>
   </programme>
 </tv>
