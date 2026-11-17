@@ -4,48 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261116113000 +0900" stop="20261116134500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">夏川りみ コンサートツアー“たびぐくる” 2026</title>
-  </programme>
-  <programme start="20261116134500 +0900" stop="20261116171000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ライトスタッフ［完全版］</title>
-  </programme>
-  <programme start="20261116171000 +0900" stop="20261116190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ダーティハリー【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261116190000 +0900" stop="20261116200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２５話</title>
-  </programme>
-  <programme start="20261116200000 +0900" stop="20261116224000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]君よ憤怒の河を渉れ【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261116224000 +0900" stop="20261116234000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ビヨンセ：Ｓｏｕｎｄ ｏｆ Ｃｈａｎｇｅ【厳選プレミアムライブ－洋楽－】</title>
-  </programme>
-  <programme start="20261116234000 +0900" stop="20261117020000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]楽園（２０１９）</title>
-  </programme>
-  <programme start="20261117020000 +0900" stop="20261117035000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]マインクラフト／ザ・ムービー</title>
-  </programme>
-  <programme start="20261117035000 +0900" stop="20261117050000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃９[吹]</title>
-  </programme>
-  <programme start="20261117050000 +0900" stop="20261117053000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★ＢＳ１０プレミアム番組紹介</title>
-  </programme>
-  <programme start="20261117053000 +0900" stop="20261117083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]尼僧物語</title>
-  </programme>
-  <programme start="20261117083000 +0900" stop="20261117093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">サンダーバード[吹]［ＨＤ完全版］ 第３２話「すばらしいクリスマスプレゼント」</title>
-  </programme>
-  <programme start="20261117093000 +0900" stop="20261117111500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]ロッキー・ザ・ファイナル[吹]【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261117111500 +0900" stop="20261117120000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ロッキー：奇跡の誕生 ～スタローンが語る４０年目の真実～【シリーズ一挙放送】</title>
-  </programme>
   <programme start="20261117120000 +0900" stop="20261117141500 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">Ｔ－ＳＱＵＡＲＥ 「ＴＵＲＮ ＴＨＥ ＰＡＧＥ！」２０２５ @長崎</title>
   </programme>
@@ -63,5 +21,47 @@
   </programme>
   <programme start="20261117220000 +0900" stop="20261118004500 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">ビヨンセ＆ジェイ・Ｚ：Ｏｎ Ｔｈｅ Ｒｕｎ Ｔｏｕｒ</title>
+  </programme>
+  <programme start="20261118004500 +0900" stop="20261118034000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ミッション：インポッシブル／ファイナル・レコニング</title>
+  </programme>
+  <programme start="20261118034000 +0900" stop="20261118043000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＳＵＩＴＳ／スーツ シーズン９ ＃１０[吹]［最終話］</title>
+  </programme>
+  <programme start="20261118043000 +0900" stop="20261118063000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]アルカトラズからの脱出</title>
+  </programme>
+  <programme start="20261118063000 +0900" stop="20261118083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]シティ・オブ・エンジェル</title>
+  </programme>
+  <programme start="20261118083000 +0900" stop="20261118093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">スパイ大作戦［HD完全版］シーズン２ ＃1[吹]【あさドラマ】</title>
+  </programme>
+  <programme start="20261118093000 +0900" stop="20261118113000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]俺たちに明日はない</title>
+  </programme>
+  <programme start="20261118113000 +0900" stop="20261118130000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">麻倉未稀 45th Anniversary Live「My Soul」</title>
+  </programme>
+  <programme start="20261118130000 +0900" stop="20261118150000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]バトル・ロワイアル【報知映画賞受賞作特集～編成部が本気で選んだ傑作選～】</title>
+  </programme>
+  <programme start="20261118150000 +0900" stop="20261118172000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]マトリックス リローデッド【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261118172000 +0900" stop="20261118190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ダーティハリー３【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261118190000 +0900" stop="20261118200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２７話</title>
+  </programme>
+  <programme start="20261118200000 +0900" stop="20261118221000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]遙かなる山の呼び声【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261118221000 +0900" stop="20261118235000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ＬＥ ＶＥＬＶＥＴＳ 「Ｔｈｅ Ｒｉｓｉｎｇ Ｖｏｉｃｅｓ」２０２５</title>
+  </programme>
+  <programme start="20261118235000 +0900" stop="20261119020000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]スパイダーマンＴＭ（２００２）[吹]【シリーズ一挙放送】</title>
   </programme>
 </tv>

@@ -1,24 +1,23 @@
 # Combined guides.xml parity report
 
-- reference channels: 250
+- reference channels: 248
 - candidate channels: 244
-- missing channel IDs: 13
-- extra channel IDs: 7
+- missing channel IDs: 12
+- extra channel IDs: 8
 - metadata mismatches: 2
-- candidate programmes: 12685
-- reference programmes in candidate window: 15205
-- exact channel/start/stop/title matches: 11657
-- exact channel/start/stop matches: 11953
-- candidate exact-title match rate: 91.90%
-- candidate timing match rate: 94.23%
-- reference exact-title coverage: 76.67%
-- reference timing coverage: 78.61%
+- candidate programmes: 12890
+- reference programmes in candidate window: 15189
+- exact channel/start/stop/title matches: 11648
+- exact channel/start/stop matches: 11901
+- candidate exact-title match rate: 90.36%
+- candidate timing match rate: 92.33%
+- reference exact-title coverage: 76.69%
+- reference timing coverage: 78.35%
 
 ## Missing IDs
 - NHK山形・総合_jp
 - asia-drama-4
 - fishing
-- mahjong-2
 - mahoyo-special
 - rch_128
 - rch_129
@@ -30,6 +29,7 @@
 - 千葉テレビ_jp
 
 ## Extra IDs
+- boatrace
 - eyeshield
 - rch_100
 - rch_37
