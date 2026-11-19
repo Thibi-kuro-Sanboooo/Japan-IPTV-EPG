@@ -2,22 +2,22 @@
 
 - mapped channels: 7
 - missing channel IDs: 0
-- extra channel IDs: 7
+- extra channel IDs: 0
 - metadata mismatches: 0
-- candidate programmes: 245
-- reference programmes in candidate window: 0
-- exact channel/start/stop/title matches: 0
-- candidate match rate: 0.00%
-- reference coverage rate: 100.00%
+- candidate programmes: 248
+- reference programmes in candidate window: 265
+- exact channel/start/stop/title matches: 198
+- candidate match rate: 79.84%
+- reference coverage rate: 74.72%
 
 ## Per-channel parity
 
 | Channel | Candidate | Reference | Exact | Candidate match | Reference coverage |
 |---|---:|---:|---:|---:|---:|
-| Pigoo_jp | 18 | 0 | 0 | 0.00% | 100.00% |
-| 鉄道チャンネル_jp | 63 | 0 | 0 | 0.00% | 100.00% |
-| ミュージック・ジャパンTV_jp | 41 | 0 | 0 | 0.00% | 100.00% |
-| V-パラダイス_jp | 31 | 0 | 0 | 0.00% | 100.00% |
-| ヌーヴェルパラダイス_jp | 35 | 0 | 0 | 0.00% | 100.00% |
-| MUSIC-ON!-TV(エムオン!)_jp | 29 | 0 | 0 | 0.00% | 100.00% |
-| スカチャン-1_jp | 28 | 0 | 0 | 0.00% | 100.00% |
+| Pigoo_jp | 17 | 17 | 16 | 94.12% | 94.12% |
+| 鉄道チャンネル_jp | 64 | 67 | 43 | 67.19% | 64.18% |
+| ミュージック・ジャパンTV_jp | 43 | 47 | 26 | 60.47% | 55.32% |
+| V-パラダイス_jp | 32 | 34 | 31 | 96.88% | 91.18% |
+| ヌーヴェルパラダイス_jp | 35 | 38 | 32 | 91.43% | 84.21% |
+| MUSIC-ON!-TV(エムオン!)_jp | 26 | 29 | 26 | 100.00% | 89.66% |
+| スカチャン-1_jp | 31 | 33 | 24 | 77.42% | 72.73% |
