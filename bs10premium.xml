@@ -4,45 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261119124000 +0900" stop="20261119144000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]勝利への脱出</title>
-  </programme>
-  <programme start="20261119144000 +0900" stop="20261119170000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]マトリックス レボリューションズ【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261119170000 +0900" stop="20261119190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ダーティハリー４【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261119190000 +0900" stop="20261119200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２８話</title>
-  </programme>
-  <programme start="20261119200000 +0900" stop="20261119223000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]南極物語（１９８３）【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261119223000 +0900" stop="20261120000000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]プリンス サイン・オブ・ザ・タイムズ【厳選プレミアムライブ－洋楽－】</title>
-  </programme>
-  <programme start="20261120000000 +0900" stop="20261120023000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]スパイダーマンＴＭ２［エクステンデッド版］[吹]【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261120023000 +0900" stop="20261120050000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]昼下りの情事</title>
-  </programme>
-  <programme start="20261120050000 +0900" stop="20261120063000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]コブラ</title>
-  </programme>
-  <programme start="20261120063000 +0900" stop="20261120083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ザ・ゴールデンステージ第４弾 堀内孝雄・川中美幸【BS10プレミアム独占ライブ】</title>
-  </programme>
-  <programme start="20261120083000 +0900" stop="20261120093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">スパイ大作戦［HD完全版］シーズン２ ＃3[吹]【あさドラマ】</title>
-  </programme>
-  <programme start="20261120093000 +0900" stop="20261120102000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃２[吹]</title>
-  </programme>
-  <programme start="20261120102000 +0900" stop="20261120113000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ハラミちゃん HARAMI Premium Night 2026</title>
-  </programme>
   <programme start="20261120113000 +0900" stop="20261120133000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映]ラン・オールナイト[吹]</title>
   </programme>
@@ -66,5 +27,41 @@
   </programme>
   <programme start="20261120233000 +0900" stop="20261121002000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃３</title>
+  </programme>
+  <programme start="20261121002000 +0900" stop="20261121025000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]スパイダーマンＴＭ３[吹]【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261121025000 +0900" stop="20261121051500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS][字]マネーボール[吹]</title>
+  </programme>
+  <programme start="20261121051500 +0900" stop="20261121080000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]クライマーズ・ハイ</title>
+  </programme>
+  <programme start="20261121080000 +0900" stop="20261121085000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２５話</title>
+  </programme>
+  <programme start="20261121085000 +0900" stop="20261121100000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２６話</title>
+  </programme>
+  <programme start="20261121100000 +0900" stop="20261121120000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">由紀さおり YUKI SAORI in LA（2026）</title>
+  </programme>
+  <programme start="20261121120000 +0900" stop="20261121140000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]バッテリー</title>
+  </programme>
+  <programme start="20261121140000 +0900" stop="20261121160000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]００７／ドクター・ノオ[吹]</title>
+  </programme>
+  <programme start="20261121160000 +0900" stop="20261121180000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]００７／ロシアより愛をこめて[吹]</title>
+  </programme>
+  <programme start="20261121180000 +0900" stop="20261121200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]００７／ゴールドフィンガー[吹]</title>
+  </programme>
+  <programme start="20261121200000 +0900" stop="20261121222000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]アメイジング・スパイダーマンＴＭ【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261121222000 +0900" stop="20261122000000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ブリーダー（１９９９）</title>
   </programme>
 </tv>
