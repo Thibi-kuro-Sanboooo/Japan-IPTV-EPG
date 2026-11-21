@@ -1,18 +1,18 @@
 # Combined guides.xml parity report
 
-- reference channels: 251
+- reference channels: 253
 - candidate channels: 244
-- missing channel IDs: 14
+- missing channel IDs: 16
 - extra channel IDs: 7
 - metadata mismatches: 2
-- candidate programmes: 12323
-- reference programmes in candidate window: 15421
-- exact channel/start/stop/title matches: 11204
-- exact channel/start/stop matches: 11521
-- candidate exact-title match rate: 90.92%
-- candidate timing match rate: 93.49%
-- reference exact-title coverage: 72.65%
-- reference timing coverage: 74.71%
+- candidate programmes: 12425
+- reference programmes in candidate window: 15758
+- exact channel/start/stop/title matches: 11577
+- exact channel/start/stop matches: 11808
+- candidate exact-title match rate: 93.18%
+- candidate timing match rate: 95.03%
+- reference exact-title coverage: 73.47%
+- reference timing coverage: 74.93%
 
 ## Missing IDs
 - NHK山形・総合_jp
@@ -21,6 +21,7 @@
 - fishing
 - jumpfesta
 - mahoyo-special
+- motor-sport
 - rch_128
 - rch_129
 - rch_130
@@ -28,6 +29,7 @@
 - rch_132
 - rch_133
 - sumo
+- world-sports-2
 - 千葉テレビ_jp
 
 ## Extra IDs
