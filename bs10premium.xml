@@ -4,45 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261121120000 +0900" stop="20261121140000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]バッテリー</title>
-  </programme>
-  <programme start="20261121140000 +0900" stop="20261121160000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]００７／ドクター・ノオ[吹]</title>
-  </programme>
-  <programme start="20261121160000 +0900" stop="20261121180000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]００７／ロシアより愛をこめて[吹]</title>
-  </programme>
-  <programme start="20261121180000 +0900" stop="20261121200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]００７／ゴールドフィンガー[吹]</title>
-  </programme>
-  <programme start="20261121200000 +0900" stop="20261121222000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]アメイジング・スパイダーマンＴＭ【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261121222000 +0900" stop="20261122000000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ブリーダー（１９９９）</title>
-  </programme>
-  <programme start="20261122000000 +0900" stop="20261122021000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ユー・ガット・メール</title>
-  </programme>
-  <programme start="20261122021000 +0900" stop="20261122033000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">南佳孝＆杉山清貴 Ｈａｌｆ＆Ｈａｌｆ Ｘ’ｍａｓ ＬＩＶＥ ２０２５</title>
-  </programme>
-  <programme start="20261122033000 +0900" stop="20261122060000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]朝が来る</title>
-  </programme>
-  <programme start="20261122060000 +0900" stop="20261122080000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">加藤登紀子６０周年海外特別編～中国ハルビン＆バルト三国ラトビア公演～</title>
-  </programme>
-  <programme start="20261122080000 +0900" stop="20261122085000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２７話</title>
-  </programme>
-  <programme start="20261122085000 +0900" stop="20261122100000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２８話</title>
-  </programme>
-  <programme start="20261122100000 +0900" stop="20261122121000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無][映][SS]★無料★デンジャラス・ビューティー</title>
-  </programme>
   <programme start="20261122121000 +0900" stop="20261122141000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映][SS]デンジャラス・ビューティー２</title>
   </programme>
@@ -60,5 +21,41 @@
   </programme>
   <programme start="20261122223000 +0900" stop="20261123002000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映][SS]残された者 －北の極地－</title>
+  </programme>
+  <programme start="20261123002000 +0900" stop="20261123031500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">TOTO：デビュー40周年記念ライヴ 40ツアーズ・アラウンド・ザ・サン</title>
+  </programme>
+  <programme start="20261123031500 +0900" stop="20261123063000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]大脱走［4Kレストア版］【シネマラウンジ別館 舘ひろしセレクション】</title>
+  </programme>
+  <programme start="20261123063000 +0900" stop="20261123083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ザ・ゴールデンステージ第５弾 美川憲一・コロッケ【BS10プレミアム独占ライブ】</title>
+  </programme>
+  <programme start="20261123083000 +0900" stop="20261123093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">スパイ大作戦［HD完全版］シーズン２ ＃4[吹]【あさドラマ】</title>
+  </programme>
+  <programme start="20261123093000 +0900" stop="20261123100000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★ＢＳ１０プレミアム番組紹介</title>
+  </programme>
+  <programme start="20261123100000 +0900" stop="20261123120000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">辰巳ゆうとスペシャルコンサートツアー2026</title>
+  </programme>
+  <programme start="20261123120000 +0900" stop="20261123143000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]女王陛下の００７[吹]</title>
+  </programme>
+  <programme start="20261123143000 +0900" stop="20261123164000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]００７／ダイヤモンドは永遠に[吹]</title>
+  </programme>
+  <programme start="20261123164000 +0900" stop="20261123190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]ネバーセイ・ネバーアゲイン[吹]</title>
+  </programme>
+  <programme start="20261123190000 +0900" stop="20261123200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２９話</title>
+  </programme>
+  <programme start="20261123200000 +0900" stop="20261123221500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]湯を沸かすほどの熱い愛【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261123221500 +0900" stop="20261124003000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">Miki Imai Monument TOUR 1997 "PRIDE"</title>
   </programme>
 </tv>
