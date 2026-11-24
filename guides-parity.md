@@ -1,18 +1,18 @@
 # Combined guides.xml parity report
 
-- reference channels: 251
+- reference channels: 249
 - candidate channels: 244
-- missing channel IDs: 17
-- extra channel IDs: 10
+- missing channel IDs: 16
+- extra channel IDs: 11
 - metadata mismatches: 2
-- candidate programmes: 12554
-- reference programmes in candidate window: 14902
-- exact channel/start/stop/title matches: 11644
-- exact channel/start/stop matches: 11900
-- candidate exact-title match rate: 92.75%
-- candidate timing match rate: 94.79%
-- reference exact-title coverage: 78.14%
-- reference timing coverage: 79.86%
+- candidate programmes: 12262
+- reference programmes in candidate window: 17983
+- exact channel/start/stop/title matches: 11325
+- exact channel/start/stop matches: 11681
+- candidate exact-title match rate: 92.36%
+- candidate timing match rate: 95.26%
+- reference exact-title coverage: 62.98%
+- reference timing coverage: 64.96%
 
 ## Missing IDs
 - NHK山形・総合_jp
@@ -30,10 +30,10 @@
 - rch_134
 - rch_136
 - rch_137
-- world-sports-2
 - 千葉テレビ_jp
 
 ## Extra IDs
+- boatrace
 - eyeshield
 - rch_100
 - rch_35

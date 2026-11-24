@@ -4,48 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261123120000 +0900" stop="20261123143000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]女王陛下の００７[吹]</title>
-  </programme>
-  <programme start="20261123143000 +0900" stop="20261123164000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]００７／ダイヤモンドは永遠に[吹]</title>
-  </programme>
-  <programme start="20261123164000 +0900" stop="20261123190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]ネバーセイ・ネバーアゲイン[吹]</title>
-  </programme>
-  <programme start="20261123190000 +0900" stop="20261123200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２９話</title>
-  </programme>
-  <programme start="20261123200000 +0900" stop="20261123221500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]湯を沸かすほどの熱い愛【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261123221500 +0900" stop="20261124003000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">Miki Imai Monument TOUR 1997 "PRIDE"</title>
-  </programme>
-  <programme start="20261124003000 +0900" stop="20261124030000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]スーパーマン（１９７８）【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261124030000 +0900" stop="20261124042000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">シンディ・ローパー Front and Center Presents Cyndi Lauper</title>
-  </programme>
-  <programme start="20261124042000 +0900" stop="20261124045000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★ＢＳ１０プレミアム番組紹介</title>
-  </programme>
-  <programme start="20261124045000 +0900" stop="20261124061000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">荻野目洋子ＬＩＶＥ２０２５“Ｏｕｒ Ｓｔｏｒｙ Ｃｏｎｔｉｎｕｅｓ”</title>
-  </programme>
-  <programme start="20261124061000 +0900" stop="20261124083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]マトリックス[吹]【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261124083000 +0900" stop="20261124093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">スパイ大作戦［HD完全版］シーズン２ ＃5[吹]【あさドラマ】</title>
-  </programme>
-  <programme start="20261124093000 +0900" stop="20261124120000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]犯罪都市【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261124120000 +0900" stop="20261124141000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★二見颯一＆原田波人 ｉｎ ＪＺ Ｂｒａｔ</title>
-  </programme>
   <programme start="20261124141000 +0900" stop="20261124165000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映]君よ憤怒の河を渉れ【2ヵ月連続 ザ・レジェンド：高倉健PART1】</title>
   </programme>
@@ -60,5 +18,47 @@
   </programme>
   <programme start="20261124221500 +0900" stop="20261125001000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">今井美樹 CONCERT TOUR 2014 “Dialogue” -Live at Osaka Festival Hall-</title>
+  </programme>
+  <programme start="20261125001000 +0900" stop="20261125023000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]スーパーマン II 冒険編【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261125023000 +0900" stop="20261125051500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ボン・ジョヴィ Live in New York【厳選プレミアムライブ－洋楽－】</title>
+  </programme>
+  <programme start="20261125051500 +0900" stop="20261125060000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">アリス武道館ライヴ ’７８（栄光への脱出）［デジタル・リマスター版］</title>
+  </programme>
+  <programme start="20261125060000 +0900" stop="20261125083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]マトリックス リローデッド[吹]【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261125083000 +0900" stop="20261125093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">スパイ大作戦［HD完全版］シーズン２ ＃6[吹]【あさドラマ】</title>
+  </programme>
+  <programme start="20261125093000 +0900" stop="20261125112000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]犯罪都市 ＴＨＥ ＲＯＵＮＤＵＰ【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261125112000 +0900" stop="20261125130000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">３人の歌仲間スペシャル 松尾雄史・三丘翔太・二見颯一・青山新</title>
+  </programme>
+  <programme start="20261125130000 +0900" stop="20261125150000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]幸福の黄色いハンカチ デジタルリマスター版</title>
+  </programme>
+  <programme start="20261125150000 +0900" stop="20261125171000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ロッキー２【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261125171000 +0900" stop="20261125190000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ロッキー３【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261125190000 +0900" stop="20261125200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第３１話</title>
+  </programme>
+  <programme start="20261125200000 +0900" stop="20261125221000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ルーキー【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261125221000 +0900" stop="20261125231000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">中森明菜 Live in '88・Femme Fatale</title>
+  </programme>
+  <programme start="20261125231000 +0900" stop="20261126012000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]スーパーマン III 電子の要塞【シリーズ一挙放送】</title>
   </programme>
 </tv>
