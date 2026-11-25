@@ -20,37 +20,17 @@
     <display-name lang="ja">フジ系</display-name>
     <icon src="https://statics.tver.jp/images/icon/cx.jpg" />
   </channel>
-  <programme start="20261124043000 +0900" stop="20261124190000 +0900" channel="tver_ntv">
-    <title lang="ja">配信休止</title>
-    <desc lang="ja">配信休止</desc>
-  </programme>
-  <programme start="20261124190000 +0900" stop="20261124200000 +0900" channel="tver_ntv">
-    <title lang="ja">ヒューマングルメンタリー オモウマい店</title>
-    <desc lang="ja">【山梨】大寝坊店主の3合ゆで玉チャーハン&amp;トロトロ豚じゃがいも丼</desc>
-  </programme>
-  <programme start="20261124200000 +0900" stop="20261124210000 +0900" channel="tver_ntv">
-    <title lang="ja">踊る!さんま御殿!!</title>
-    <desc lang="ja">ベテラン妻vs新婚妻SP超嫉妬深い16歳下妻&amp;ウザすぎ箱根駅伝夫</desc>
-  </programme>
-  <programme start="20261124210000 +0900" stop="20261124225400 +0900" channel="tver_ntv">
-    <title lang="ja">X秒後の新世界</title>
-    <desc lang="ja">2時間SP大遅刻…人間は反省したらナニ食べる?足速くなる(秘)法検証</desc>
-  </programme>
-  <programme start="20261124225400 +0900" stop="20261125043000 +0900" channel="tver_ntv">
-    <title lang="ja">配信休止</title>
-    <desc lang="ja">配信休止</desc>
-  </programme>
   <programme start="20261125043000 +0900" stop="20261125190000 +0900" channel="tver_ntv">
     <title lang="ja">配信休止</title>
     <desc lang="ja">配信休止</desc>
   </programme>
   <programme start="20261125190000 +0900" stop="20261125210000 +0900" channel="tver_ntv">
     <title lang="ja">千鳥かまいたちゴールデンアワー</title>
-    <desc lang="ja">【紅白決定!=LOVE参戦】ご当地キャラぐんまちゃんの苦労…?</desc>
+    <desc lang="ja">【ご当地クイズSP】ぐんまちゃん(秘)密着大公開&amp;宇宙人作る謎の男</desc>
   </programme>
   <programme start="20261125210000 +0900" stop="20261125215400 +0900" channel="tver_ntv">
     <title lang="ja">上田と女が吠える夜</title>
-    <desc lang="ja">強く生きる女性たちの目線で今の時代を紐解く痛快トークバラエティー！</desc>
+    <desc lang="ja">「名もなき家事」が面倒だ誰にも感謝されない…今夜は不満大爆発</desc>
   </programme>
   <programme start="20261125215400 +0900" stop="20261125220000 +0900" channel="tver_ntv">
     <title lang="ja">お知らせ</title>
@@ -58,62 +38,57 @@
   </programme>
   <programme start="20261125220000 +0900" stop="20261125225400 +0900" channel="tver_ntv">
     <title lang="ja">メリーベリーラブ</title>
-    <desc lang="ja">#08</desc>
+    <desc lang="ja">#08愛の同居生活開始!世界が沼ってる超純愛ラブコメディ!</desc>
   </programme>
   <programme start="20261125225400 +0900" stop="20261126043000 +0900" channel="tver_ntv">
     <title lang="ja">配信休止</title>
     <desc lang="ja">配信休止</desc>
   </programme>
-  <programme start="20261124190000 +0900" stop="20261124215400 +0900" channel="tver_ex">
-    <title lang="ja">孝太郎＆ちさ子　プラチナファミリー 華麗なる一家をのぞき見</title>
-    <desc lang="ja">コシノ三姉妹がついにスタジオ初登場！年に一度だけ揃う貴重な素顔に密着▽「世界の○○」と呼ばれ親子二代で偉業＆偉人の末裔＆鬼の末裔…世界的一家が大集合の３時間ＳＰ</desc>
+  <programme start="20261126043000 +0900" stop="20261126190000 +0900" channel="tver_ntv">
+    <title lang="ja">配信休止</title>
+    <desc lang="ja">配信休止</desc>
   </programme>
-  <programme start="20261124215400 +0900" stop="20261124231000 +0900" channel="tver_ex">
-    <title lang="ja">報道ステーション</title>
-    <desc lang="ja">辞任論浮上も、関大臣…野党追及「問責に値」▽赤字ローカル線、存廃…初めて国が方針判断へ▽各地で台風並み暴風▽車いす投手が世界一▽八村塁ほか</desc>
+  <programme start="20261126190000 +0900" stop="20261126205400 +0900" channel="tver_ntv">
+    <title lang="ja">クイズ!あなたは小学5年生より賢いの?</title>
+    <desc lang="ja">賞金1000万円SP</desc>
+  </programme>
+  <programme start="20261126205400 +0900" stop="20261126215400 +0900" channel="tver_ntv">
+    <title lang="ja">秘密のケンミンSHOW極</title>
+    <desc lang="ja">沖縄は汁の楽園!?大阪居酒屋で「座敷あるやん」</desc>
+  </programme>
+  <programme start="20261126215400 +0900" stop="20261126220000 +0900" channel="tver_ntv">
+    <title lang="ja">お知らせ</title>
+    <desc lang="ja">リアルタイム配信予定の番組は「日テレ系」タブよりご確認いただけます。</desc>
+  </programme>
+  <programme start="20261126220000 +0900" stop="20261126225400 +0900" channel="tver_ntv">
+    <title lang="ja">見取り図の間取り図ミステリー</title>
+    <desc lang="ja">故郷の島&amp;新企画スペシャル</desc>
+  </programme>
+  <programme start="20261126225400 +0900" stop="20261127043000 +0900" channel="tver_ntv">
+    <title lang="ja">配信休止</title>
+    <desc lang="ja">配信休止</desc>
   </programme>
   <programme start="20261125210000 +0900" stop="20261125215400 +0900" channel="tver_ex">
     <title lang="ja">相棒 season25</title>
-    <desc lang="ja">第６話『プラネタリウム』
-警察官の死は自殺か、他殺か!?
-元恋人の捜一刑事と失踪した妻…。
-特命係が隠された秘密を暴く!!</desc>
+    <desc lang="ja">第6話「プラネタリウム」</desc>
   </programme>
   <programme start="20261125215400 +0900" stop="20261125231000 +0900" channel="tver_ex">
     <title lang="ja">報道ステーション</title>
+    <desc lang="ja">制裁対象、ＩＣＣ赤根氏…大越健介が今の胸中に迫る▽消費税審議にも影響…関文科大臣“進退”は▽全国的に師走の寒さ▽プロ野球ＭＶＰは？▽鈴木彩艶</desc>
+  </programme>
+  <programme start="20261126190000 +0900" stop="20261126210000 +0900" channel="tver_ex">
+    <title lang="ja">林修の今知りたいでしょ！</title>
+    <desc lang="ja">２０２６年最新研究！糖質だからって“悪”ではない！健康パワーから美味しい食べ方まで
+「お米」の新常識完全マスターＳＰ</desc>
+  </programme>
+  <programme start="20261126210000 +0900" stop="20261126215400 +0900" channel="tver_ex">
+    <title lang="ja">アナログナース～デジタルってなんなんだよ!?～</title>
+    <desc lang="ja">「ドクターＸ」「ザ・トラベルナース」の世界線が交差する医療３部作の集大成！
+【松下奈緒・主演×中園ミホ・脚本】新時代の痛快医療ドラマ！</desc>
+  </programme>
+  <programme start="20261126215400 +0900" stop="20261126231000 +0900" channel="tver_ex">
+    <title lang="ja">報道ステーション</title>
     <desc lang="ja">「今」という世界を見つめる。激動の時代の流れと世界のうねりを真正面から。平日よる９時５４分。大越健介キャスターがお伝えします。</desc>
-  </programme>
-  <programme start="20261124043000 +0900" stop="20261124080000 +0900" channel="tver_tbs">
-    <title lang="ja">配信休止</title>
-    <desc lang="ja">配信休止</desc>
-  </programme>
-  <programme start="20261124080000 +0900" stop="20261124095500 +0900" channel="tver_tbs">
-    <title lang="ja">ラヴィット！</title>
-    <desc lang="ja">相武紗季が初参戦！スノ宮舘らとグルメ心理戦＆秋田写真旅…なまはげ衝撃</desc>
-  </programme>
-  <programme start="20261124095500 +0900" stop="20261124190000 +0900" channel="tver_tbs">
-    <title lang="ja">配信休止</title>
-    <desc lang="ja">配信休止</desc>
-  </programme>
-  <programme start="20261124190000 +0900" stop="20261124200000 +0900" channel="tver_tbs">
-    <title lang="ja">THE神業チャレンジ</title>
-    <desc lang="ja">▼セブン-イレブンの神と弁当売上バトル！★ぷよぷよ金メダルの超神業</desc>
-  </programme>
-  <programme start="20261124200000 +0900" stop="20261124205500 +0900" channel="tver_tbs">
-    <title lang="ja">バナナサンド</title>
-    <desc lang="ja">GENERATIONS数原龍友＆小森隼ハモリ我慢リベンジSP</desc>
-  </programme>
-  <programme start="20261124205500 +0900" stop="20261124220000 +0900" channel="tver_tbs">
-    <title lang="ja">マツコの知らない世界</title>
-    <desc lang="ja">もつ鍋・明太子・豚骨ラーメンだけじゃない！博多メシの世界</desc>
-  </programme>
-  <programme start="20261124220000 +0900" stop="20261124230000 +0900" channel="tver_tbs">
-    <title lang="ja">いろはの恋は時代をかける</title>
-    <desc lang="ja">＃７【江戸娘が一人暮らし?!言えない想い】</desc>
-  </programme>
-  <programme start="20261124230000 +0900" stop="20261125043000 +0900" channel="tver_tbs">
-    <title lang="ja">配信休止</title>
-    <desc lang="ja">配信休止</desc>
   </programme>
   <programme start="20261125043000 +0900" stop="20261125080000 +0900" channel="tver_tbs">
     <title lang="ja">配信休止</title>
@@ -139,37 +114,25 @@
     <title lang="ja">配信休止</title>
     <desc lang="ja">配信休止</desc>
   </programme>
-  <programme start="20261124040000 +0900" stop="20261124182500 +0900" channel="tver_tx">
-    <title lang="ja">配信準備中</title>
-    <desc lang="ja">配信準備中</desc>
+  <programme start="20261126043000 +0900" stop="20261126080000 +0900" channel="tver_tbs">
+    <title lang="ja">配信休止</title>
+    <desc lang="ja">配信休止</desc>
   </programme>
-  <programme start="20261124182500 +0900" stop="20261124205400 +0900" channel="tver_tx">
-    <title lang="ja">世界が騒然！本当にあった(秘)衝撃ファイル</title>
-    <desc lang="ja">(秘)衝撃ファイル~【廃業寸前レストラン再生】33歳女性殺害…女性敏腕捜査官の執念</desc>
+  <programme start="20261126080000 +0900" stop="20261126095500 +0900" channel="tver_tbs">
+    <title lang="ja">ラヴィット！</title>
+    <desc lang="ja">&amp;TEAM・Kとジェラードン参戦!▼かわいい動物LIVEカメラQ▼良い親選手権</desc>
   </programme>
-  <programme start="20261124205400 +0900" stop="20261124215500 +0900" channel="tver_tx">
-    <title lang="ja">開運！なんでも鑑定団</title>
-    <desc lang="ja">開運！なんでも鑑定団【北原白秋ゆかりの宝＆5000年前の人面土器に仰天値！】</desc>
+  <programme start="20261126095500 +0900" stop="20261126205400 +0900" channel="tver_tbs">
+    <title lang="ja">配信休止</title>
+    <desc lang="ja">配信休止</desc>
   </programme>
-  <programme start="20261124215500 +0900" stop="20261124220000 +0900" channel="tver_tx">
-    <title lang="ja">配信準備中</title>
-    <desc lang="ja">配信準備中</desc>
+  <programme start="20261126205400 +0900" stop="20261126225700 +0900" channel="tver_tbs">
+    <title lang="ja">ゴールデンラヴィット！</title>
+    <desc lang="ja">総勢８０人が参戦！スポーツ＆音楽＆クイズ＆ビリビリの祭典!!</desc>
   </programme>
-  <programme start="20261124220000 +0900" stop="20261124225800 +0900" channel="tver_tx">
-    <title lang="ja">ＷＢＳ（ワールドビジネスサテライト）</title>
-    <desc lang="ja">ＷＢＳ【NVIDIAフアン氏復帰で日経平均6万円台はいつ？▼再開発続く新宿を解剖】</desc>
-  </programme>
-  <programme start="20261124225800 +0900" stop="20261124230600 +0900" channel="tver_tx">
-    <title lang="ja">配信準備中</title>
-    <desc lang="ja">配信準備中</desc>
-  </programme>
-  <programme start="20261124230600 +0900" stop="20261124235500 +0900" channel="tver_tx">
-    <title lang="ja">世の中お金で見てみよう～火曜ヨルの学べる経済～</title>
-    <desc lang="ja">世の中お金で見てみよう</desc>
-  </programme>
-  <programme start="20261124235500 +0900" stop="20261125040000 +0900" channel="tver_tx">
-    <title lang="ja">配信準備中</title>
-    <desc lang="ja">配信準備中</desc>
+  <programme start="20261126225700 +0900" stop="20261127043000 +0900" channel="tver_tbs">
+    <title lang="ja">配信休止</title>
+    <desc lang="ja">配信休止</desc>
   </programme>
   <programme start="20261125040000 +0900" stop="20261125220000 +0900" channel="tver_tx">
     <title lang="ja">配信準備中</title>
@@ -191,37 +154,33 @@
     <title lang="ja">配信準備中</title>
     <desc lang="ja">配信準備中</desc>
   </programme>
-  <programme start="20261124154200 +0900" stop="20261124190000 +0900" channel="tver_cx">
-    <title lang="ja">配信番組のお知らせ</title>
-    <desc lang="ja">🎞️🎥🎬</desc>
+  <programme start="20261126040000 +0900" stop="20261126203000 +0900" channel="tver_tx">
+    <title lang="ja">配信準備中</title>
+    <desc lang="ja">配信準備中</desc>
   </programme>
-  <programme start="20261124190000 +0900" stop="20261124210000 +0900" channel="tver_cx">
-    <title lang="ja">配信番組のお知らせ</title>
-    <desc lang="ja">🎞️🎥🎬</desc>
+  <programme start="20261126203000 +0900" stop="20261126215400 +0900" channel="tver_tx">
+    <title lang="ja">ナゼそこ？＋</title>
+    <desc lang="ja">ナゼそこ？　がんで他界した妻が10年隠した秘密…涙の別れ＆全て失った作曲家SP</desc>
   </programme>
-  <programme start="20261124210000 +0900" stop="20261124215400 +0900" channel="tver_cx">
-    <title lang="ja">kiDnap GAME</title>
-    <desc lang="ja">第8話 母に伝えたい言葉！愛憎の果て…全てを賭けた男</desc>
+  <programme start="20261126215400 +0900" stop="20261126220000 +0900" channel="tver_tx">
+    <title lang="ja">配信準備中</title>
+    <desc lang="ja">配信準備中</desc>
   </programme>
-  <programme start="20261124215400 +0900" stop="20261124220000 +0900" channel="tver_cx">
-    <title lang="ja">配信番組のお知らせ</title>
-    <desc lang="ja">🎞️🎥🎬</desc>
+  <programme start="20261126220000 +0900" stop="20261126225800 +0900" channel="tver_tx">
+    <title lang="ja">ＷＢＳ（ワールドビジネスサテライト）</title>
+    <desc lang="ja">ＷＢＳ</desc>
   </programme>
-  <programme start="20261124220000 +0900" stop="20261124225400 +0900" channel="tver_cx">
-    <title lang="ja">火曜は全力！華大さんと千鳥くん</title>
-    <desc lang="ja">ボケ芸人だらけ６連単！ホリケン＆くっきー！＆パンサー尾形</desc>
+  <programme start="20261126225800 +0900" stop="20261126230600 +0900" channel="tver_tx">
+    <title lang="ja">配信準備中</title>
+    <desc lang="ja">配信準備中</desc>
   </programme>
-  <programme start="20261124225400 +0900" stop="20261124230000 +0900" channel="tver_cx">
-    <title lang="ja">配信番組のお知らせ</title>
-    <desc lang="ja">🎞️🎥🎬</desc>
+  <programme start="20261126230600 +0900" stop="20261126235500 +0900" channel="tver_tx">
+    <title lang="ja">カンブリア宮殿</title>
+    <desc lang="ja">カンブリア宮殿【村上龍×経営者1000人】</desc>
   </programme>
-  <programme start="20261124230000 +0900" stop="20261124233000 +0900" channel="tver_cx">
-    <title lang="ja">超巡！超条先輩</title>
-    <desc lang="ja">8話 最強（？）バディ！超能力ポリスコメディ！</desc>
-  </programme>
-  <programme start="20261124233000 +0900" stop="20261125001500 +0900" channel="tver_cx">
-    <title lang="ja">配信番組のお知らせ</title>
-    <desc lang="ja">🎞️🎥🎬</desc>
+  <programme start="20261126235500 +0900" stop="20261127040000 +0900" channel="tver_tx">
+    <title lang="ja">配信準備中</title>
+    <desc lang="ja">配信準備中</desc>
   </programme>
   <programme start="20261125154200 +0900" stop="20261125190000 +0900" channel="tver_cx">
     <title lang="ja">配信番組のお知らせ</title>
@@ -252,6 +211,34 @@
     <desc lang="ja">#8 初めて話す互いの本音</desc>
   </programme>
   <programme start="20261125233000 +0900" stop="20261126001500 +0900" channel="tver_cx">
+    <title lang="ja">配信番組のお知らせ</title>
+    <desc lang="ja">🎞️🎥🎬</desc>
+  </programme>
+  <programme start="20261126154200 +0900" stop="20261126190000 +0900" channel="tver_cx">
+    <title lang="ja">配信番組のお知らせ</title>
+    <desc lang="ja">🎞️🎥🎬</desc>
+  </programme>
+  <programme start="20261126190000 +0900" stop="20261126215400 +0900" channel="tver_cx">
+    <title lang="ja">潜入！リアルスコープ</title>
+    <desc lang="ja">▼初潜入SP▼ちいかわコラボ裏側▼スシロー＆くら寿司の進化</desc>
+  </programme>
+  <programme start="20261126215400 +0900" stop="20261126220000 +0900" channel="tver_cx">
+    <title lang="ja">配信番組のお知らせ</title>
+    <desc lang="ja">🎞️🎥🎬</desc>
+  </programme>
+  <programme start="20261126220000 +0900" stop="20261126225400 +0900" channel="tver_cx">
+    <title lang="ja">波うららかに、めおと日和</title>
+    <desc lang="ja">第7話 優しさと強さを胸に—新天地へ</desc>
+  </programme>
+  <programme start="20261126225400 +0900" stop="20261126230000 +0900" channel="tver_cx">
+    <title lang="ja">配信番組のお知らせ</title>
+    <desc lang="ja">🎞️🎥🎬</desc>
+  </programme>
+  <programme start="20261126230000 +0900" stop="20261126233000 +0900" channel="tver_cx">
+    <title lang="ja">くりぃむトーク！超体験！？グランプリ</title>
+    <desc lang="ja">★99岡村隆史＆上田15年ぶり共演！㊙裏話</desc>
+  </programme>
+  <programme start="20261126233000 +0900" stop="20261127001500 +0900" channel="tver_cx">
     <title lang="ja">配信番組のお知らせ</title>
     <desc lang="ja">🎞️🎥🎬</desc>
   </programme>

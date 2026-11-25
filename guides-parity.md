@@ -5,14 +5,14 @@
 - missing channel IDs: 16
 - extra channel IDs: 11
 - metadata mismatches: 2
-- candidate programmes: 12262
-- reference programmes in candidate window: 17983
-- exact channel/start/stop/title matches: 11325
-- exact channel/start/stop matches: 11681
-- candidate exact-title match rate: 92.36%
-- candidate timing match rate: 95.26%
-- reference exact-title coverage: 62.98%
-- reference timing coverage: 64.96%
+- candidate programmes: 12119
+- reference programmes in candidate window: 16079
+- exact channel/start/stop/title matches: 11320
+- exact channel/start/stop matches: 11585
+- candidate exact-title match rate: 93.41%
+- candidate timing match rate: 95.59%
+- reference exact-title coverage: 70.40%
+- reference timing coverage: 72.05%
 
 ## Missing IDs
 - NHK山形・総合_jp
