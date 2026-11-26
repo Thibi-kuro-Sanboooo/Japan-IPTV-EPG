@@ -4,45 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261125130000 +0900" stop="20261125150000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]幸福の黄色いハンカチ デジタルリマスター版</title>
-  </programme>
-  <programme start="20261125150000 +0900" stop="20261125171000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ロッキー２【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261125171000 +0900" stop="20261125190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ロッキー３【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261125190000 +0900" stop="20261125200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第３１話</title>
-  </programme>
-  <programme start="20261125200000 +0900" stop="20261125221000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ルーキー【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261125221000 +0900" stop="20261125231000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">中森明菜 Live in '88・Femme Fatale</title>
-  </programme>
-  <programme start="20261125231000 +0900" stop="20261126012000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]スーパーマン III 電子の要塞【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261126012000 +0900" stop="20261126040000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ディパーテッド</title>
-  </programme>
-  <programme start="20261126040000 +0900" stop="20261126061500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">マドンナ：Ｃｏｎｆｅｓｓｉｏｎｓ Ｔｏｕｒ【厳選プレミアムライブ－洋楽－】</title>
-  </programme>
-  <programme start="20261126061500 +0900" stop="20261126083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]マトリックス レボリューションズ[吹]</title>
-  </programme>
-  <programme start="20261126083000 +0900" stop="20261126093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">スパイ大作戦［HD完全版］シーズン２ ＃7[吹]【あさドラマ】</title>
-  </programme>
-  <programme start="20261126093000 +0900" stop="20261126112000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]犯罪都市 ＮＯ ＷＡＹ ＯＵＴ【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261126112000 +0900" stop="20261126130000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">二見颯一＆青山新 ライブハウスツアー2025 日本橋三井ホール</title>
-  </programme>
   <programme start="20261126130000 +0900" stop="20261126151500 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映]遙かなる山の呼び声【2ヵ月連続 ザ・レジェンド：高倉健PART1】</title>
   </programme>
@@ -63,5 +24,47 @@
   </programme>
   <programme start="20261126235000 +0900" stop="20261127013000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映]スーパーマン４／最強の敵【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261127013000 +0900" stop="20261127035000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ザ・ブライド！</title>
+  </programme>
+  <programme start="20261127035000 +0900" stop="20261127060000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">Ｔ－ＳＱＵＡＲＥ 「ＴＵＲＮ ＴＨＥ ＰＡＧＥ！」２０２５ @長崎</title>
+  </programme>
+  <programme start="20261127060000 +0900" stop="20261127083000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]マトリックス レザレクションズ[吹]【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261127083000 +0900" stop="20261127093000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">スパイ大作戦［HD完全版］シーズン２ ＃8[吹]【あさドラマ】</title>
+  </programme>
+  <programme start="20261127093000 +0900" stop="20261127103000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃３[吹]</title>
+  </programme>
+  <programme start="20261127103000 +0900" stop="20261127123000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]犯罪都市 ＰＵＮＩＳＨＭＥＮＴ【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261127123000 +0900" stop="20261127130000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★ＢＳ１０プレミアム番組紹介</title>
+  </programme>
+  <programme start="20261127130000 +0900" stop="20261127144500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★ザ・ゴールデンステージ特別編 鳥羽一郎</title>
+  </programme>
+  <programme start="20261127144500 +0900" stop="20261127171500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]南極物語（１９８３）</title>
+  </programme>
+  <programme start="20261127171500 +0900" stop="20261127191000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ロッキー・ザ・ファイナル【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261127191000 +0900" stop="20261127200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ロッキー：奇跡の誕生 ～スタローンが語る４０年目の真実～【シリーズ一挙放送】</title>
+  </programme>
+  <programme start="20261127200000 +0900" stop="20261127210000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">中山秀征の有楽町で逢いまSHOW♪＃１３</title>
+  </programme>
+  <programme start="20261127210000 +0900" stop="20261127223000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">杏子 「Just Today Vol.3」～KYOKO EXPO～</title>
+  </programme>
+  <programme start="20261127223000 +0900" stop="20261128000000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">相川七瀬 ３０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ～ＭＯＯＮ ＤＡＮＣＥ～</title>
   </programme>
 </tv>

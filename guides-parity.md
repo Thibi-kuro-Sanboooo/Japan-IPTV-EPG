@@ -1,18 +1,18 @@
 # Combined guides.xml parity report
 
-- reference channels: 249
+- reference channels: 248
 - candidate channels: 244
-- missing channel IDs: 16
+- missing channel IDs: 15
 - extra channel IDs: 11
 - metadata mismatches: 2
-- candidate programmes: 12119
-- reference programmes in candidate window: 16079
-- exact channel/start/stop/title matches: 11320
-- exact channel/start/stop matches: 11585
-- candidate exact-title match rate: 93.41%
-- candidate timing match rate: 95.59%
-- reference exact-title coverage: 70.40%
-- reference timing coverage: 72.05%
+- candidate programmes: 12193
+- reference programmes in candidate window: 17740
+- exact channel/start/stop/title matches: 11216
+- exact channel/start/stop matches: 11521
+- candidate exact-title match rate: 91.99%
+- candidate timing match rate: 94.49%
+- reference exact-title coverage: 63.22%
+- reference timing coverage: 64.94%
 
 ## Missing IDs
 - NHK山形・総合_jp
@@ -20,7 +20,6 @@
 - chiikawa
 - fishing
 - jumpfesta
-- mahoyo-special
 - rch_128
 - rch_129
 - rch_130
