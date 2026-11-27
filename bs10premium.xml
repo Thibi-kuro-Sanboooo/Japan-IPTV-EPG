@@ -4,48 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261126130000 +0900" stop="20261126151500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]遙かなる山の呼び声【2ヵ月連続 ザ・レジェンド：高倉健PART1】</title>
-  </programme>
-  <programme start="20261126151500 +0900" stop="20261126170000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ロッキー４／炎の友情【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261126170000 +0900" stop="20261126190000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ロッキー５／最後のドラマ【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261126190000 +0900" stop="20261126200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第３２話</title>
-  </programme>
-  <programme start="20261126200000 +0900" stop="20261126221000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]目撃【プレミアムシアター８】</title>
-  </programme>
-  <programme start="20261126221000 +0900" stop="20261126235000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">中森明菜 AKINA NAKAMORI LIVE TOUR 2006 The Last Destination</title>
-  </programme>
-  <programme start="20261126235000 +0900" stop="20261127013000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]スーパーマン４／最強の敵【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261127013000 +0900" stop="20261127035000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ザ・ブライド！</title>
-  </programme>
-  <programme start="20261127035000 +0900" stop="20261127060000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">Ｔ－ＳＱＵＡＲＥ 「ＴＵＲＮ ＴＨＥ ＰＡＧＥ！」２０２５ @長崎</title>
-  </programme>
-  <programme start="20261127060000 +0900" stop="20261127083000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]マトリックス レザレクションズ[吹]【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261127083000 +0900" stop="20261127093000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">スパイ大作戦［HD完全版］シーズン２ ＃8[吹]【あさドラマ】</title>
-  </programme>
-  <programme start="20261127093000 +0900" stop="20261127103000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃３[吹]</title>
-  </programme>
-  <programme start="20261127103000 +0900" stop="20261127123000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]犯罪都市 ＰＵＮＩＳＨＭＥＮＴ【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261127123000 +0900" stop="20261127130000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★ＢＳ１０プレミアム番組紹介</title>
-  </programme>
   <programme start="20261127130000 +0900" stop="20261127144500 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[無]★無料★ザ・ゴールデンステージ特別編 鳥羽一郎</title>
   </programme>
@@ -66,5 +24,50 @@
   </programme>
   <programme start="20261127223000 +0900" stop="20261128000000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">相川七瀬 ３０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ～ＭＯＯＮ ＤＡＮＣＥ～</title>
+  </programme>
+  <programme start="20261128000000 +0900" stop="20261128005000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃４</title>
+  </programme>
+  <programme start="20261128005000 +0900" stop="20261128025000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]失楽園</title>
+  </programme>
+  <programme start="20261128025000 +0900" stop="20261128034500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ビヨンセ：Ｓｏｕｎｄ ｏｆ Ｃｈａｎｇｅ【厳選プレミアムライブ－洋楽－】</title>
+  </programme>
+  <programme start="20261128034500 +0900" stop="20261128060000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">元ちとせ ２０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｓｐｅｃｉａｌ Ｌｉｖｅ</title>
+  </programme>
+  <programme start="20261128060000 +0900" stop="20261128080000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]勝利への脱出【モーニングシアター】</title>
+  </programme>
+  <programme start="20261128080000 +0900" stop="20261128085000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第２９話</title>
+  </programme>
+  <programme start="20261128085000 +0900" stop="20261128100000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第３０話</title>
+  </programme>
+  <programme start="20261128100000 +0900" stop="20261128120000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ザ・ゴールデンステージ第12弾 熱唱！新世代ファイブスタースペシャル</title>
+  </programme>
+  <programme start="20261128120000 +0900" stop="20261128123000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★ＢＳ１０プレミアム番組紹介</title>
+  </programme>
+  <programme start="20261128123000 +0900" stop="20261128143000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]あぶない刑事リターンズ</title>
+  </programme>
+  <programme start="20261128143000 +0900" stop="20261128162000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事フォーエヴァー ＴＶスペシャル’９８</title>
+  </programme>
+  <programme start="20261128162000 +0900" stop="20261128183000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]あぶない刑事フォーエヴァー ＴＨＥ ＭＯＶＩＥ</title>
+  </programme>
+  <programme start="20261128183000 +0900" stop="20261128200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">柴田恭兵『KYOHEI SHIBATA ’89 CONCERT AGAIN ～そしてこの夜に～』</title>
+  </programme>
+  <programme start="20261128200000 +0900" stop="20261128220000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]モータルコンバット／ネクストラウンド【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261128220000 +0900" stop="20261129010000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">スキマスイッチ TOUR 2026 “POPMAN’S CARNIVAL vol.3”</title>
   </programme>
 </tv>
