@@ -4,54 +4,6 @@
     <display-name lang="ja">BS10プレミアム</display-name>
     <icon src="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg" />
   </channel>
-  <programme start="20261127130000 +0900" stop="20261127144500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★ザ・ゴールデンステージ特別編 鳥羽一郎</title>
-  </programme>
-  <programme start="20261127144500 +0900" stop="20261127171500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]南極物語（１９８３）</title>
-  </programme>
-  <programme start="20261127171500 +0900" stop="20261127191000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映][SS]ロッキー・ザ・ファイナル【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261127191000 +0900" stop="20261127200000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ロッキー：奇跡の誕生 ～スタローンが語る４０年目の真実～【シリーズ一挙放送】</title>
-  </programme>
-  <programme start="20261127200000 +0900" stop="20261127210000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">中山秀征の有楽町で逢いまSHOW♪＃１３</title>
-  </programme>
-  <programme start="20261127210000 +0900" stop="20261127223000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">杏子 「Just Today Vol.3」～KYOKO EXPO～</title>
-  </programme>
-  <programme start="20261127223000 +0900" stop="20261128000000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">相川七瀬 ３０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ ～ＭＯＯＮ ＤＡＮＣＥ～</title>
-  </programme>
-  <programme start="20261128000000 +0900" stop="20261128005000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[SS]ＧＣＨＱ：英国サイバー諜報局 シーズン２ ＃４</title>
-  </programme>
-  <programme start="20261128005000 +0900" stop="20261128025000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]失楽園</title>
-  </programme>
-  <programme start="20261128025000 +0900" stop="20261128034500 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ビヨンセ：Ｓｏｕｎｄ ｏｆ Ｃｈａｎｇｅ【厳選プレミアムライブ－洋楽－】</title>
-  </programme>
-  <programme start="20261128034500 +0900" stop="20261128060000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">元ちとせ ２０ｔｈ Ａｎｎｉｖｅｒｓａｒｙ Ｓｐｅｃｉａｌ Ｌｉｖｅ</title>
-  </programme>
-  <programme start="20261128060000 +0900" stop="20261128080000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[映]勝利への脱出【モーニングシアター】</title>
-  </programme>
-  <programme start="20261128080000 +0900" stop="20261128085000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第２９話</title>
-  </programme>
-  <programme start="20261128085000 +0900" stop="20261128100000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">あぶない刑事 第３０話</title>
-  </programme>
-  <programme start="20261128100000 +0900" stop="20261128120000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">ザ・ゴールデンステージ第12弾 熱唱！新世代ファイブスタースペシャル</title>
-  </programme>
-  <programme start="20261128120000 +0900" stop="20261128123000 +0900" channel="BS10プレミアム_jp">
-    <title lang="ja">[無]★無料★ＢＳ１０プレミアム番組紹介</title>
-  </programme>
   <programme start="20261128123000 +0900" stop="20261128143000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">[映]あぶない刑事リターンズ</title>
   </programme>
@@ -69,5 +21,44 @@
   </programme>
   <programme start="20261128220000 +0900" stop="20261129010000 +0900" channel="BS10プレミアム_jp">
     <title lang="ja">スキマスイッチ TOUR 2026 “POPMAN’S CARNIVAL vol.3”</title>
+  </programme>
+  <programme start="20261129010000 +0900" stop="20261129033000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]THE MUMMY／ザ・マミー 棺の中の少女【新作映画TV初放送！】</title>
+  </programme>
+  <programme start="20261129033000 +0900" stop="20261129060000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]罪人たち</title>
+  </programme>
+  <programme start="20261129060000 +0900" stop="20261129080000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ザ・ゴールデンステージ第１１弾天童よしみ【BS10プレミアム独占ライブ】</title>
+  </programme>
+  <programme start="20261129080000 +0900" stop="20261129085000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第３１話</title>
+  </programme>
+  <programme start="20261129085000 +0900" stop="20261129100000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">あぶない刑事 第３２話</title>
+  </programme>
+  <programme start="20261129100000 +0900" stop="20261129113000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★エルヴィス・プレスリー：’６８カムバック・スペシャル</title>
+  </programme>
+  <programme start="20261129113000 +0900" stop="20261129120000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[無]★無料★ＢＳ１０プレミアム番組紹介</title>
+  </programme>
+  <programme start="20261129120000 +0900" stop="20261129141500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]翔べイカロスの翼</title>
+  </programme>
+  <programme start="20261129141500 +0900" stop="20261129165500 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">さだまさし 東大寺コンサート2010【長期特集 いつもさだまさし】</title>
+  </programme>
+  <programme start="20261129165500 +0900" stop="20261129170000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">ＢＳ１０プレミアム番組紹介</title>
+  </programme>
+  <programme start="20261129170000 +0900" stop="20261129200000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">独占生中継！絢香 20th ANNIVERSARY LIVE TOUR</title>
+  </programme>
+  <programme start="20261129200000 +0900" stop="20261129232000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映][SS]ライトスタッフ［完全版］【プレミアムシアター８】</title>
+  </programme>
+  <programme start="20261129232000 +0900" stop="20261130013000 +0900" channel="BS10プレミアム_jp">
+    <title lang="ja">[映]コンスタンティン（２００５）[吹]</title>
   </programme>
 </tv>

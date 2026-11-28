@@ -4,7 +4,7 @@
 - missing channel IDs: 0
 - extra channel IDs: 0
 - metadata mismatches: 0
-- candidate programmes: 50
+- candidate programmes: 52
 - reference programmes in candidate window: 0
 - exact channel/start/stop/title matches: 0
 - exact channel/start/stop matches: 0
